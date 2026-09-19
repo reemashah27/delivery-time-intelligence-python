@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,City,Category,Distance_KM,Traffic_Level,Weather,Delivery_Partner,Order_Value,Preparation_Time,Expected_Delivery_Time,Actual_Delivery_Time,Delivery_Status,Delay_Minutes,Day_of_Week,Month
+10001,2025-01-01,Hyderabad,Clothing,15.87,Medium,Rainy,Partner D,3395.77,15,66.74,89.74,Delayed,23.0,Wednesday,January
+10002,2025-01-02,Pune,Beauty,9.85,High,Clear,Partner B,1573.88,16,55.7,78.7,Delayed,23.0,Thursday,January
+10003,2025-01-03,Bangalore,Grocery,7.17,Low,Rainy,Partner B,2408.49,17,51.34,63.34,Delayed,12.0,Friday,January
+10004,2025-01-04,Pune,Home & Kitchen,1.96,High,Clear,Partner A,1128.55,8,31.92,61.92,Delayed,30.0,Saturday,January
+10005,2025-01-05,Pune,Beauty,9.81,Low,Rainy,Partner A,1209.79,11,50.620000000000005,72.62,Delayed,22.0,Sunday,January
+10006,2025-01-06,Mumbai,Grocery,19.94,Medium,Cloudy,Partner C,310.63,6,65.88,88.88,Delayed,23.0,Monday,January
+10007,2025-01-07,Bangalore,Grocery,28.21,Medium,Rainy,Partner C,4504.38,10,86.42,105.42,Delayed,19.0,Tuesday,January
+10008,2025-01-08,Bangalore,Electronics,26.26,High,Cloudy,Partner C,1211.39,10,82.52000000000001,114.52000000000001,Delayed,32.0,Wednesday,January
+10009,2025-01-09,Bangalore,Home & Kitchen,23.22,Medium,Clear,Partner C,1292.16,22,88.44,102.44,Delayed,14.0,Thursday,January
+10010,2025-01-10,Pune,Electronics,23.86,Low,Rainy,Partner A,1542.09,24,91.72,111.72,Delayed,20.0,Friday,January
+10011,2025-01-11,Hyderabad,Clothing,20.28,Low,Clear,Partner A,811.56,12,72.56,70.56,On Time,-2.0,Saturday,January
+10012,2025-01-12,Bangalore,Electronics,8.55,High,Clear,Partner A,3268.46,12,49.1,73.1,Delayed,23.999999999999993,Sunday,January
+10013,2025-01-13,Chennai,Electronics,27.31,Medium,Cloudy,Partner B,560.69,12,86.62,98.62,Delayed,12.0,Monday,January
+10014,2025-01-14,Pune,Beauty,20.45,High,Cloudy,Partner B,844.17,12,72.9,104.9,Delayed,32.0,Tuesday,January
+10015,2025-01-15,Mumbai,Grocery,17.25,Low,Rainy,Partner C,3294.83,5,59.5,77.5,Delayed,18.0,Wednesday,January
+10016,2025-01-16,Hyderabad,Home & Kitchen,4.22,Medium,Clear,Partner B,1830.37,6,34.44,50.44,Delayed,16.0,Thursday,January
+10017,2025-01-17,Chennai,Electronics,13.96,Low,Cloudy,Partner D,3598.15,16,63.92,61.92,On Time,-2.0,Friday,January
+10018,2025-01-18,Chennai,Home & Kitchen,14.35,High,Cloudy,Partner A,2875.64,19,67.7,89.7,Delayed,22.0,Saturday,January
+10019,2025-01-19,Mumbai,Electronics,26.07,Medium,Clear,Partner C,1428.9,8,80.14,85.14,Delayed,5.0,Sunday,January
+10020,2025-01-20,Hyderabad,Clothing,16.85,High,Clear,Partner C,3323.97,29,82.7,105.7,Delayed,23.0,Monday,January
+10021,2025-01-21,Pune,Electronics,12.03,Low,Clear,Partner D,758.11,7,51.06,61.06,Delayed,10.0,Tuesday,January
+10022,2025-01-22,Delhi,Beauty,29.33,Medium,Clear,Partner B,2774.77,18,96.66,107.66,Delayed,11.0,Wednesday,January
+10023,2025-01-23,Hyderabad,Grocery,4.21,Medium,Rainy,Partner C,2298.31,26,54.42,73.42,Delayed,19.0,Thursday,January
+10024,2025-01-24,Mumbai,Clothing,13.25,Medium,Cloudy,Partner B,1485.79,27,73.5,89.5,Delayed,16.0,Friday,January
+10025,2025-01-25,Chennai,Electronics,2.22,High,Cloudy,Partner B,3099.22,12,36.44,55.44,Delayed,19.0,Saturday,January
+10026,2025-01-26,Pune,Home & Kitchen,22.46,High,Rainy,Partner D,4382.4,17,81.92,119.92,Delayed,38.0,Sunday,January
+10027,2025-01-27,Hyderabad,Clothing,27.62,High,Clear,Partner C,4994.74,27,102.24000000000001,123.24000000000001,Delayed,21.0,Monday,January
+10028,2025-01-28,Delhi,Clothing,9.12,Medium,Rainy,Partner B,3117.26,23,61.239999999999995,86.24,Delayed,25.0,Tuesday,January
+10029,2025-01-29,Delhi,Electronics,25.89,Low,Clear,Partner B,2142.59,26,97.78,97.78,On Time,0.0,Wednesday,January
+10030,2025-01-30,Bangalore,Clothing,9.47,Low,Rainy,Partner D,1280.99,9,47.94,63.94,Delayed,16.0,Thursday,January
+10031,2025-01-31,Bangalore,Home & Kitchen,27.41,High,Clear,Partner D,1434.06,17,91.82,110.82,Delayed,19.0,Friday,January
+10032,2025-02-01,Mumbai,Clothing,22.86,Low,Rainy,Partner B,2501.38,30,95.72,113.72,Delayed,18.0,Saturday,February
+10033,2025-02-02,Hyderabad,Home & Kitchen,24.34,Medium,Clear,Partner D,1962.93,24,92.68,103.68,Delayed,11.0,Sunday,February
+10034,2025-02-03,Hyderabad,Electronics,1.52,Medium,Clear,Partner B,4586.31,5,28.04,46.04,Delayed,18.0,Monday,February
+10035,2025-02-04,Chennai,Grocery,28.92,Medium,Cloudy,Partner C,1967.82,20,97.84,119.84,Delayed,22.0,Tuesday,February
+10036,2025-02-05,Chennai,Clothing,22.07,High,Clear,Partner A,1992.53,27,91.14,120.14,Delayed,29.0,Wednesday,February
+10037,2025-02-06,Chennai,Grocery,9.84,Medium,Cloudy,Partner D,2040.97,28,67.68,80.68,Delayed,13.0,Thursday,February
+10038,2025-02-07,Bangalore,Home & Kitchen,25.05,Medium,Clear,Partner A,4215.78,6,76.1,85.1,Delayed,9.0,Friday,February
+10039,2025-02-08,Hyderabad,Clothing,9.16,Low,Cloudy,Partner B,3323.78,11,49.32,60.32,Delayed,11.0,Saturday,February
+10040,2025-02-09,Hyderabad,Beauty,26.31,Medium,Clear,Partner B,3148.01,10,82.62,88.62,Delayed,6.0,Sunday,February
+10041,2025-02-10,Delhi,Grocery,4.26,Low,Clear,Partner B,1803.89,9,37.519999999999996,39.519999999999996,Delayed,2.0,Monday,February
+10042,2025-02-11,Bangalore,Clothing,21.41,Medium,Clear,Partner A,4125.94,8,70.82,89.82,Delayed,19.0,Tuesday,February
+10043,2025-02-12,Pune,Grocery,16.68,High,Clear,Partner B,384.15,6,59.36,86.36,Delayed,27.0,Wednesday,February
+10044,2025-02-13,Bangalore,Clothing,3.8,High,Clear,Partner D,4379.83,14,41.6,62.6,Delayed,21.0,Thursday,February
+10045,2025-02-14,Pune,Electronics,8.01,Low,Clear,Partner C,2661.2,26,62.019999999999996,62.019999999999996,On Time,0.0,Friday,February
+10046,2025-02-15,Delhi,Grocery,1.36,Medium,Clear,Partner C,2111.6,9,31.72,40.72,Delayed,9.0,Saturday,February
+10047,2025-02-16,Mumbai,Beauty,14.59,High,Clear,Partner D,2586.4,22,71.18,90.18,Delayed,19.0,Sunday,February
+10048,2025-02-17,Hyderabad,Beauty,9.74,Low,Cloudy,Partner C,3403.59,14,53.480000000000004,59.480000000000004,Delayed,6.0,Monday,February
+10049,2025-02-18,Delhi,Home & Kitchen,18.35,Low,Rainy,Partner A,261.27,27,83.7,90.7,Delayed,7.0,Tuesday,February
+10050,2025-02-19,Hyderabad,Clothing,9.62,Low,Clear,Partner B,4383.45,26,65.24,75.24,Delayed,10.0,Wednesday,February
+10051,2025-02-20,Chennai,Grocery,9.7,Medium,Cloudy,Partner B,2344.35,19,58.4,74.4,Delayed,16.000000000000007,Thursday,February
+10052,2025-02-21,Mumbai,Home & Kitchen,22.55,Low,Cloudy,Partner B,1846.24,13,78.1,81.1,Delayed,3.0,Friday,February
+10053,2025-02-22,Mumbai,Grocery,2.4,High,Clear,Partner A,863.58,15,39.8,57.8,Delayed,18.0,Saturday,February
+10054,2025-02-23,Delhi,Clothing,27.18,Medium,Cloudy,Partner A,2309.43,30,104.36,121.36,Delayed,17.0,Sunday,February
+10055,2025-02-24,Mumbai,Beauty,25.72,Medium,Clear,Partner A,2582.35,25,96.44,114.44,Delayed,18.0,Monday,February
+10056,2025-02-25,Pune,Electronics,20.37,Low,Cloudy,Partner D,2137.5,29,89.74000000000001,93.74000000000001,Delayed,4.0,Tuesday,February
+10057,2025-02-26,Mumbai,Beauty,18.2,Medium,Clear,Partner A,3457.57,29,85.4,98.4,Delayed,13.0,Wednesday,February
+10058,2025-02-27,Hyderabad,Home & Kitchen,26.88,Medium,Cloudy,Partner C,2220.3,21,94.75999999999999,106.75999999999999,Delayed,12.0,Thursday,February
+10059,2025-02-28,Hyderabad,Electronics,6.37,High,Cloudy,Partner D,4814.8,25,57.74,88.74000000000001,Delayed,31.000000000000007,Friday,February
+10060,2025-03-01,Hyderabad,Home & Kitchen,3.29,High,Clear,Partner D,3076.53,13,39.58,58.58,Delayed,19.0,Saturday,March
+10061,2025-03-02,Hyderabad,Clothing,7.95,Medium,Clear,Partner D,4075.89,27,62.9,74.9,Delayed,12.000000000000007,Sunday,March
+10062,2025-03-03,Pune,Electronics,24.04,High,Rainy,Partner A,724.91,20,88.08,121.08,Delayed,33.0,Monday,March
+10063,2025-03-04,Bangalore,Home & Kitchen,2.01,High,Clear,Partner D,2107.0,10,34.019999999999996,61.019999999999996,Delayed,27.0,Tuesday,March
+10064,2025-03-05,Chennai,Clothing,17.9,High,Cloudy,Partner A,1816.87,26,81.8,111.8,Delayed,30.0,Wednesday,March
+10065,2025-03-06,Delhi,Beauty,29.87,Low,Rainy,Partner A,2933.52,15,94.74000000000001,108.74000000000001,Delayed,14.0,Thursday,March
+10066,2025-03-07,Hyderabad,Clothing,25.82,Low,Cloudy,Partner D,4333.34,27,98.64,106.64,Delayed,8.0,Friday,March
+10067,2025-03-08,Mumbai,Grocery,16.12,Low,Cloudy,Partner B,576.02,21,73.24000000000001,82.24000000000001,Delayed,9.0,Saturday,March
+10068,2025-03-09,Hyderabad,Clothing,2.85,Medium,Cloudy,Partner B,548.36,8,33.7,50.7,Delayed,17.0,Sunday,March
+10069,2025-03-10,Mumbai,Clothing,25.11,Medium,Rainy,Partner D,4281.52,19,89.22,107.22,Delayed,18.0,Monday,March
+10070,2025-03-11,Chennai,Grocery,18.37,Medium,Clear,Partner B,1221.68,5,61.74,74.74000000000001,Delayed,13.000000000000007,Tuesday,March
+10071,2025-03-12,Chennai,Home & Kitchen,4.33,High,Clear,Partner C,3410.02,26,54.66,71.66,Delayed,17.0,Wednesday,March
+10072,2025-03-13,Chennai,Home & Kitchen,3.72,High,Clear,Partner C,2805.82,24,51.44,71.44,Delayed,20.0,Thursday,March
+10073,2025-03-14,Mumbai,Clothing,27.38,High,Rainy,Partner A,4197.89,5,79.75999999999999,121.75999999999999,Delayed,42.0,Friday,March
+10074,2025-03-15,Hyderabad,Grocery,20.41,Medium,Cloudy,Partner B,800.43,13,73.82,86.82,Delayed,13.0,Saturday,March
+10075,2025-03-16,Chennai,Grocery,25.05,Medium,Clear,Partner C,822.96,16,86.1,92.1,Delayed,6.0,Sunday,March
+10076,2025-03-17,Pune,Beauty,26.49,Low,Rainy,Partner D,2872.73,8,80.97999999999999,98.97999999999999,Delayed,18.0,Monday,March
+10077,2025-03-18,Mumbai,Home & Kitchen,17.58,Low,Clear,Partner B,4742.62,26,81.16,88.16,Delayed,7.0,Tuesday,March
+10078,2025-03-19,Mumbai,Electronics,16.01,Low,Clear,Partner C,2191.99,17,69.02000000000001,70.02000000000001,Delayed,1.0,Wednesday,March
+10079,2025-03-20,Hyderabad,Home & Kitchen,13.48,Medium,Cloudy,Partner C,1769.32,11,57.96,73.96000000000001,Delayed,16.000000000000007,Thursday,March
+10080,2025-03-21,Mumbai,Home & Kitchen,10.19,Medium,Clear,Partner D,3112.11,12,52.379999999999995,68.38,Delayed,16.0,Friday,March
+10081,2025-03-22,Mumbai,Beauty,13.6,High,Rainy,Partner A,4666.15,17,64.2,100.2,Delayed,36.0,Saturday,March
+10082,2025-03-23,Chennai,Electronics,23.44,Low,Clear,Partner D,4217.25,15,81.88,86.88,Delayed,5.0,Sunday,March
+10083,2025-03-24,Hyderabad,Beauty,18.46,Medium,Rainy,Partner A,4978.32,13,69.92,86.92,Delayed,17.0,Monday,March
+10084,2025-03-25,Chennai,Electronics,26.88,Medium,Cloudy,Partner C,308.33,29,102.75999999999999,117.75999999999999,Delayed,15.0,Tuesday,March
+10085,2025-03-26,Chennai,Clothing,13.86,Low,Clear,Partner A,741.72,28,75.72,71.72,On Time,-4.0,Wednesday,March
+10086,2025-03-27,Hyderabad,Electronics,18.61,Medium,Rainy,Partner C,3125.45,20,77.22,107.22,Delayed,30.0,Thursday,March
+10087,2025-03-28,Delhi,Beauty,19.31,Low,Cloudy,Partner C,4138.77,14,72.62,70.62,On Time,-2.0,Friday,March
+10088,2025-03-29,Chennai,Home & Kitchen,18.16,Medium,Clear,Partner B,1569.17,15,71.32,83.32,Delayed,12.0,Saturday,March
+10089,2025-03-30,Pune,Electronics,21.38,Medium,Clear,Partner A,1348.21,16,78.75999999999999,84.75999999999999,Delayed,6.0,Sunday,March
+10090,2025-03-31,Pune,Electronics,7.89,Low,Rainy,Partner A,3977.48,18,53.78,65.78,Delayed,12.0,Monday,March
+10091,2025-04-01,Mumbai,Grocery,15.86,Low,Clear,Partner A,470.63,23,74.72,83.72,Delayed,9.0,Tuesday,April
+10092,2025-04-02,Pune,Home & Kitchen,4.02,Medium,Clear,Partner D,1973.04,16,44.04,54.04,Delayed,10.0,Wednesday,April
+10093,2025-04-03,Mumbai,Clothing,12.15,High,Clear,Partner B,2627.88,22,66.3,85.3,Delayed,19.0,Thursday,April
+10094,2025-04-04,Delhi,Beauty,15.14,Medium,Clear,Partner B,2889.67,25,75.28,95.28,Delayed,20.0,Friday,April
+10095,2025-04-05,Hyderabad,Clothing,19.91,Medium,Cloudy,Partner B,3697.35,21,80.82,95.82,Delayed,15.0,Saturday,April
+10096,2025-04-06,Hyderabad,Home & Kitchen,28.57,Medium,Clear,Partner D,1903.26,7,84.14,91.14,Delayed,7.0,Sunday,April
+10097,2025-04-07,Hyderabad,Electronics,18.42,High,Clear,Partner A,3140.88,5,61.84,91.84,Delayed,30.0,Monday,April
+10098,2025-04-08,Pune,Electronics,22.56,High,Clear,Partner A,3009.8,23,88.12,115.12,Delayed,27.0,Tuesday,April
+10099,2025-04-09,Delhi,Home & Kitchen,15.68,Medium,Clear,Partner A,2828.56,8,59.36,73.36,Delayed,14.0,Wednesday,April
+10100,2025-04-10,Pune,Electronics,19.39,Medium,Rainy,Partner B,3274.32,27,85.78,116.78,Delayed,31.0,Thursday,April
+10101,2025-04-11,Pune,Electronics,3.06,High,Clear,Partner B,1445.36,20,46.120000000000005,64.12,Delayed,18.0,Friday,April
+10102,2025-04-12,Delhi,Electronics,8.38,Medium,Rainy,Partner C,606.31,16,52.760000000000005,75.76,Delayed,23.0,Saturday,April
+10103,2025-04-13,Delhi,Beauty,11.49,Medium,Clear,Partner D,772.5,25,67.98,86.98,Delayed,19.0,Sunday,April
+10104,2025-04-14,Delhi,Beauty,14.7,Low,Clear,Partner D,1278.0,25,74.4,84.4,Delayed,10.0,Monday,April
+10105,2025-04-15,Delhi,Grocery,2.32,High,Rainy,Partner B,2600.95,17,41.64,74.64,Delayed,33.0,Tuesday,April
+10106,2025-04-16,Hyderabad,Clothing,5.06,High,Clear,Partner C,4234.13,21,51.12,81.12,Delayed,30.000000000000007,Wednesday,April
+10107,2025-04-17,Bangalore,Home & Kitchen,9.03,Low,Cloudy,Partner A,3566.21,12,50.06,60.06,Delayed,10.0,Thursday,April
+10108,2025-04-18,Bangalore,Home & Kitchen,29.17,Medium,Rainy,Partner B,3987.39,17,95.34,123.34,Delayed,28.0,Friday,April
+10109,2025-04-19,Delhi,Home & Kitchen,10.61,Medium,Clear,Partner D,1884.68,24,65.22,83.22,Delayed,18.0,Saturday,April
+10110,2025-04-20,Bangalore,Grocery,14.98,Low,Clear,Partner D,2142.34,30,79.96000000000001,81.96000000000001,Delayed,2.0,Sunday,April
+10111,2025-04-21,Bangalore,Beauty,6.69,High,Cloudy,Partner D,2089.67,9,42.38,61.379999999999995,Delayed,18.999999999999993,Monday,April
+10112,2025-04-22,Delhi,Grocery,18.71,Low,Clear,Partner A,1120.99,22,79.42,84.42,Delayed,5.0,Tuesday,April
+10113,2025-04-23,Bangalore,Home & Kitchen,9.14,Low,Clear,Partner D,493.84,19,57.28,63.28,Delayed,6.0,Wednesday,April
+10114,2025-04-24,Pune,Clothing,7.0,Medium,Clear,Partner A,3036.4,16,50.0,56.0,Delayed,6.0,Thursday,April
+10115,2025-04-25,Mumbai,Electronics,15.98,Medium,Clear,Partner A,4948.24,21,72.96000000000001,92.96000000000001,Delayed,20.0,Friday,April
+10116,2025-04-26,Mumbai,Beauty,1.16,Low,Cloudy,Partner A,1000.78,29,51.32,52.32,Delayed,1.0,Saturday,April
+10117,2025-04-27,Delhi,Beauty,1.22,Medium,Clear,Partner B,424.09,19,41.44,61.44,Delayed,20.0,Sunday,April
+10118,2025-04-28,Hyderabad,Grocery,7.35,Medium,Clear,Partner A,3941.75,6,40.7,57.7,Delayed,17.0,Monday,April
+10119,2025-04-29,Delhi,Beauty,2.06,Low,Cloudy,Partner C,1412.41,10,34.120000000000005,41.120000000000005,Delayed,7.0,Tuesday,April
+10120,2025-04-30,Hyderabad,Home & Kitchen,4.13,Low,Clear,Partner D,4182.29,21,49.26,56.26,Delayed,7.0,Wednesday,April
+10121,2025-05-01,Mumbai,Home & Kitchen,10.83,Medium,Clear,Partner B,3578.9,20,61.66,74.66,Delayed,13.0,Thursday,May
+10122,2025-05-02,Delhi,Grocery,24.27,Low,Cloudy,Partner D,4739.23,21,89.53999999999999,96.53999999999999,Delayed,7.0,Friday,May
+10123,2025-05-03,Chennai,Home & Kitchen,17.59,High,Clear,Partner A,2162.85,29,84.18,110.18,Delayed,26.0,Saturday,May
+10124,2025-05-04,Pune,Clothing,15.87,High,Cloudy,Partner B,3377.46,24,75.74,101.74,Delayed,26.0,Sunday,May
+10125,2025-05-05,Bangalore,Grocery,9.51,High,Rainy,Partner C,2431.3,13,52.019999999999996,91.02,Delayed,39.0,Monday,May
+10126,2025-05-06,Hyderabad,Clothing,28.02,Low,Clear,Partner A,3226.83,9,85.03999999999999,92.03999999999999,Delayed,7.0,Tuesday,May
+10127,2025-05-07,Chennai,Electronics,12.51,High,Cloudy,Partner D,2358.07,27,72.02,93.02,Delayed,21.0,Wednesday,May
+10128,2025-05-08,Bangalore,Clothing,3.53,Medium,Clear,Partner C,1105.43,5,32.06,45.06,Delayed,13.0,Thursday,May
+10129,2025-05-09,Bangalore,Electronics,18.89,Medium,Clear,Partner A,2637.91,10,67.78,86.78,Delayed,19.0,Friday,May
+10130,2025-05-10,Delhi,Electronics,4.3,Low,Rainy,Partner C,2737.2,28,56.6,76.6,Delayed,19.999999999999993,Saturday,May
+10131,2025-05-11,Bangalore,Clothing,11.01,Low,Rainy,Partner A,4090.9,18,60.019999999999996,69.02,Delayed,9.0,Sunday,May
+10132,2025-05-12,Pune,Grocery,15.71,Medium,Clear,Partner B,3730.5,21,72.42,88.42,Delayed,16.0,Monday,May
+10133,2025-05-13,Chennai,Home & Kitchen,26.35,Medium,Cloudy,Partner A,3386.2,29,101.7,113.7,Delayed,12.0,Tuesday,May
+10134,2025-05-14,Bangalore,Home & Kitchen,15.31,Low,Rainy,Partner B,744.26,23,73.62,89.62,Delayed,16.0,Wednesday,May
+10135,2025-05-15,Delhi,Electronics,21.37,Medium,Rainy,Partner A,3658.96,5,67.74000000000001,92.74000000000001,Delayed,25.0,Thursday,May
+10136,2025-05-16,Pune,Electronics,29.79,Low,Cloudy,Partner A,2601.46,5,84.58,97.58,Delayed,13.0,Friday,May
+10137,2025-05-17,Mumbai,Grocery,4.81,Medium,Clear,Partner D,4491.68,17,46.62,56.62,Delayed,10.0,Saturday,May
+10138,2025-05-18,Chennai,Beauty,8.97,Medium,Clear,Partner C,4615.38,18,55.94,62.94,Delayed,7.0,Sunday,May
+10139,2025-05-19,Bangalore,Clothing,12.44,High,Rainy,Partner C,464.75,10,54.879999999999995,90.88,Delayed,36.0,Monday,May
+10140,2025-05-20,Delhi,Electronics,13.23,High,Clear,Partner C,4139.08,10,56.46,79.46000000000001,Delayed,23.000000000000007,Tuesday,May
+10141,2025-05-21,Mumbai,Home & Kitchen,12.92,Medium,Cloudy,Partner A,380.95,5,50.84,63.84,Delayed,13.0,Wednesday,May
+10142,2025-05-22,Mumbai,Grocery,27.32,Medium,Clear,Partner A,1962.41,18,92.64,100.64,Delayed,8.0,Thursday,May
+10143,2025-05-23,Hyderabad,Clothing,21.71,Medium,Clear,Partner A,2803.04,7,70.42,90.42,Delayed,20.0,Friday,May
+10144,2025-05-24,Pune,Grocery,18.63,High,Clear,Partner B,910.88,27,84.25999999999999,112.25999999999999,Delayed,28.0,Saturday,May
+10145,2025-05-25,Bangalore,Clothing,9.97,Medium,Rainy,Partner B,3782.31,14,53.94,73.94,Delayed,20.0,Sunday,May
+10146,2025-05-26,Delhi,Clothing,24.89,Low,Clear,Partner D,240.1,23,92.78,102.78,Delayed,10.0,Monday,May
+10147,2025-05-27,Hyderabad,Electronics,28.7,Low,Cloudy,Partner A,1009.28,23,100.4,105.4,Delayed,5.0,Tuesday,May
+10148,2025-05-28,Pune,Grocery,24.81,Medium,Clear,Partner C,2987.82,23,92.62,103.62,Delayed,11.0,Wednesday,May
+10149,2025-05-29,Hyderabad,Grocery,1.05,Medium,Clear,Partner C,3629.06,27,49.1,54.1,Delayed,5.0,Thursday,May
+10150,2025-05-30,Chennai,Home & Kitchen,19.46,High,Clear,Partner D,4599.89,8,66.92,96.92,Delayed,30.0,Friday,May
+10151,2025-05-31,Pune,Home & Kitchen,2.48,Low,Cloudy,Partner C,3586.38,24,48.96,51.96,Delayed,3.0,Saturday,May
+10152,2025-06-01,Pune,Electronics,8.47,Medium,Clear,Partner D,3424.54,23,59.94,71.94,Delayed,12.0,Sunday,June
+10153,2025-06-02,Bangalore,Electronics,2.73,High,Clear,Partner A,2092.84,14,39.46,56.46,Delayed,17.0,Monday,June
+10154,2025-06-03,Pune,Beauty,18.51,High,Clear,Partner C,206.17,29,86.02000000000001,114.02000000000001,Delayed,28.0,Tuesday,June
+10155,2025-06-04,Hyderabad,Home & Kitchen,20.91,Medium,Clear,Partner A,776.76,6,67.82,80.82,Delayed,13.0,Wednesday,June
+10156,2025-06-05,Pune,Clothing,4.32,Medium,Rainy,Partner B,2765.86,8,36.64,62.64,Delayed,26.0,Thursday,June
+10157,2025-06-06,Bangalore,Grocery,12.13,Medium,Rainy,Partner C,3440.62,28,72.26,90.26,Delayed,18.0,Friday,June
+10158,2025-06-07,Bangalore,Electronics,14.23,High,Clear,Partner B,2203.75,10,58.46,86.46000000000001,Delayed,28.000000000000007,Saturday,June
+10159,2025-06-08,Chennai,Grocery,11.7,Low,Cloudy,Partner C,3707.26,11,54.4,57.4,Delayed,3.0,Sunday,June
+10160,2025-06-09,Hyderabad,Grocery,4.51,High,Rainy,Partner A,2704.94,20,49.019999999999996,87.02,Delayed,38.0,Monday,June
+10161,2025-06-10,Mumbai,Beauty,13.15,Medium,Clear,Partner D,556.05,11,57.3,62.3,Delayed,5.0,Tuesday,June
+10162,2025-06-11,Mumbai,Home & Kitchen,22.78,Medium,Rainy,Partner A,1121.68,22,87.56,115.56,Delayed,28.0,Wednesday,June
+10163,2025-06-12,Pune,Electronics,3.06,Low,Rainy,Partner A,4231.99,24,50.120000000000005,67.12,Delayed,17.0,Thursday,June
+10164,2025-06-13,Chennai,Grocery,3.33,Medium,Clear,Partner A,3679.58,30,56.66,75.66,Delayed,19.0,Friday,June
+10165,2025-06-14,Delhi,Electronics,11.29,Medium,Clear,Partner C,4494.86,30,72.58,78.58,Delayed,6.0,Saturday,June
+10166,2025-06-15,Pune,Clothing,28.31,Low,Rainy,Partner D,764.27,26,102.62,124.62,Delayed,22.0,Sunday,June
+10167,2025-06-16,Chennai,Beauty,20.39,Medium,Cloudy,Partner B,4953.07,23,83.78,106.78,Delayed,23.0,Monday,June
+10168,2025-06-17,Hyderabad,Clothing,20.68,High,Clear,Partner A,1205.15,13,74.36,101.36,Delayed,27.0,Tuesday,June
+10169,2025-06-18,Hyderabad,Electronics,11.5,Medium,Clear,Partner C,256.54,24,67.0,76.0,Delayed,9.0,Wednesday,June
+10170,2025-06-19,Hyderabad,Electronics,18.22,Medium,Clear,Partner B,4987.63,14,70.44,75.44,Delayed,5.0,Thursday,June
+10171,2025-06-20,Hyderabad,Home & Kitchen,1.29,Low,Cloudy,Partner A,1549.15,17,39.58,44.58,Delayed,5.0,Friday,June
+10172,2025-06-21,Hyderabad,Grocery,19.45,Medium,Cloudy,Partner B,3406.49,22,80.9,88.9,Delayed,8.0,Saturday,June
+10173,2025-06-22,Chennai,Grocery,27.49,Low,Rainy,Partner A,1048.08,20,94.97999999999999,113.97999999999999,Delayed,19.0,Sunday,June
+10174,2025-06-23,Chennai,Clothing,18.76,Medium,Clear,Partner B,2985.1,26,83.52000000000001,96.52000000000001,Delayed,13.0,Monday,June
+10175,2025-06-24,Bangalore,Beauty,26.34,High,Cloudy,Partner B,4539.37,21,93.68,120.68,Delayed,27.0,Tuesday,June
+10176,2025-06-25,Mumbai,Grocery,22.0,Medium,Cloudy,Partner D,1736.87,26,90.0,108.0,Delayed,18.0,Wednesday,June
+10177,2025-06-26,Hyderabad,Home & Kitchen,4.5,Low,Clear,Partner D,3417.22,17,46.0,43.0,On Time,-3.0,Thursday,June
+10178,2025-06-27,Delhi,Clothing,27.17,Medium,Clear,Partner A,1101.94,16,90.34,110.34,Delayed,20.0,Friday,June
+10179,2025-06-28,Chennai,Clothing,2.93,Medium,Rainy,Partner C,3199.02,14,39.86,67.86,Delayed,28.0,Saturday,June
+10180,2025-06-29,Delhi,Home & Kitchen,16.49,Medium,Rainy,Partner D,1814.96,5,57.98,75.97999999999999,Delayed,17.999999999999993,Sunday,June
+10181,2025-06-30,Delhi,Beauty,5.12,High,Clear,Partner B,1213.8,12,42.24,71.24000000000001,Delayed,29.000000000000007,Monday,June
+10182,2025-07-01,Delhi,Home & Kitchen,1.34,High,Cloudy,Partner D,1703.27,25,47.68,65.68,Delayed,18.000000000000007,Tuesday,July
+10183,2025-07-02,Bangalore,Beauty,13.24,Medium,Clear,Partner D,1058.44,26,72.48,85.48,Delayed,13.0,Wednesday,July
+10184,2025-07-03,Chennai,Home & Kitchen,9.56,Medium,Cloudy,Partner A,4529.2,22,61.120000000000005,84.12,Delayed,23.0,Thursday,July
+10185,2025-07-04,Delhi,Home & Kitchen,15.09,Low,Cloudy,Partner D,2106.5,6,56.18,68.18,Delayed,12.000000000000007,Friday,July
+10186,2025-07-05,Hyderabad,Electronics,17.74,Low,Cloudy,Partner D,1377.34,20,75.47999999999999,76.47999999999999,Delayed,1.0,Saturday,July
+10187,2025-07-06,Pune,Clothing,2.27,Medium,Rainy,Partner B,2352.36,16,40.54,68.53999999999999,Delayed,27.999999999999993,Sunday,July
+10188,2025-07-07,Delhi,Home & Kitchen,4.57,Medium,Cloudy,Partner D,1738.57,13,42.14,50.14,Delayed,8.0,Monday,July
+10189,2025-07-08,Bangalore,Home & Kitchen,17.2,Medium,Clear,Partner B,3773.21,7,61.4,66.4,Delayed,5.000000000000007,Tuesday,July
+10190,2025-07-09,Chennai,Grocery,10.95,Medium,Cloudy,Partner D,4861.86,26,67.9,81.9,Delayed,14.0,Wednesday,July
+10191,2025-07-10,Bangalore,Clothing,22.15,Low,Clear,Partner D,2302.56,30,94.3,104.3,Delayed,10.0,Thursday,July
+10192,2025-07-11,Delhi,Grocery,19.92,Medium,Clear,Partner C,4332.96,25,84.84,90.84,Delayed,6.0,Friday,July
+10193,2025-07-12,Chennai,Clothing,25.52,Low,Clear,Partner D,2916.14,8,79.03999999999999,80.03999999999999,Delayed,1.0,Saturday,July
+10194,2025-07-13,Pune,Grocery,21.08,Low,Clear,Partner B,954.73,30,92.16,98.16,Delayed,6.0,Sunday,July
+10195,2025-07-14,Delhi,Home & Kitchen,13.47,High,Cloudy,Partner B,3514.99,6,52.94,84.94,Delayed,32.0,Monday,July
+10196,2025-07-15,Bangalore,Home & Kitchen,20.52,Low,Clear,Partner A,2664.49,12,73.03999999999999,74.03999999999999,Delayed,1.0,Tuesday,July
+10197,2025-07-16,Mumbai,Electronics,8.99,Medium,Cloudy,Partner A,3322.91,14,51.980000000000004,73.98,Delayed,22.0,Wednesday,July
+10198,2025-07-17,Hyderabad,Grocery,9.88,Low,Cloudy,Partner C,4470.5,20,59.760000000000005,66.76,Delayed,7.0,Thursday,July
+10199,2025-07-18,Bangalore,Beauty,23.88,High,Clear,Partner B,2314.09,27,94.75999999999999,122.75999999999999,Delayed,28.0,Friday,July
+10200,2025-07-19,Chennai,Electronics,13.95,Medium,Rainy,Partner B,4525.65,15,62.9,87.9,Delayed,25.000000000000007,Saturday,July
+10201,2025-07-20,Delhi,Grocery,24.15,Low,Clear,Partner B,3803.21,22,90.3,97.3,Delayed,7.0,Sunday,July
+10202,2025-07-21,Hyderabad,Grocery,24.85,Medium,Clear,Partner C,2545.3,26,95.7,115.7,Delayed,20.0,Monday,July
+10203,2025-07-22,Delhi,Electronics,25.87,Medium,Cloudy,Partner B,3095.47,18,89.74000000000001,103.74000000000001,Delayed,14.0,Tuesday,July
+10204,2025-07-23,Chennai,Home & Kitchen,27.58,High,Clear,Partner A,1762.79,12,87.16,117.16,Delayed,30.0,Wednesday,July
+10205,2025-07-24,Delhi,Grocery,13.5,Low,Clear,Partner C,4921.27,27,74.0,81.0,Delayed,7.0,Thursday,July
+10206,2025-07-25,Mumbai,Home & Kitchen,10.25,High,Cloudy,Partner A,3403.29,19,59.5,90.5,Delayed,31.0,Friday,July
+10207,2025-07-26,Hyderabad,Electronics,17.88,High,Cloudy,Partner A,410.46,21,76.75999999999999,94.75999999999999,Delayed,18.0,Saturday,July
+10208,2025-07-27,Hyderabad,Home & Kitchen,11.76,High,Clear,Partner C,1767.79,25,68.52,94.52,Delayed,26.0,Sunday,July
+10209,2025-07-28,Chennai,Clothing,18.43,Medium,Rainy,Partner D,3191.91,22,78.86,107.86,Delayed,29.0,Monday,July
+10210,2025-07-29,Mumbai,Beauty,21.46,Medium,Cloudy,Partner D,470.4,10,72.92,95.92,Delayed,23.0,Tuesday,July
+10211,2025-07-30,Bangalore,Grocery,20.96,Medium,Rainy,Partner A,314.64,27,88.92,112.92,Delayed,24.0,Wednesday,July
+10212,2025-07-31,Delhi,Beauty,11.86,High,Clear,Partner D,2360.12,18,61.72,83.72,Delayed,22.0,Thursday,July
+10213,2025-08-01,Pune,Home & Kitchen,5.84,Medium,Cloudy,Partner B,1796.91,27,58.68,69.68,Delayed,11.000000000000007,Friday,August
+10214,2025-08-02,Delhi,Grocery,13.49,Medium,Rainy,Partner C,2303.83,7,53.980000000000004,82.98,Delayed,29.0,Saturday,August
+10215,2025-08-03,Delhi,Home & Kitchen,5.14,Medium,Cloudy,Partner A,1460.93,11,41.28,56.28,Delayed,15.0,Sunday,August
+10216,2025-08-04,Bangalore,Clothing,26.81,Medium,Cloudy,Partner B,990.65,19,92.62,103.62,Delayed,11.0,Monday,August
+10217,2025-08-05,Delhi,Electronics,11.03,High,Clear,Partner D,3507.89,25,67.06,96.06,Delayed,29.0,Tuesday,August
+10218,2025-08-06,Mumbai,Grocery,5.48,Low,Clear,Partner B,2669.94,28,58.96,60.96,Delayed,2.0,Wednesday,August
+10219,2025-08-07,Mumbai,Clothing,1.74,High,Clear,Partner D,1160.74,20,43.480000000000004,62.480000000000004,Delayed,19.0,Thursday,August
+10220,2025-08-08,Hyderabad,Clothing,19.73,Medium,Clear,Partner A,1734.03,20,79.46000000000001,87.46000000000001,Delayed,8.0,Friday,August
+10221,2025-08-09,Chennai,Grocery,19.47,High,Rainy,Partner B,3040.68,12,70.94,102.94,Delayed,32.0,Saturday,August
+10222,2025-08-10,Pune,Home & Kitchen,10.88,Medium,Clear,Partner C,546.7,11,52.760000000000005,58.760000000000005,Delayed,6.0,Sunday,August
+10223,2025-08-11,Delhi,Clothing,3.08,Medium,Rainy,Partner A,907.77,10,36.16,64.16,Delayed,28.0,Monday,August
+10224,2025-08-12,Delhi,Beauty,12.88,High,Rainy,Partner B,551.58,6,51.760000000000005,79.76,Delayed,28.0,Tuesday,August
+10225,2025-08-13,Bangalore,Clothing,10.03,Low,Clear,Partner B,4099.12,26,66.06,62.06,On Time,-4.0,Wednesday,August
+10226,2025-08-14,Chennai,Home & Kitchen,20.64,High,Clear,Partner D,3811.56,17,78.28,101.28,Delayed,23.0,Thursday,August
+10227,2025-08-15,Mumbai,Home & Kitchen,18.57,Medium,Rainy,Partner A,3815.9,16,73.14,104.14,Delayed,31.0,Friday,August
+10228,2025-08-16,Pune,Beauty,11.57,Medium,Rainy,Partner A,3638.36,19,62.14,92.14,Delayed,30.0,Saturday,August
+10229,2025-08-17,Hyderabad,Clothing,7.32,Medium,Clear,Partner A,3413.05,13,47.64,61.64,Delayed,14.0,Sunday,August
+10230,2025-08-18,Mumbai,Home & Kitchen,29.65,Medium,Clear,Partner A,2489.56,6,85.3,92.3,Delayed,7.0,Monday,August
+10231,2025-08-19,Chennai,Grocery,14.17,Medium,Cloudy,Partner D,3282.94,21,69.34,91.34,Delayed,22.0,Tuesday,August
+10232,2025-08-20,Hyderabad,Electronics,20.96,Low,Cloudy,Partner C,384.14,9,70.92,77.92,Delayed,7.0,Wednesday,August
+10233,2025-08-21,Bangalore,Electronics,5.08,Low,Clear,Partner A,3183.03,15,45.16,43.16,On Time,-2.0,Thursday,August
+10234,2025-08-22,Bangalore,Electronics,15.08,Low,Cloudy,Partner D,3933.81,26,76.16,83.16,Delayed,7.0,Friday,August
+10235,2025-08-23,Delhi,Clothing,1.8,High,Clear,Partner C,2601.72,23,46.6,72.6,Delayed,25.999999999999993,Saturday,August
+10236,2025-08-24,Chennai,Beauty,15.66,High,Clear,Partner C,1916.06,28,79.32,101.32,Delayed,22.0,Sunday,August
+10237,2025-08-25,Pune,Home & Kitchen,28.96,Medium,Clear,Partner D,1531.65,11,88.92,96.92,Delayed,8.0,Monday,August
+10238,2025-08-26,Hyderabad,Grocery,12.14,Medium,Clear,Partner A,3285.45,6,50.28,65.28,Delayed,15.0,Tuesday,August
+10239,2025-08-27,Mumbai,Grocery,2.13,Medium,Clear,Partner C,3525.45,20,44.26,58.26,Delayed,14.0,Wednesday,August
+10240,2025-08-28,Chennai,Clothing,1.9,Medium,Clear,Partner A,4380.64,16,39.8,53.8,Delayed,14.0,Thursday,August
+10241,2025-08-29,Chennai,Electronics,12.25,High,Clear,Partner A,1843.2,27,71.5,98.5,Delayed,27.0,Friday,August
+10242,2025-08-30,Bangalore,Clothing,5.64,High,Clear,Partner B,3894.91,19,50.28,71.28,Delayed,21.0,Saturday,August
+10243,2025-08-31,Delhi,Beauty,1.68,Medium,Clear,Partner A,2894.51,5,28.36,37.36,Delayed,9.0,Sunday,August
+10244,2025-09-01,Delhi,Beauty,22.93,High,Rainy,Partner B,4437.62,29,94.86,129.86,Delayed,35.000000000000014,Monday,September
+10245,2025-09-02,Hyderabad,Home & Kitchen,14.3,Low,Clear,Partner C,2733.5,17,65.6,63.599999999999994,On Time,-2.0,Tuesday,September
+10246,2025-09-03,Bangalore,Home & Kitchen,9.39,High,Clear,Partner D,2684.62,27,65.78,82.78,Delayed,17.0,Wednesday,September
+10247,2025-09-04,Chennai,Beauty,27.1,Low,Cloudy,Partner B,2973.81,10,84.2,94.2,Delayed,10.0,Thursday,September
+10248,2025-09-05,Pune,Beauty,4.37,Medium,Rainy,Partner D,3796.71,17,45.74,63.74000000000001,Delayed,18.000000000000007,Friday,September
+10249,2025-09-06,Bangalore,Beauty,28.72,Medium,Clear,Partner C,4830.51,22,99.44,104.44,Delayed,5.0,Saturday,September
+10250,2025-09-07,Hyderabad,Clothing,10.11,Medium,Cloudy,Partner A,553.1,7,47.22,65.22,Delayed,18.0,Sunday,September
+10251,2025-09-08,Hyderabad,Beauty,26.76,Low,Cloudy,Partner C,456.49,5,78.52000000000001,81.52000000000001,Delayed,3.0,Monday,September
+10252,2025-09-09,Bangalore,Grocery,18.49,High,Cloudy,Partner D,4700.24,19,75.97999999999999,102.97999999999999,Delayed,27.0,Tuesday,September
+10253,2025-09-10,Hyderabad,Electronics,24.97,Low,Clear,Partner C,2743.4,30,99.94,95.94,On Time,-4.0,Wednesday,September
+10254,2025-09-11,Bangalore,Beauty,29.54,Medium,Cloudy,Partner A,3151.53,17,96.08,111.08,Delayed,15.0,Thursday,September
+10255,2025-09-12,Mumbai,Electronics,9.36,Low,Clear,Partner C,2515.63,9,47.72,47.72,On Time,0.0,Friday,September
+10256,2025-09-13,Bangalore,Clothing,28.87,Medium,Cloudy,Partner A,649.56,29,106.74000000000001,125.74000000000001,Delayed,19.0,Saturday,September
+10257,2025-09-14,Bangalore,Electronics,12.29,Medium,Cloudy,Partner B,3886.83,17,61.58,80.58,Delayed,19.0,Sunday,September
+10258,2025-09-15,Hyderabad,Clothing,12.18,Medium,Clear,Partner D,3786.68,26,70.36,79.36,Delayed,9.0,Monday,September
+10259,2025-09-16,Hyderabad,Grocery,10.87,Low,Rainy,Partner A,1696.18,9,50.739999999999995,69.74,Delayed,19.0,Tuesday,September
+10260,2025-09-17,Delhi,Clothing,16.7,Low,Clear,Partner A,1669.95,23,76.4,72.4,On Time,-4.0,Wednesday,September
+10261,2025-09-18,Delhi,Clothing,5.47,Medium,Rainy,Partner C,4221.64,25,55.94,78.94,Delayed,23.0,Thursday,September
+10262,2025-09-19,Mumbai,Home & Kitchen,17.06,High,Clear,Partner B,547.31,28,82.12,98.12,Delayed,16.0,Friday,September
+10263,2025-09-20,Delhi,Beauty,16.71,High,Clear,Partner A,4429.3,22,75.42,102.42,Delayed,27.0,Saturday,September
+10264,2025-09-21,Bangalore,Beauty,23.1,Low,Clear,Partner B,1431.98,25,91.2,99.2,Delayed,8.0,Sunday,September
+10265,2025-09-22,Hyderabad,Grocery,25.18,Medium,Rainy,Partner B,3046.33,26,96.36,117.36,Delayed,21.0,Monday,September
+10266,2025-09-23,Delhi,Grocery,13.77,Low,Clear,Partner C,4692.77,14,61.54,57.54,On Time,-4.0,Tuesday,September
+10267,2025-09-24,Delhi,Beauty,9.77,Low,Clear,Partner A,3454.99,28,67.53999999999999,72.53999999999999,Delayed,5.0,Wednesday,September
+10268,2025-09-25,Mumbai,Home & Kitchen,8.52,Medium,Clear,Partner C,2189.26,12,49.04,63.04,Delayed,14.0,Thursday,September
+10269,2025-09-26,Chennai,Beauty,6.64,Medium,Cloudy,Partner D,3509.76,19,52.28,70.28,Delayed,18.0,Friday,September
+10270,2025-09-27,Mumbai,Home & Kitchen,2.67,Low,Cloudy,Partner D,1851.1,25,50.34,58.34,Delayed,8.0,Saturday,September
+10271,2025-09-28,Bangalore,Grocery,10.93,Low,Clear,Partner A,1530.84,29,70.86,66.86,On Time,-4.0,Sunday,September
+10272,2025-09-29,Hyderabad,Electronics,8.84,Low,Clear,Partner B,4984.08,24,61.68,70.68,Delayed,9.000000000000007,Monday,September
+10273,2025-09-30,Mumbai,Grocery,29.03,High,Clear,Partner A,3803.79,29,107.06,128.06,Delayed,21.0,Tuesday,September
+10274,2025-10-01,Delhi,Grocery,17.17,High,Clear,Partner A,3294.66,27,81.34,104.34,Delayed,23.0,Wednesday,October
+10275,2025-10-02,Hyderabad,Clothing,11.07,Low,Clear,Partner D,1905.39,26,68.14,67.14,On Time,-1.0,Thursday,October
+10276,2025-10-03,Hyderabad,Clothing,17.83,Low,Cloudy,Partner D,435.97,8,63.66,67.66,Delayed,4.0,Friday,October
+10277,2025-10-04,Delhi,Clothing,5.04,High,Clear,Partner B,349.07,6,36.08,54.08,Delayed,18.0,Saturday,October
+10278,2025-10-05,Mumbai,Clothing,13.88,High,Clear,Partner B,2860.07,28,75.76,91.76,Delayed,16.0,Sunday,October
+10279,2025-10-06,Delhi,Home & Kitchen,19.16,Medium,Clear,Partner A,3857.76,10,68.32,75.32,Delayed,7.0,Monday,October
+10280,2025-10-07,Chennai,Beauty,15.18,Low,Rainy,Partner C,2779.42,7,57.36,65.36,Delayed,8.0,Tuesday,October
+10281,2025-10-08,Hyderabad,Electronics,12.65,Low,Rainy,Partner A,4235.77,11,56.3,67.3,Delayed,11.0,Wednesday,October
+10282,2025-10-09,Pune,Grocery,29.82,Medium,Rainy,Partner B,360.45,14,93.64,115.64,Delayed,22.0,Thursday,October
+10283,2025-10-10,Pune,Home & Kitchen,26.53,Medium,Clear,Partner C,1960.41,27,100.06,119.06,Delayed,19.0,Friday,October
+10284,2025-10-11,Bangalore,Electronics,19.08,Low,Clear,Partner D,1337.94,10,68.16,77.16,Delayed,9.0,Saturday,October
+10285,2025-10-12,Delhi,Home & Kitchen,17.51,Medium,Clear,Partner B,2346.91,20,75.02000000000001,86.02000000000001,Delayed,11.0,Sunday,October
+10286,2025-10-13,Delhi,Home & Kitchen,19.0,Low,Clear,Partner B,547.41,6,64.0,61.0,On Time,-3.0,Monday,October
+10287,2025-10-14,Bangalore,Grocery,6.84,High,Cloudy,Partner C,4779.83,28,61.68,82.68,Delayed,21.000000000000007,Tuesday,October
+10288,2025-10-15,Bangalore,Beauty,12.46,Medium,Cloudy,Partner B,1271.63,21,65.92,80.92,Delayed,15.0,Wednesday,October
+10289,2025-10-16,Bangalore,Clothing,2.14,Low,Rainy,Partner B,4627.08,17,41.28,51.28,Delayed,10.0,Thursday,October
+10290,2025-10-17,Hyderabad,Beauty,14.79,Medium,Rainy,Partner B,2244.29,5,54.58,77.58,Delayed,23.0,Friday,October
+10291,2025-10-18,Chennai,Grocery,16.75,Medium,Clear,Partner B,4930.52,10,63.5,79.5,Delayed,16.0,Saturday,October
+10292,2025-10-19,Delhi,Grocery,7.6,High,Cloudy,Partner B,2859.48,9,44.2,67.2,Delayed,23.0,Sunday,October
+10293,2025-10-20,Hyderabad,Grocery,28.96,Medium,Clear,Partner B,4668.0,29,106.92,117.92,Delayed,11.0,Monday,October
+10294,2025-10-21,Bangalore,Electronics,27.37,Low,Clear,Partner B,225.68,17,91.74000000000001,86.74000000000001,On Time,-5.0,Tuesday,October
+10295,2025-10-22,Delhi,Beauty,21.94,Medium,Cloudy,Partner B,3791.55,27,90.88,100.88,Delayed,10.0,Wednesday,October
+10296,2025-10-23,Hyderabad,Beauty,16.47,Low,Clear,Partner D,4534.64,22,74.94,74.94,On Time,0.0,Thursday,October
+10297,2025-10-24,Chennai,Home & Kitchen,26.23,High,Clear,Partner B,870.66,16,88.46000000000001,118.46000000000001,Delayed,30.0,Friday,October
+10298,2025-10-25,Hyderabad,Home & Kitchen,4.79,Medium,Clear,Partner D,661.4,11,40.58,47.58,Delayed,7.0,Saturday,October
+10299,2025-10-26,Chennai,Home & Kitchen,23.92,Medium,Cloudy,Partner D,2237.95,19,86.84,109.84,Delayed,23.0,Sunday,October
+10300,2025-10-27,Bangalore,Grocery,4.62,Low,Cloudy,Partner A,4681.66,7,36.24,48.24,Delayed,12.0,Monday,October
+10301,2025-10-28,Chennai,Beauty,24.03,Medium,Clear,Partner A,2803.46,20,88.06,106.06,Delayed,18.0,Tuesday,October
+10302,2025-10-29,Delhi,Grocery,9.0,High,Rainy,Partner D,2731.79,5,43.0,84.0,Delayed,41.0,Wednesday,October
+10303,2025-10-30,Bangalore,Electronics,26.44,High,Clear,Partner D,877.41,20,92.88,122.88,Delayed,30.0,Thursday,October
+10304,2025-10-31,Delhi,Home & Kitchen,28.38,Low,Clear,Partner B,203.79,28,104.75999999999999,114.75999999999999,Delayed,10.0,Friday,October
+10305,2025-11-01,Pune,Grocery,5.32,Low,Cloudy,Partner A,4088.67,16,46.64,57.64,Delayed,11.0,Saturday,November
+10306,2025-11-02,Mumbai,Grocery,14.42,High,Cloudy,Partner C,620.36,23,71.84,95.84,Delayed,24.0,Sunday,November
+10307,2025-11-03,Chennai,Electronics,29.45,High,Rainy,Partner A,3242.48,12,90.9,125.9,Delayed,35.0,Monday,November
+10308,2025-11-04,Mumbai,Clothing,15.02,Low,Clear,Partner D,4590.16,27,77.03999999999999,74.03999999999999,On Time,-3.0,Tuesday,November
+10309,2025-11-05,Mumbai,Beauty,26.04,Medium,Cloudy,Partner D,1201.53,16,88.08,109.08,Delayed,21.0,Wednesday,November
+10310,2025-11-06,Chennai,Clothing,18.07,Medium,Cloudy,Partner B,3393.31,19,75.14,83.14,Delayed,8.0,Thursday,November
+10311,2025-11-07,Bangalore,Home & Kitchen,11.88,High,Rainy,Partner B,577.75,6,49.760000000000005,85.76,Delayed,36.0,Friday,November
+10312,2025-11-08,Pune,Grocery,9.29,Low,Clear,Partner A,3098.02,21,59.58,68.58,Delayed,9.0,Saturday,November
+10313,2025-11-09,Delhi,Electronics,6.89,Low,Cloudy,Partner B,986.87,11,44.78,54.78,Delayed,10.0,Sunday,November
+10314,2025-11-10,Hyderabad,Electronics,23.09,High,Cloudy,Partner C,3732.58,17,83.18,106.18,Delayed,23.0,Monday,November
+10315,2025-11-11,Delhi,Beauty,12.21,Low,Clear,Partner C,1645.91,5,49.42,55.42,Delayed,6.0,Tuesday,November
+10316,2025-11-12,Hyderabad,Clothing,15.83,Medium,Clear,Partner B,2424.28,10,61.66,66.66,Delayed,5.0,Wednesday,November
+10317,2025-11-13,Delhi,Beauty,15.28,Medium,Clear,Partner C,3077.27,17,67.56,72.56,Delayed,5.0,Thursday,November
+10318,2025-11-14,Chennai,Grocery,17.74,Medium,Cloudy,Partner C,1022.11,15,70.47999999999999,91.47999999999999,Delayed,21.0,Friday,November
+10319,2025-11-15,Pune,Beauty,26.1,Medium,Rainy,Partner A,3759.86,14,86.2,110.2,Delayed,24.0,Saturday,November
+10320,2025-11-16,Hyderabad,Electronics,29.44,Medium,Cloudy,Partner C,1652.67,20,98.88,114.88,Delayed,16.0,Sunday,November
+10321,2025-11-17,Bangalore,Electronics,12.82,Low,Cloudy,Partner D,3379.38,30,75.64,74.64,On Time,-1.0,Monday,November
+10322,2025-11-18,Delhi,Home & Kitchen,25.0,Medium,Cloudy,Partner D,959.76,28,98.0,114.0,Delayed,16.0,Tuesday,November
+10323,2025-11-19,Delhi,Home & Kitchen,23.17,High,Clear,Partner A,3502.96,27,93.34,112.34,Delayed,19.0,Wednesday,November
+10324,2025-11-20,Hyderabad,Grocery,17.63,High,Clear,Partner B,815.3,24,79.25999999999999,106.25999999999999,Delayed,27.0,Thursday,November
+10325,2025-11-21,Bangalore,Clothing,28.73,Low,Clear,Partner A,2241.71,21,98.46000000000001,100.46000000000001,Delayed,2.0,Friday,November
+10326,2025-11-22,Bangalore,Beauty,6.81,Low,Clear,Partner B,1386.59,21,54.62,55.62,Delayed,1.0,Saturday,November
+10327,2025-11-23,Chennai,Grocery,4.17,Low,Clear,Partner B,3792.2,8,36.34,37.34,Delayed,1.0,Sunday,November
+10328,2025-11-24,Chennai,Home & Kitchen,25.76,Medium,Cloudy,Partner B,1457.77,9,80.52000000000001,103.52000000000001,Delayed,23.0,Monday,November
+10329,2025-11-25,Chennai,Beauty,13.74,Medium,Clear,Partner B,4432.24,27,74.48,82.48,Delayed,8.0,Tuesday,November
+10330,2025-11-26,Chennai,Home & Kitchen,25.56,Medium,Clear,Partner B,4480.74,18,89.12,95.12,Delayed,6.0,Wednesday,November
+10331,2025-11-27,Chennai,Beauty,26.9,Low,Clear,Partner A,1142.92,24,97.8,96.8,On Time,-1.0,Thursday,November
+10332,2025-11-28,Chennai,Clothing,2.81,Low,Clear,Partner B,3146.46,14,39.620000000000005,49.620000000000005,Delayed,10.0,Friday,November
+10333,2025-11-29,Pune,Grocery,26.62,Medium,Rainy,Partner C,621.04,18,91.24000000000001,121.24000000000001,Delayed,30.0,Saturday,November
+10334,2025-11-30,Bangalore,Beauty,14.0,Medium,Rainy,Partner C,2079.38,5,53.0,80.0,Delayed,27.0,Sunday,November
+10335,2025-12-01,Chennai,Electronics,15.8,Low,Cloudy,Partner B,3623.94,15,66.6,74.6,Delayed,8.0,Monday,December
+10336,2025-12-02,Bangalore,Electronics,19.17,Medium,Clear,Partner C,3365.23,30,88.34,95.34,Delayed,7.0,Tuesday,December
+10337,2025-12-03,Bangalore,Beauty,27.87,Low,Cloudy,Partner D,3198.56,27,102.74000000000001,114.74000000000001,Delayed,12.0,Wednesday,December
+10338,2025-12-04,Mumbai,Beauty,1.55,High,Rainy,Partner A,1556.2,22,45.1,85.1,Delayed,39.99999999999999,Thursday,December
+10339,2025-12-05,Pune,Beauty,14.83,High,Cloudy,Partner A,2014.52,20,69.66,95.66,Delayed,26.0,Friday,December
+10340,2025-12-06,Chennai,Electronics,20.94,Low,Clear,Partner B,694.14,22,83.88,83.88,On Time,0.0,Saturday,December
+10341,2025-12-07,Delhi,Electronics,21.96,Low,Cloudy,Partner B,3651.31,12,75.92,73.92,On Time,-2.0,Sunday,December
+10342,2025-12-08,Hyderabad,Beauty,21.08,Medium,Rainy,Partner D,2618.67,14,76.16,95.16,Delayed,19.0,Monday,December
+10343,2025-12-09,Delhi,Home & Kitchen,4.9,Low,Cloudy,Partner B,3602.08,30,59.8,68.8,Delayed,9.0,Tuesday,December
+10344,2025-12-10,Pune,Home & Kitchen,9.68,Medium,Cloudy,Partner C,1394.93,14,53.36,64.36,Delayed,11.0,Wednesday,December
+10345,2025-12-11,Hyderabad,Clothing,11.4,High,Clear,Partner D,1757.3,9,51.8,81.8,Delayed,30.0,Thursday,December
+10346,2025-12-12,Pune,Grocery,24.33,Medium,Cloudy,Partner C,1804.23,14,82.66,98.66,Delayed,16.0,Friday,December
+10347,2025-12-13,Bangalore,Home & Kitchen,9.08,High,Clear,Partner A,323.56,22,60.16,85.16,Delayed,25.0,Saturday,December
+10348,2025-12-14,Hyderabad,Electronics,7.11,Medium,Cloudy,Partner C,1837.03,25,59.22,72.22,Delayed,13.0,Sunday,December
+10349,2025-12-15,Bangalore,Home & Kitchen,28.77,Low,Clear,Partner A,4055.86,28,105.53999999999999,103.53999999999999,On Time,-2.0,Monday,December
+10350,2025-12-16,Delhi,Clothing,1.26,Medium,Clear,Partner C,4507.03,10,32.519999999999996,37.519999999999996,Delayed,5.0,Tuesday,December
+10351,2025-12-17,Delhi,Clothing,29.94,Medium,Clear,Partner A,2687.45,7,86.88,98.88,Delayed,12.0,Wednesday,December
+10352,2025-12-18,Hyderabad,Grocery,20.63,Medium,Cloudy,Partner B,2386.41,12,73.25999999999999,94.25999999999999,Delayed,21.0,Thursday,December
+10353,2025-12-19,Hyderabad,Home & Kitchen,25.03,Low,Clear,Partner C,347.96,13,83.06,88.06,Delayed,5.0,Friday,December
+10354,2025-12-20,Chennai,Electronics,9.54,Low,Cloudy,Partner A,4420.18,9,48.08,47.08,On Time,-1.0,Saturday,December
+10355,2025-12-21,Pune,Electronics,1.42,High,Cloudy,Partner C,262.45,6,28.84,56.84,Delayed,28.000000000000004,Sunday,December
+10356,2025-12-22,Chennai,Beauty,22.4,Low,Clear,Partner D,4734.8,6,70.8,79.8,Delayed,9.0,Monday,December
+10357,2025-12-23,Pune,Electronics,25.19,High,Clear,Partner B,2548.24,11,81.38,106.38,Delayed,25.0,Tuesday,December
+10358,2025-12-24,Chennai,Grocery,22.47,High,Clear,Partner A,1841.29,21,85.94,107.94,Delayed,22.0,Wednesday,December
+10359,2025-12-25,Bangalore,Grocery,5.14,High,Rainy,Partner D,4636.25,14,44.28,76.28,Delayed,32.0,Thursday,December
+10360,2025-12-26,Hyderabad,Electronics,22.85,Medium,Cloudy,Partner C,317.08,16,81.7,96.7,Delayed,15.0,Friday,December
+10361,2025-12-27,Delhi,Electronics,23.3,Medium,Clear,Partner D,2990.84,6,72.6,82.6,Delayed,10.0,Saturday,December
+10362,2025-12-28,Pune,Beauty,20.1,High,Clear,Partner C,2834.88,14,74.2,93.2,Delayed,19.0,Sunday,December
+10363,2025-12-29,Pune,Electronics,23.22,Low,Cloudy,Partner B,1252.74,24,90.44,92.44,Delayed,2.0,Monday,December
+10364,2025-12-30,Delhi,Beauty,25.53,Medium,Rainy,Partner D,2258.66,5,76.06,106.06,Delayed,30.0,Tuesday,December
+10365,2025-12-31,Chennai,Beauty,18.79,Medium,Rainy,Partner B,3330.87,8,65.58,95.58,Delayed,30.0,Wednesday,December
+10366,2026-01-01,Pune,Electronics,3.57,Medium,Cloudy,Partner A,3690.23,17,44.14,61.14,Delayed,17.0,Thursday,January
+10367,2026-01-02,Bangalore,Clothing,15.14,Medium,Clear,Partner C,203.44,16,66.28,80.28,Delayed,14.0,Friday,January
+10368,2026-01-03,Hyderabad,Clothing,3.25,Medium,Clear,Partner C,4696.9,15,41.5,56.5,Delayed,15.0,Saturday,January
+10369,2026-01-04,Delhi,Beauty,12.82,Medium,Clear,Partner B,989.72,14,59.64,71.64,Delayed,12.0,Sunday,January
+10370,2026-01-05,Hyderabad,Electronics,12.81,High,Clear,Partner B,1321.19,19,64.62,85.62,Delayed,21.0,Monday,January
+10371,2026-01-06,Pune,Clothing,2.91,Low,Clear,Partner A,1464.67,9,34.82,36.82,Delayed,2.0,Tuesday,January
+10372,2026-01-07,Pune,Electronics,11.12,High,Clear,Partner D,381.54,29,71.24,97.24,Delayed,26.0,Wednesday,January
+10373,2026-01-08,Delhi,Electronics,4.22,Medium,Clear,Partner C,790.65,21,49.44,61.44,Delayed,12.0,Thursday,January
+10374,2026-01-09,Bangalore,Electronics,24.44,High,Rainy,Partner C,4934.48,9,77.88,110.88,Delayed,33.0,Friday,January
+10375,2026-01-10,Mumbai,Home & Kitchen,28.48,Medium,Cloudy,Partner A,1713.04,6,82.96000000000001,91.96000000000001,Delayed,9.0,Saturday,January
+10376,2026-01-11,Delhi,Electronics,3.1,High,Rainy,Partner A,753.45,13,39.2,76.2,Delayed,37.0,Sunday,January
+10377,2026-01-12,Mumbai,Home & Kitchen,28.7,Low,Cloudy,Partner B,713.56,10,87.4,99.4,Delayed,12.0,Monday,January
+10378,2026-01-13,Chennai,Beauty,16.15,High,Clear,Partner B,3653.41,22,74.3,104.3,Delayed,30.0,Tuesday,January
+10379,2026-01-14,Mumbai,Clothing,9.69,Low,Cloudy,Partner D,4301.93,18,57.379999999999995,63.379999999999995,Delayed,6.0,Wednesday,January
+10380,2026-01-15,Bangalore,Clothing,3.23,High,Clear,Partner A,1433.37,23,49.46,76.46000000000001,Delayed,27.000000000000007,Thursday,January
+10381,2026-01-16,Chennai,Clothing,15.52,High,Cloudy,Partner D,300.37,18,69.03999999999999,93.03999999999999,Delayed,24.0,Friday,January
+10382,2026-01-17,Mumbai,Clothing,24.04,Low,Clear,Partner A,1270.83,12,80.08,86.08,Delayed,6.0,Saturday,January
+10383,2026-01-18,Chennai,Clothing,21.51,Low,Rainy,Partner C,471.28,21,84.02000000000001,101.02000000000001,Delayed,17.0,Sunday,January
+10384,2026-01-19,Mumbai,Clothing,2.46,High,Clear,Partner A,696.3,7,31.92,60.92,Delayed,29.0,Monday,January
+10385,2026-01-20,Bangalore,Clothing,3.11,Low,Clear,Partner A,2271.24,14,40.22,40.22,On Time,0.0,Tuesday,January
+10386,2026-01-21,Mumbai,Beauty,12.68,High,Rainy,Partner C,1303.61,21,66.36,108.36,Delayed,42.0,Wednesday,January
+10387,2026-01-22,Mumbai,Electronics,9.56,Low,Clear,Partner A,2676.54,15,54.120000000000005,57.120000000000005,Delayed,3.0,Thursday,January
+10388,2026-01-23,Mumbai,Grocery,7.74,Low,Cloudy,Partner D,1416.77,12,47.480000000000004,57.480000000000004,Delayed,10.0,Friday,January
+10389,2026-01-24,Delhi,Home & Kitchen,9.15,High,Cloudy,Partner B,4714.58,5,43.3,61.3,Delayed,18.0,Saturday,January
+10390,2026-01-25,Delhi,Grocery,24.3,Medium,Rainy,Partner B,4548.53,17,85.6,112.6,Delayed,27.0,Sunday,January
+10391,2026-01-26,Delhi,Grocery,27.95,High,Rainy,Partner D,2920.67,25,100.9,142.9,Delayed,42.0,Monday,January
+10392,2026-01-27,Bangalore,Electronics,12.75,Medium,Rainy,Partner C,1901.24,8,53.5,71.5,Delayed,18.0,Tuesday,January
+10393,2026-01-28,Chennai,Electronics,27.28,Medium,Clear,Partner A,2029.51,11,85.56,102.56,Delayed,17.0,Wednesday,January
+10394,2026-01-29,Pune,Electronics,10.32,Medium,Rainy,Partner D,2176.89,18,58.64,90.64,Delayed,32.0,Thursday,January
+10395,2026-01-30,Mumbai,Clothing,14.82,Medium,Cloudy,Partner B,3692.38,9,58.64,66.64,Delayed,8.0,Friday,January
+10396,2026-01-31,Mumbai,Beauty,7.55,Medium,Cloudy,Partner B,2367.87,28,63.1,80.1,Delayed,16.999999999999993,Saturday,January
+10397,2026-02-01,Bangalore,Clothing,19.57,Medium,Clear,Partner D,4312.3,15,74.14,90.14,Delayed,16.0,Sunday,February
+10398,2026-02-02,Mumbai,Beauty,29.39,Medium,Cloudy,Partner B,4731.65,21,99.78,109.78,Delayed,10.0,Monday,February
+10399,2026-02-03,Delhi,Beauty,18.5,Low,Rainy,Partner D,1812.54,9,66.0,83.0,Delayed,17.0,Tuesday,February
+10400,2026-02-04,Pune,Grocery,11.38,High,Rainy,Partner B,2891.33,24,66.76,97.76,Delayed,31.0,Wednesday,February
+10401,2026-02-05,Hyderabad,Grocery,19.79,Low,Clear,Partner D,656.27,7,66.58,61.58,On Time,-5.0,Thursday,February
+10402,2026-02-06,Mumbai,Beauty,4.56,Medium,Clear,Partner A,1162.25,9,38.12,46.12,Delayed,8.0,Friday,February
+10403,2026-02-07,Delhi,Beauty,26.77,Low,Clear,Partner A,2184.64,30,103.53999999999999,111.53999999999999,Delayed,8.0,Saturday,February
+10404,2026-02-08,Hyderabad,Clothing,15.59,Medium,Rainy,Partner A,1189.77,19,70.18,99.18,Delayed,29.0,Sunday,February
+10405,2026-02-09,Pune,Clothing,14.03,Medium,Cloudy,Partner A,4407.49,23,71.06,86.06,Delayed,15.0,Monday,February
+10406,2026-02-10,Hyderabad,Grocery,17.99,Low,Clear,Partner B,959.77,20,75.97999999999999,75.97999999999999,On Time,0.0,Tuesday,February
+10407,2026-02-11,Delhi,Electronics,19.12,Low,Clear,Partner C,2387.17,12,70.24000000000001,77.24000000000001,Delayed,7.0,Wednesday,February
+10408,2026-02-12,Chennai,Beauty,3.08,Low,Clear,Partner D,3107.36,17,43.16,38.16,On Time,-5.0,Thursday,February
+10409,2026-02-13,Chennai,Clothing,20.8,Medium,Clear,Partner C,3520.95,20,81.6,97.6,Delayed,16.0,Friday,February
+10410,2026-02-14,Hyderabad,Grocery,8.02,High,Rainy,Partner B,2038.73,7,43.04,70.03999999999999,Delayed,26.999999999999993,Saturday,February
+10411,2026-02-15,Bangalore,Clothing,21.7,Low,Cloudy,Partner B,4371.68,5,68.4,68.4,On Time,0.0,Sunday,February
+10412,2026-02-16,Hyderabad,Beauty,24.85,Medium,Clear,Partner C,2927.93,13,82.7,100.7,Delayed,18.0,Monday,February
+10413,2026-02-17,Mumbai,Beauty,24.31,Medium,Cloudy,Partner C,2309.64,13,81.62,98.62,Delayed,17.0,Tuesday,February
+10414,2026-02-18,Mumbai,Home & Kitchen,17.02,Medium,Clear,Partner B,522.76,26,80.03999999999999,99.03999999999999,Delayed,19.0,Wednesday,February
+10415,2026-02-19,Chennai,Electronics,16.08,High,Rainy,Partner B,2430.51,30,82.16,116.16,Delayed,34.0,Thursday,February
+10416,2026-02-20,Bangalore,Home & Kitchen,5.14,Medium,Clear,Partner D,4139.53,21,51.28,66.28,Delayed,15.0,Friday,February
+10417,2026-02-21,Delhi,Grocery,23.49,Medium,Clear,Partner A,3149.8,28,94.97999999999999,109.97999999999999,Delayed,15.0,Saturday,February
+10418,2026-02-22,Mumbai,Clothing,8.87,Low,Clear,Partner A,4194.38,6,43.739999999999995,51.739999999999995,Delayed,8.0,Sunday,February
+10419,2026-02-23,Chennai,Grocery,15.4,Low,Cloudy,Partner D,2571.26,13,63.8,68.8,Delayed,5.0,Monday,February
+10420,2026-02-24,Pune,Beauty,9.24,Low,Cloudy,Partner C,768.62,28,66.48,76.48,Delayed,10.0,Tuesday,February
+10421,2026-02-25,Chennai,Home & Kitchen,4.88,Low,Cloudy,Partner B,265.47,23,52.76,52.76,On Time,0.0,Wednesday,February
+10422,2026-02-26,Mumbai,Home & Kitchen,19.26,Medium,Clear,Partner C,1655.45,17,75.52000000000001,86.52000000000001,Delayed,11.0,Thursday,February
+10423,2026-02-27,Mumbai,Home & Kitchen,2.58,Medium,Clear,Partner A,3550.35,9,34.16,50.16,Delayed,16.0,Friday,February
+10424,2026-02-28,Chennai,Grocery,22.71,Medium,Clear,Partner A,3993.25,13,78.42,85.42,Delayed,7.0,Saturday,February
+10425,2026-03-01,Delhi,Beauty,10.21,Low,Cloudy,Partner C,1619.61,17,57.42,58.42,Delayed,1.0,Sunday,March
+10426,2026-03-02,Hyderabad,Clothing,1.0,Low,Clear,Partner A,2579.14,5,27.0,30.0,Delayed,3.0,Monday,March
+10427,2026-03-03,Mumbai,Clothing,15.82,Medium,Cloudy,Partner B,2221.37,29,80.64,103.64,Delayed,23.0,Tuesday,March
+10428,2026-03-04,Chennai,Grocery,2.36,High,Rainy,Partner D,2170.51,19,43.72,82.72,Delayed,39.0,Wednesday,March
+10429,2026-03-05,Chennai,Home & Kitchen,9.01,Low,Rainy,Partner C,1310.47,8,46.019999999999996,56.019999999999996,Delayed,10.0,Thursday,March
+10430,2026-03-06,Bangalore,Electronics,21.5,High,Clear,Partner B,854.58,8,71.0,88.0,Delayed,17.0,Friday,March
+10431,2026-03-07,Hyderabad,Grocery,2.82,Medium,Clear,Partner B,1144.11,24,49.64,58.64,Delayed,9.0,Saturday,March
+10432,2026-03-08,Pune,Grocery,25.34,Medium,Clear,Partner A,465.6,14,84.68,95.68,Delayed,11.0,Sunday,March
+10433,2026-03-09,Delhi,Beauty,1.11,Medium,Cloudy,Partner B,1151.03,29,51.22,63.22,Delayed,12.0,Monday,March
+10434,2026-03-10,Pune,Clothing,8.16,Low,Rainy,Partner C,244.16,10,46.32,56.32,Delayed,10.0,Tuesday,March
+10435,2026-03-11,Hyderabad,Grocery,22.49,Low,Clear,Partner B,3210.84,28,92.97999999999999,94.97999999999999,Delayed,2.0,Wednesday,March
+10436,2026-03-12,Hyderabad,Grocery,10.17,Medium,Clear,Partner D,1718.6,16,56.34,64.34,Delayed,8.0,Thursday,March
+10437,2026-03-13,Hyderabad,Home & Kitchen,3.95,Medium,Rainy,Partner B,4871.09,24,51.9,69.9,Delayed,18.000000000000007,Friday,March
+10438,2026-03-14,Pune,Home & Kitchen,11.45,High,Rainy,Partner B,1129.84,20,62.9,98.9,Delayed,36.00000000000001,Saturday,March
+10439,2026-03-15,Hyderabad,Electronics,8.84,Medium,Clear,Partner D,1859.98,7,44.68,61.68,Delayed,17.0,Sunday,March
+10440,2026-03-16,Chennai,Beauty,25.44,Low,Cloudy,Partner B,1917.64,18,88.88,99.88,Delayed,11.0,Monday,March
+10441,2026-03-17,Pune,Electronics,10.09,Medium,Clear,Partner B,240.57,5,45.18,65.18,Delayed,20.000000000000007,Tuesday,March
+10442,2026-03-18,Hyderabad,Home & Kitchen,23.88,Low,Clear,Partner A,4228.2,14,81.75999999999999,81.75999999999999,On Time,0.0,Wednesday,March
+10443,2026-03-19,Chennai,Clothing,26.86,Medium,Rainy,Partner C,353.57,19,92.72,110.72,Delayed,18.0,Thursday,March
+10444,2026-03-20,Bangalore,Home & Kitchen,13.58,Medium,Rainy,Partner A,4712.86,11,58.16,77.16,Delayed,19.0,Friday,March
+10445,2026-03-21,Hyderabad,Beauty,27.39,High,Cloudy,Partner C,4481.96,8,82.78,100.78,Delayed,18.0,Saturday,March
+10446,2026-03-22,Pune,Home & Kitchen,11.94,High,Clear,Partner D,2770.51,18,61.879999999999995,80.88,Delayed,19.0,Sunday,March
+10447,2026-03-23,Mumbai,Beauty,28.96,Medium,Rainy,Partner D,2809.26,28,105.92,130.92000000000002,Delayed,25.000000000000014,Monday,March
+10448,2026-03-24,Hyderabad,Beauty,3.59,Medium,Clear,Partner D,3338.13,20,47.18,53.18,Delayed,6.0,Tuesday,March
+10449,2026-03-25,Mumbai,Beauty,20.92,High,Clear,Partner C,2057.84,18,79.84,105.84,Delayed,26.0,Wednesday,March
+10450,2026-03-26,Chennai,Beauty,15.32,Low,Cloudy,Partner C,3306.67,7,57.64,61.64,Delayed,4.0,Thursday,March
+10451,2026-03-27,Bangalore,Beauty,12.24,Low,Clear,Partner C,414.89,21,65.48,64.48,On Time,-1.0,Friday,March
+10452,2026-03-28,Delhi,Clothing,19.35,Low,Cloudy,Partner D,459.43,25,83.7,82.7,On Time,-1.0,Saturday,March
+10453,2026-03-29,Bangalore,Electronics,21.41,Low,Cloudy,Partner C,2394.71,18,80.82,85.82,Delayed,5.0,Sunday,March
+10454,2026-03-30,Hyderabad,Grocery,1.13,Medium,Clear,Partner B,2838.19,22,44.26,59.26,Delayed,15.0,Monday,March
+10455,2026-03-31,Mumbai,Electronics,5.84,Medium,Clear,Partner A,4461.52,7,38.68,57.68,Delayed,19.0,Tuesday,March
+10456,2026-04-01,Mumbai,Beauty,21.68,Medium,Clear,Partner D,702.37,26,89.36,106.36,Delayed,17.0,Wednesday,April
+10457,2026-04-02,Pune,Clothing,20.33,Low,Clear,Partner A,4148.71,23,83.66,90.66,Delayed,7.0,Thursday,April
+10458,2026-04-03,Mumbai,Home & Kitchen,29.02,Medium,Cloudy,Partner B,1208.23,7,85.03999999999999,108.03999999999999,Delayed,23.0,Friday,April
+10459,2026-04-04,Pune,Clothing,23.07,Medium,Rainy,Partner C,2091.6,16,82.14,104.14,Delayed,22.0,Saturday,April
+10460,2026-04-05,Chennai,Beauty,28.57,Medium,Clear,Partner A,1719.69,26,103.14,111.14,Delayed,8.0,Sunday,April
+10461,2026-04-06,Delhi,Clothing,21.37,Medium,Clear,Partner B,2120.75,9,71.74000000000001,88.74000000000001,Delayed,17.0,Monday,April
+10462,2026-04-07,Hyderabad,Clothing,9.64,Medium,Cloudy,Partner B,922.38,14,53.28,64.28,Delayed,11.0,Tuesday,April
+10463,2026-04-08,Pune,Beauty,4.06,Low,Rainy,Partner A,2617.14,13,41.12,49.12,Delayed,8.0,Wednesday,April
+10464,2026-04-09,Delhi,Clothing,23.67,Low,Clear,Partner D,4047.88,5,72.34,69.34,On Time,-3.0,Thursday,April
+10465,2026-04-10,Mumbai,Grocery,19.68,High,Clear,Partner A,2319.36,17,76.36,105.36,Delayed,29.0,Friday,April
+10466,2026-04-11,Mumbai,Grocery,2.4,High,Cloudy,Partner D,2554.95,7,31.8,55.8,Delayed,23.999999999999996,Saturday,April
+10467,2026-04-12,Delhi,Clothing,11.44,Medium,Clear,Partner C,4274.08,23,65.88,72.88,Delayed,7.0,Sunday,April
+10468,2026-04-13,Mumbai,Home & Kitchen,28.75,Low,Clear,Partner D,3589.08,15,92.5,99.5,Delayed,7.0,Monday,April
+10469,2026-04-14,Chennai,Beauty,15.51,Medium,Cloudy,Partner C,2554.18,20,71.02,83.02,Delayed,12.0,Tuesday,April
+10470,2026-04-15,Chennai,Grocery,13.55,Medium,Cloudy,Partner A,1436.94,10,57.1,74.1,Delayed,16.999999999999993,Wednesday,April
+10471,2026-04-16,Delhi,Home & Kitchen,14.27,High,Cloudy,Partner C,4447.65,28,76.53999999999999,99.53999999999999,Delayed,23.0,Thursday,April
+10472,2026-04-17,Pune,Clothing,7.06,Low,Cloudy,Partner B,2969.7,7,41.12,44.12,Delayed,3.0,Friday,April
+10473,2026-04-18,Pune,Home & Kitchen,11.69,Low,Cloudy,Partner C,1261.51,23,66.38,77.38,Delayed,11.0,Saturday,April
+10474,2026-04-19,Delhi,Electronics,11.72,Medium,Clear,Partner D,1491.77,10,53.44,61.44,Delayed,8.0,Sunday,April
+10475,2026-04-20,Pune,Grocery,2.52,Medium,Clear,Partner D,4055.04,12,37.04,47.04,Delayed,10.0,Monday,April
+10476,2026-04-21,Pune,Clothing,23.26,Low,Clear,Partner D,411.9,26,92.52000000000001,89.52000000000001,On Time,-3.0,Tuesday,April
+10477,2026-04-22,Chennai,Beauty,13.08,Low,Clear,Partner C,4962.04,17,63.16,64.16,Delayed,1.0,Wednesday,April
+10478,2026-04-23,Pune,Clothing,24.84,Medium,Cloudy,Partner D,825.69,16,85.68,99.68,Delayed,14.0,Thursday,April
+10479,2026-04-24,Bangalore,Beauty,25.66,High,Rainy,Partner D,4021.13,14,85.32,115.32,Delayed,30.0,Friday,April
+10480,2026-04-25,Hyderabad,Clothing,7.15,High,Rainy,Partner B,2094.92,7,41.3,69.3,Delayed,28.0,Saturday,April
+10481,2026-04-26,Mumbai,Home & Kitchen,20.06,Medium,Cloudy,Partner C,2562.64,8,68.12,86.12,Delayed,18.0,Sunday,April
+10482,2026-04-27,Bangalore,Home & Kitchen,14.7,Medium,Clear,Partner B,4427.12,5,54.4,65.4,Delayed,11.000000000000007,Monday,April
+10483,2026-04-28,Pune,Home & Kitchen,26.52,Low,Clear,Partner D,2181.97,17,90.03999999999999,87.03999999999999,On Time,-3.0,Tuesday,April
+10484,2026-04-29,Chennai,Electronics,7.26,Medium,Rainy,Partner D,2779.97,28,62.519999999999996,93.52,Delayed,31.0,Wednesday,April
+10485,2026-04-30,Delhi,Beauty,20.66,Medium,Cloudy,Partner D,436.64,8,69.32,77.32,Delayed,8.0,Thursday,April
+10486,2026-05-01,Pune,Home & Kitchen,18.62,Medium,Cloudy,Partner C,211.27,26,83.24000000000001,92.24000000000001,Delayed,9.0,Friday,May
+10487,2026-05-02,Chennai,Electronics,9.56,Medium,Cloudy,Partner A,1375.04,15,54.120000000000005,71.12,Delayed,17.0,Saturday,May
+10488,2026-05-03,Hyderabad,Beauty,4.96,Low,Cloudy,Partner D,3466.8,23,52.92,65.92,Delayed,13.0,Sunday,May
+10489,2026-05-04,Pune,Clothing,19.9,Low,Rainy,Partner D,782.07,15,74.8,89.8,Delayed,15.0,Monday,May
+10490,2026-05-05,Delhi,Electronics,22.42,Medium,Clear,Partner D,746.06,16,80.84,96.84,Delayed,16.0,Tuesday,May
+10491,2026-05-06,Chennai,Grocery,10.15,Low,Cloudy,Partner D,2172.61,15,55.3,67.3,Delayed,12.0,Wednesday,May
+10492,2026-05-07,Chennai,Electronics,19.7,Low,Rainy,Partner C,3309.62,10,69.4,83.4,Delayed,14.0,Thursday,May
+10493,2026-05-08,Chennai,Electronics,12.46,High,Clear,Partner A,3617.95,16,60.92,89.92,Delayed,29.0,Friday,May
+10494,2026-05-09,Hyderabad,Beauty,21.68,Medium,Cloudy,Partner A,1056.56,13,76.36,98.36,Delayed,22.0,Saturday,May
+10495,2026-05-10,Pune,Clothing,6.78,Medium,Clear,Partner A,582.02,29,62.56,80.56,Delayed,18.0,Sunday,May
+10496,2026-05-11,Hyderabad,Grocery,26.82,High,Rainy,Partner D,4713.91,14,87.64,119.64,Delayed,32.0,Monday,May
+10497,2026-05-12,Mumbai,Home & Kitchen,9.33,High,Clear,Partner D,1451.2,7,45.66,73.66,Delayed,28.0,Tuesday,May
+10498,2026-05-13,Mumbai,Home & Kitchen,11.67,Medium,Cloudy,Partner A,4296.06,7,50.34,63.34,Delayed,13.0,Wednesday,May
+10499,2026-05-14,Pune,Electronics,2.68,High,Clear,Partner A,4344.76,24,49.36,77.36,Delayed,28.0,Thursday,May
+10500,2026-05-15,Hyderabad,Beauty,4.23,Medium,Cloudy,Partner D,3908.11,27,55.46,63.46000000000001,Delayed,8.000000000000007,Friday,May
+10501,2026-05-16,Delhi,Beauty,15.96,Medium,Clear,Partner D,1010.4,20,71.92,77.92,Delayed,6.0,Saturday,May
+10502,2026-05-17,Chennai,Home & Kitchen,8.76,Medium,Clear,Partner B,4144.65,7,44.519999999999996,52.519999999999996,Delayed,8.0,Sunday,May
+10503,2026-05-18,Chennai,Grocery,25.23,Medium,Clear,Partner B,3892.4,14,84.46000000000001,91.46000000000001,Delayed,7.0,Monday,May
+10504,2026-05-19,Pune,Clothing,1.43,Medium,Rainy,Partner B,3064.27,28,50.86,80.86,Delayed,30.0,Tuesday,May
+10505,2026-05-20,Mumbai,Grocery,11.99,Medium,Clear,Partner A,1818.57,15,58.980000000000004,63.980000000000004,Delayed,5.0,Wednesday,May
+10506,2026-05-21,Mumbai,Clothing,10.78,Low,Clear,Partner C,1460.04,12,53.56,63.56,Delayed,10.0,Thursday,May
+10507,2026-05-22,Chennai,Home & Kitchen,1.56,Medium,Cloudy,Partner D,785.07,10,33.120000000000005,48.120000000000005,Delayed,15.0,Friday,May
+10508,2026-05-23,Pune,Clothing,4.61,Low,Cloudy,Partner B,2646.83,24,53.22,57.22,Delayed,4.0,Saturday,May
+10509,2026-05-24,Hyderabad,Beauty,13.0,Medium,Rainy,Partner C,3009.25,15,61.0,81.0,Delayed,20.0,Sunday,May
+10510,2026-05-25,Mumbai,Electronics,15.29,Medium,Clear,Partner D,1924.83,25,75.58,95.58,Delayed,20.0,Monday,May
+10511,2026-05-26,Hyderabad,Electronics,12.72,Medium,Cloudy,Partner C,2481.72,16,61.44,80.44,Delayed,19.0,Tuesday,May
+10512,2026-05-27,Mumbai,Home & Kitchen,16.4,High,Clear,Partner A,1944.87,20,72.8,98.8,Delayed,26.0,Wednesday,May
+10513,2026-05-28,Mumbai,Beauty,18.26,High,Clear,Partner A,3276.83,22,78.52000000000001,101.52000000000001,Delayed,23.0,Thursday,May
+10514,2026-05-29,Bangalore,Grocery,1.29,Medium,Cloudy,Partner A,4526.04,17,39.58,57.58,Delayed,18.0,Friday,May
+10515,2026-05-30,Mumbai,Beauty,14.46,Medium,Cloudy,Partner B,986.82,26,74.92,95.92,Delayed,21.0,Saturday,May
+10516,2026-05-31,Delhi,Electronics,28.94,Medium,Cloudy,Partner D,2030.76,7,84.88,95.88,Delayed,11.0,Sunday,May
+10517,2026-06-01,Pune,Electronics,16.05,Low,Clear,Partner A,876.17,19,71.1,66.1,On Time,-5.0,Monday,June
+10518,2026-06-02,Pune,Beauty,20.65,Low,Clear,Partner B,3199.73,26,87.3,96.3,Delayed,9.0,Tuesday,June
+10519,2026-06-03,Hyderabad,Beauty,10.04,Low,Clear,Partner B,3698.58,25,65.08,69.08,Delayed,4.0,Wednesday,June
+10520,2026-06-04,Mumbai,Electronics,23.45,Medium,Rainy,Partner B,4673.18,18,84.9,115.9,Delayed,31.0,Thursday,June
+10521,2026-06-05,Delhi,Grocery,23.41,Medium,Clear,Partner B,1538.59,22,88.82,93.82,Delayed,5.0,Friday,June
+10522,2026-06-06,Hyderabad,Home & Kitchen,16.12,High,Clear,Partner A,4761.01,18,70.24000000000001,85.24000000000001,Delayed,15.0,Saturday,June
+10523,2026-06-07,Bangalore,Home & Kitchen,29.3,Low,Clear,Partner B,503.66,9,87.6,82.6,On Time,-5.0,Sunday,June
+10524,2026-06-08,Hyderabad,Beauty,4.64,Low,Cloudy,Partner A,3094.47,25,54.28,55.28,Delayed,1.0,Monday,June
+10525,2026-06-09,Hyderabad,Home & Kitchen,1.49,High,Clear,Partner A,474.24,18,40.980000000000004,55.980000000000004,Delayed,15.0,Tuesday,June
+10526,2026-06-10,Mumbai,Electronics,23.33,Low,Rainy,Partner B,4490.12,29,95.66,103.66,Delayed,8.0,Wednesday,June
+10527,2026-06-11,Bangalore,Electronics,24.41,Medium,Clear,Partner A,2743.08,12,80.82,88.82,Delayed,8.0,Thursday,June
+10528,2026-06-12,Hyderabad,Beauty,4.49,Medium,Rainy,Partner D,3412.87,27,55.980000000000004,78.98,Delayed,23.0,Friday,June
+10529,2026-06-13,Delhi,Beauty,8.7,Medium,Clear,Partner D,4191.55,19,56.4,62.400000000000006,Delayed,6.000000000000007,Saturday,June
+10530,2026-06-14,Delhi,Beauty,1.51,Low,Cloudy,Partner C,921.49,19,42.019999999999996,47.019999999999996,Delayed,5.0,Sunday,June
+10531,2026-06-15,Pune,Grocery,9.51,Low,Rainy,Partner D,385.24,23,62.019999999999996,81.02,Delayed,19.0,Monday,June
+10532,2026-06-16,Bangalore,Home & Kitchen,23.42,Low,Clear,Partner A,4418.63,30,96.84,97.84,Delayed,1.0,Tuesday,June
+10533,2026-06-17,Bangalore,Beauty,16.02,Medium,Rainy,Partner A,1711.68,24,76.03999999999999,101.03999999999999,Delayed,25.0,Wednesday,June
+10534,2026-06-18,Pune,Clothing,11.09,Medium,Clear,Partner D,819.1,10,52.18,70.18,Delayed,18.000000000000007,Thursday,June
+10535,2026-06-19,Hyderabad,Clothing,11.78,Low,Rainy,Partner B,2448.61,23,66.56,78.56,Delayed,12.0,Friday,June
+10536,2026-06-20,Bangalore,Electronics,1.04,Medium,Cloudy,Partner B,3071.87,29,51.08,62.08,Delayed,11.0,Saturday,June
+10537,2026-06-21,Delhi,Home & Kitchen,9.69,High,Clear,Partner A,348.66,12,51.379999999999995,71.38,Delayed,20.0,Sunday,June
+10538,2026-06-22,Delhi,Beauty,19.75,Low,Clear,Partner B,1519.5,10,69.5,78.5,Delayed,9.0,Monday,June
+10539,2026-06-23,Mumbai,Clothing,29.25,Medium,Clear,Partner C,357.44,24,102.5,110.5,Delayed,8.0,Tuesday,June
+10540,2026-06-24,Bangalore,Home & Kitchen,25.56,Medium,Clear,Partner C,2217.61,27,98.12,109.12,Delayed,11.0,Wednesday,June
+10541,2026-06-25,Hyderabad,Electronics,1.68,Low,Clear,Partner D,4496.48,19,42.36,45.36,Delayed,3.0,Thursday,June
+10542,2026-06-26,Pune,Grocery,27.06,Medium,Clear,Partner D,4916.73,7,81.12,88.12,Delayed,7.0,Friday,June
+10543,2026-06-27,Pune,Home & Kitchen,23.71,Medium,Clear,Partner B,3257.83,14,81.42,88.42,Delayed,7.0,Saturday,June
+10544,2026-06-28,Hyderabad,Home & Kitchen,23.63,High,Cloudy,Partner A,975.86,19,86.25999999999999,105.25999999999999,Delayed,19.0,Sunday,June
+10545,2026-06-29,Chennai,Grocery,14.28,High,Clear,Partner D,4548.08,28,76.56,91.56,Delayed,15.0,Monday,June
+10546,2026-06-30,Mumbai,Home & Kitchen,12.54,Medium,Clear,Partner C,2677.99,20,65.08,83.08,Delayed,18.0,Tuesday,June
+10547,2026-07-01,Pune,Electronics,9.78,Medium,Cloudy,Partner D,938.0,21,60.56,68.56,Delayed,8.0,Wednesday,July
+10548,2026-07-02,Bangalore,Electronics,2.91,Medium,Clear,Partner D,4624.29,23,48.82,65.82,Delayed,16.999999999999993,Thursday,July
+10549,2026-07-03,Mumbai,Grocery,7.62,Medium,Clear,Partner C,3835.85,15,50.24,57.24,Delayed,7.0,Friday,July
+10550,2026-07-04,Bangalore,Beauty,8.15,Medium,Clear,Partner A,3712.19,20,56.3,74.3,Delayed,18.0,Saturday,July
+10551,2026-07-05,Delhi,Clothing,15.04,Low,Rainy,Partner D,3604.07,9,59.08,72.08,Delayed,13.0,Sunday,July
+10552,2026-07-06,Mumbai,Beauty,22.68,Medium,Rainy,Partner D,1161.63,9,74.36,105.36,Delayed,31.0,Monday,July
+10553,2026-07-07,Pune,Home & Kitchen,14.74,Medium,Clear,Partner D,1212.83,30,79.48,94.48,Delayed,15.0,Tuesday,July
+10554,2026-07-08,Mumbai,Clothing,2.68,Medium,Cloudy,Partner B,3503.81,18,43.36,59.36,Delayed,16.0,Wednesday,July
+10555,2026-07-09,Mumbai,Grocery,28.78,High,Cloudy,Partner D,1254.67,22,99.56,130.56,Delayed,31.0,Thursday,July
+10556,2026-07-10,Mumbai,Grocery,28.34,Low,Cloudy,Partner C,2305.62,30,106.68,105.68,On Time,-1.0,Friday,July
+10557,2026-07-11,Chennai,Clothing,23.77,Medium,Cloudy,Partner A,3953.61,12,79.53999999999999,93.53999999999999,Delayed,14.0,Saturday,July
+10558,2026-07-12,Mumbai,Electronics,29.75,Low,Cloudy,Partner A,3962.97,9,88.5,86.5,On Time,-2.0,Sunday,July
+10559,2026-07-13,Bangalore,Clothing,16.79,High,Clear,Partner C,2375.66,11,64.58,80.58,Delayed,16.0,Monday,July
+10560,2026-07-14,Delhi,Home & Kitchen,28.92,Medium,Clear,Partner B,4002.51,20,97.84,117.84,Delayed,20.0,Tuesday,July
+10561,2026-07-15,Hyderabad,Electronics,3.19,Medium,Clear,Partner C,4225.38,27,53.379999999999995,63.379999999999995,Delayed,10.0,Wednesday,July
+10562,2026-07-16,Mumbai,Grocery,11.6,Medium,Rainy,Partner A,3342.92,18,61.2,88.2,Delayed,27.0,Thursday,July
+10563,2026-07-17,Pune,Clothing,7.54,Medium,Cloudy,Partner C,1296.44,9,44.08,67.08,Delayed,23.0,Friday,July
+10564,2026-07-18,Mumbai,Beauty,6.68,High,Rainy,Partner B,1515.26,28,61.36,92.36,Delayed,31.0,Saturday,July
+10565,2026-07-19,Pune,Beauty,5.08,Medium,Rainy,Partner A,1711.24,13,43.16,67.16,Delayed,24.0,Sunday,July
+10566,2026-07-20,Bangalore,Home & Kitchen,19.05,Medium,Clear,Partner B,760.66,8,66.1,82.1,Delayed,16.0,Monday,July
+10567,2026-07-21,Pune,Beauty,23.66,High,Cloudy,Partner C,1511.17,8,75.32,103.32,Delayed,28.0,Tuesday,July
+10568,2026-07-22,Hyderabad,Clothing,17.77,Low,Cloudy,Partner D,1205.69,20,75.53999999999999,74.53999999999999,On Time,-1.0,Wednesday,July
+10569,2026-07-23,Delhi,Clothing,5.26,Low,Rainy,Partner C,2385.58,28,58.519999999999996,65.52,Delayed,7.0,Thursday,July
+10570,2026-07-24,Pune,Beauty,24.52,Medium,Rainy,Partner B,4560.5,21,90.03999999999999,122.03999999999999,Delayed,32.0,Friday,July
+10571,2026-07-25,Pune,Clothing,19.44,High,Cloudy,Partner C,701.51,19,77.88,101.88,Delayed,24.0,Saturday,July
+10572,2026-07-26,Delhi,Home & Kitchen,12.26,Medium,Clear,Partner D,3657.29,8,52.519999999999996,62.519999999999996,Delayed,10.0,Sunday,July
+10573,2026-07-27,Hyderabad,Electronics,20.55,Low,Cloudy,Partner B,3498.96,10,71.1,76.1,Delayed,5.0,Monday,July
+10574,2026-07-28,Mumbai,Home & Kitchen,8.54,Medium,Clear,Partner C,659.62,20,57.08,72.08,Delayed,15.0,Tuesday,July
+10575,2026-07-29,Pune,Home & Kitchen,11.01,Medium,Cloudy,Partner B,4628.35,8,50.019999999999996,72.02,Delayed,22.0,Wednesday,July
+10576,2026-07-30,Delhi,Clothing,27.61,Low,Rainy,Partner B,2928.67,10,85.22,106.22,Delayed,21.0,Thursday,July
+10577,2026-07-31,Bangalore,Electronics,9.42,Medium,Clear,Partner A,1945.88,9,47.84,64.84,Delayed,17.0,Friday,July
+10578,2026-08-01,Delhi,Clothing,14.63,High,Cloudy,Partner A,3831.39,20,69.26,100.26,Delayed,31.0,Saturday,August
+10579,2026-08-02,Bangalore,Grocery,26.81,Medium,Clear,Partner B,1435.35,29,102.62,114.62,Delayed,12.0,Sunday,August
+10580,2026-08-03,Hyderabad,Clothing,21.52,Medium,Clear,Partner C,3528.85,20,83.03999999999999,89.03999999999999,Delayed,6.0,Monday,August
+10581,2026-08-04,Mumbai,Clothing,2.8,Medium,Clear,Partner C,390.61,14,39.6,57.6,Delayed,18.0,Tuesday,August
+10582,2026-08-05,Delhi,Clothing,5.27,Low,Cloudy,Partner C,4229.16,13,43.54,48.54,Delayed,5.0,Wednesday,August
+10583,2026-08-06,Chennai,Electronics,1.23,High,Rainy,Partner D,2351.22,8,30.46,62.46,Delayed,32.0,Thursday,August
+10584,2026-08-07,Pune,Clothing,19.3,Medium,Rainy,Partner B,3256.13,18,76.6,101.6,Delayed,25.0,Friday,August
+10585,2026-08-08,Hyderabad,Electronics,13.98,Medium,Clear,Partner B,1261.94,8,55.96,71.96000000000001,Delayed,16.000000000000007,Saturday,August
+10586,2026-08-09,Delhi,Beauty,4.89,Medium,Rainy,Partner D,3449.95,16,45.78,77.78,Delayed,32.0,Sunday,August
+10587,2026-08-10,Pune,Grocery,28.78,Medium,Cloudy,Partner B,3906.75,28,105.56,119.56,Delayed,14.0,Monday,August
+10588,2026-08-11,Delhi,Electronics,16.36,Medium,Clear,Partner B,2471.42,14,66.72,72.72,Delayed,6.0,Tuesday,August
+10589,2026-08-12,Bangalore,Beauty,8.01,Low,Clear,Partner D,3165.09,8,44.019999999999996,54.019999999999996,Delayed,10.0,Wednesday,August
+10590,2026-08-13,Delhi,Electronics,15.52,High,Clear,Partner A,2390.36,22,73.03999999999999,95.03999999999999,Delayed,22.0,Thursday,August
+10591,2026-08-14,Chennai,Electronics,20.71,High,Rainy,Partner B,4491.64,17,78.42,113.42,Delayed,35.0,Friday,August
+10592,2026-08-15,Delhi,Grocery,3.21,Medium,Cloudy,Partner D,2589.77,17,43.42,57.42,Delayed,14.0,Saturday,August
+10593,2026-08-16,Delhi,Home & Kitchen,8.97,High,Cloudy,Partner C,4240.68,18,55.94,76.94,Delayed,21.0,Sunday,August
+10594,2026-08-17,Chennai,Home & Kitchen,24.4,Low,Clear,Partner A,4046.49,22,90.8,93.8,Delayed,3.0,Monday,August
+10595,2026-08-18,Hyderabad,Electronics,14.33,Medium,Cloudy,Partner C,2170.42,5,53.66,64.66,Delayed,11.0,Tuesday,August
+10596,2026-08-19,Delhi,Clothing,16.85,Medium,Clear,Partner B,1304.41,25,78.7,94.7,Delayed,16.0,Wednesday,August
+10597,2026-08-20,Chennai,Beauty,13.55,Medium,Clear,Partner A,2149.19,20,67.1,75.1,Delayed,8.0,Thursday,August
+10598,2026-08-21,Pune,Clothing,2.27,Medium,Cloudy,Partner D,4165.84,19,43.54,59.54,Delayed,16.0,Friday,August
+10599,2026-08-22,Bangalore,Clothing,5.81,Medium,Clear,Partner B,1292.64,26,57.62,75.62,Delayed,18.000000000000007,Saturday,August
+10600,2026-08-23,Bangalore,Electronics,13.92,Low,Rainy,Partner D,2717.29,29,76.84,90.84,Delayed,14.0,Sunday,August
+10601,2026-08-24,Delhi,Electronics,7.07,Medium,Clear,Partner A,4069.26,9,43.14,51.14,Delayed,8.0,Monday,August
+10602,2026-08-25,Hyderabad,Electronics,2.45,Low,Cloudy,Partner C,1896.69,10,34.9,45.9,Delayed,11.0,Tuesday,August
+10603,2026-08-26,Hyderabad,Electronics,25.47,Medium,Clear,Partner B,3282.61,10,80.94,92.94,Delayed,12.0,Wednesday,August
+10604,2026-08-27,Pune,Home & Kitchen,29.45,Low,Cloudy,Partner B,1379.03,7,85.9,97.9,Delayed,12.0,Thursday,August
+10605,2026-08-28,Delhi,Electronics,24.0,Low,Clear,Partner D,724.54,20,88.0,90.0,Delayed,2.0,Friday,August
+10606,2026-08-29,Bangalore,Home & Kitchen,25.76,Medium,Clear,Partner A,4013.04,16,87.52000000000001,98.52000000000001,Delayed,11.0,Saturday,August
+10607,2026-08-30,Hyderabad,Home & Kitchen,8.02,Medium,Rainy,Partner D,675.05,8,44.04,70.03999999999999,Delayed,25.999999999999993,Sunday,August
+10608,2026-08-31,Delhi,Electronics,28.86,High,Clear,Partner A,1502.63,5,82.72,109.72,Delayed,27.0,Monday,August
+10609,2026-09-01,Hyderabad,Grocery,6.71,Medium,Rainy,Partner B,4304.53,8,41.42,63.42,Delayed,22.0,Tuesday,September
+10610,2026-09-02,Chennai,Beauty,28.59,Medium,Rainy,Partner A,1863.05,5,82.18,106.18,Delayed,24.0,Wednesday,September
+10611,2026-09-03,Hyderabad,Clothing,29.85,High,Clear,Partner B,4870.62,25,104.7,125.7,Delayed,21.0,Thursday,September
+10612,2026-09-04,Bangalore,Home & Kitchen,21.64,Medium,Clear,Partner A,4902.72,12,75.28,84.28,Delayed,9.0,Friday,September
+10613,2026-09-05,Mumbai,Beauty,29.45,Low,Cloudy,Partner C,1487.72,28,106.9,115.9,Delayed,9.0,Saturday,September
+10614,2026-09-06,Pune,Grocery,17.52,Medium,Rainy,Partner A,396.7,9,64.03999999999999,93.03999999999999,Delayed,29.0,Sunday,September
+10615,2026-09-07,Pune,Clothing,8.53,High,Rainy,Partner C,3584.3,30,67.06,106.06,Delayed,39.0,Monday,September
+10616,2026-09-08,Bangalore,Clothing,13.67,Medium,Cloudy,Partner A,2364.74,6,53.34,64.34,Delayed,11.0,Tuesday,September
+10617,2026-09-09,Hyderabad,Home & Kitchen,18.21,Low,Cloudy,Partner A,683.61,16,72.42,83.42,Delayed,11.0,Wednesday,September
+10618,2026-09-10,Delhi,Electronics,3.12,Low,Clear,Partner D,3596.11,26,52.24,62.24,Delayed,10.0,Thursday,September
+10619,2026-09-11,Hyderabad,Grocery,19.05,Low,Rainy,Partner D,349.64,21,79.1,97.1,Delayed,18.0,Friday,September
+10620,2026-09-12,Bangalore,Home & Kitchen,29.45,Medium,Rainy,Partner B,4376.94,11,89.9,107.9,Delayed,18.0,Saturday,September
+10621,2026-09-13,Pune,Grocery,6.51,Medium,Clear,Partner D,865.53,15,48.019999999999996,63.019999999999996,Delayed,15.0,Sunday,September
+10622,2026-09-14,Hyderabad,Electronics,23.99,Low,Clear,Partner A,811.1,8,75.97999999999999,77.97999999999999,Delayed,2.0,Monday,September
+10623,2026-09-15,Pune,Electronics,27.33,High,Clear,Partner D,1043.23,9,83.66,106.66,Delayed,23.0,Tuesday,September
+10624,2026-09-16,Delhi,Home & Kitchen,28.37,High,Clear,Partner A,4809.28,10,86.74000000000001,104.74000000000001,Delayed,18.0,Wednesday,September
+10625,2026-09-17,Pune,Electronics,28.84,Medium,Rainy,Partner C,3527.21,15,92.68,112.68,Delayed,20.0,Thursday,September
+10626,2026-09-18,Pune,Beauty,16.12,High,Clear,Partner A,4046.58,5,57.24,76.24000000000001,Delayed,19.000000000000007,Friday,September
+10627,2026-09-19,Mumbai,Clothing,29.34,Low,Clear,Partner B,2108.65,29,107.68,103.68,On Time,-4.0,Saturday,September
+10628,2026-09-20,Mumbai,Home & Kitchen,22.96,Medium,Clear,Partner C,1814.3,14,79.92,90.92,Delayed,11.0,Sunday,September
+10629,2026-09-21,Chennai,Grocery,5.69,Medium,Rainy,Partner B,1325.52,24,55.38,86.38,Delayed,30.999999999999993,Monday,September
+10630,2026-09-22,Mumbai,Beauty,14.83,High,Cloudy,Partner B,2507.11,28,77.66,99.66,Delayed,22.0,Tuesday,September
+10631,2026-09-23,Pune,Home & Kitchen,21.83,High,Clear,Partner B,2848.78,25,88.66,108.66,Delayed,20.0,Wednesday,September
+10632,2026-09-24,Bangalore,Electronics,8.17,Low,Clear,Partner D,3232.52,15,51.34,61.34,Delayed,10.0,Thursday,September
+10633,2026-09-25,Pune,Electronics,19.58,High,Rainy,Partner B,1434.17,28,87.16,117.16,Delayed,30.0,Friday,September
+10634,2026-09-26,Bangalore,Electronics,20.33,Low,Rainy,Partner C,4753.54,21,81.66,95.66,Delayed,14.0,Saturday,September
+10635,2026-09-27,Bangalore,Electronics,5.72,High,Clear,Partner A,1014.84,12,43.44,65.44,Delayed,22.0,Sunday,September
+10636,2026-09-28,Mumbai,Grocery,17.39,High,Clear,Partner B,4835.14,17,71.78,97.78,Delayed,26.0,Monday,September
+10637,2026-09-29,Hyderabad,Beauty,23.38,Low,Clear,Partner C,271.31,24,90.75999999999999,89.75999999999999,On Time,-1.0,Tuesday,September
+10638,2026-09-30,Delhi,Clothing,15.47,Medium,Clear,Partner B,2509.4,22,72.94,92.94,Delayed,20.0,Wednesday,September
+10639,2026-10-01,Mumbai,Grocery,1.35,Low,Cloudy,Partner A,1800.17,26,48.7,57.7,Delayed,9.0,Thursday,October
+10640,2026-10-02,Mumbai,Grocery,1.26,Medium,Rainy,Partner C,2355.79,20,42.519999999999996,64.52,Delayed,22.0,Friday,October
+10641,2026-10-03,Hyderabad,Clothing,11.35,Medium,Clear,Partner C,2939.19,6,48.7,68.7,Delayed,20.0,Saturday,October
+10642,2026-10-04,Delhi,Clothing,27.86,Medium,Rainy,Partner A,2290.83,9,84.72,103.72,Delayed,19.0,Sunday,October
+10643,2026-10-05,Pune,Electronics,7.63,High,Clear,Partner C,2191.26,22,57.26,72.25999999999999,Delayed,14.999999999999993,Monday,October
+10644,2026-10-06,Chennai,Grocery,19.4,Medium,Cloudy,Partner A,3717.07,7,65.8,81.8,Delayed,16.0,Tuesday,October
+10645,2026-10-07,Chennai,Home & Kitchen,7.44,Medium,Cloudy,Partner C,3492.21,26,60.88,76.88,Delayed,15.999999999999993,Wednesday,October
+10646,2026-10-08,Pune,Clothing,10.33,High,Clear,Partner C,4199.7,21,61.66,78.66,Delayed,17.0,Thursday,October
+10647,2026-10-09,Mumbai,Clothing,25.59,High,Clear,Partner A,1399.8,20,91.18,109.18,Delayed,18.0,Friday,October
+10648,2026-10-10,Delhi,Beauty,22.14,Low,Cloudy,Partner A,3125.74,10,74.28,84.28,Delayed,10.0,Saturday,October
+10649,2026-10-11,Mumbai,Home & Kitchen,3.77,High,Clear,Partner C,3008.93,23,50.54,71.53999999999999,Delayed,20.999999999999993,Sunday,October
+10650,2026-10-12,Bangalore,Home & Kitchen,13.43,Low,Clear,Partner C,1974.74,11,57.86,53.86,On Time,-4.0,Monday,October
+10651,2026-10-13,Mumbai,Clothing,1.85,High,Cloudy,Partner A,2533.08,22,45.7,74.7,Delayed,29.0,Tuesday,October
+10652,2026-10-14,Mumbai,Electronics,14.95,Low,Rainy,Partner D,1706.15,18,67.9,76.9,Delayed,9.0,Wednesday,October
+10653,2026-10-15,Pune,Beauty,20.21,Low,Clear,Partner A,880.85,10,70.42,80.42,Delayed,10.0,Thursday,October
+10654,2026-10-16,Pune,Home & Kitchen,4.44,Medium,Rainy,Partner C,1226.25,12,40.88,62.88,Delayed,22.0,Friday,October
+10655,2026-10-17,Pune,Clothing,9.38,Medium,Clear,Partner C,706.47,19,57.760000000000005,72.76,Delayed,15.0,Saturday,October
+10656,2026-10-18,Chennai,Home & Kitchen,12.54,Medium,Cloudy,Partner C,3478.73,19,64.08,79.08,Delayed,15.0,Sunday,October
+10657,2026-10-19,Bangalore,Beauty,27.67,Low,Cloudy,Partner A,3371.49,19,94.34,106.34,Delayed,12.0,Monday,October
+10658,2026-10-20,Pune,Beauty,29.8,Medium,Rainy,Partner C,4762.91,20,99.6,116.6,Delayed,17.0,Tuesday,October
+10659,2026-10-21,Delhi,Grocery,2.3,High,Clear,Partner D,3702.46,5,29.6,47.6,Delayed,18.0,Wednesday,October
+10660,2026-10-22,Chennai,Clothing,23.07,Medium,Cloudy,Partner B,449.82,15,81.14,103.14,Delayed,22.0,Thursday,October
+10661,2026-10-23,Hyderabad,Beauty,11.78,Low,Cloudy,Partner D,4444.38,29,72.56,70.56,On Time,-2.0,Friday,October
+10662,2026-10-24,Delhi,Grocery,12.38,Medium,Clear,Partner A,4340.84,9,53.760000000000005,59.760000000000005,Delayed,6.0,Saturday,October
+10663,2026-10-25,Delhi,Grocery,22.87,Low,Clear,Partner C,2327.94,9,74.74000000000001,84.74000000000001,Delayed,10.0,Sunday,October
+10664,2026-10-26,Pune,Home & Kitchen,27.63,High,Clear,Partner A,3012.14,25,100.25999999999999,122.25999999999999,Delayed,22.0,Monday,October
+10665,2026-10-27,Hyderabad,Home & Kitchen,28.58,High,Clear,Partner B,4885.18,10,87.16,107.16,Delayed,20.0,Tuesday,October
+10666,2026-10-28,Hyderabad,Grocery,17.74,Medium,Rainy,Partner A,2755.06,6,61.48,86.47999999999999,Delayed,24.999999999999993,Wednesday,October
+10667,2026-10-29,Chennai,Home & Kitchen,11.36,Medium,Clear,Partner C,4545.54,10,52.72,58.72,Delayed,6.0,Thursday,October
+10668,2026-10-30,Hyderabad,Beauty,23.84,High,Clear,Partner B,598.59,18,85.68,115.68,Delayed,30.0,Friday,October
+10669,2026-10-31,Bangalore,Electronics,8.28,Medium,Cloudy,Partner B,1117.05,15,51.56,61.56,Delayed,10.0,Saturday,October
+10670,2026-11-01,Pune,Beauty,17.36,High,Clear,Partner C,2315.62,8,62.72,85.72,Delayed,23.0,Sunday,November
+10671,2026-11-02,Hyderabad,Grocery,11.4,Medium,Cloudy,Partner C,3006.83,28,70.8,86.8,Delayed,16.0,Monday,November
+10672,2026-11-03,Chennai,Grocery,20.04,High,Clear,Partner C,4117.89,29,89.08,116.08,Delayed,27.0,Tuesday,November
+10673,2026-11-04,Bangalore,Beauty,7.97,Medium,Rainy,Partner A,4943.66,13,48.94,70.94,Delayed,22.0,Wednesday,November
+10674,2026-11-05,Mumbai,Home & Kitchen,6.56,Medium,Rainy,Partner D,2066.49,28,61.12,91.12,Delayed,30.000000000000007,Thursday,November
+10675,2026-11-06,Mumbai,Home & Kitchen,27.63,High,Rainy,Partner A,427.6,7,82.25999999999999,123.25999999999999,Delayed,41.0,Friday,November
+10676,2026-11-07,Bangalore,Grocery,3.95,Medium,Clear,Partner A,4045.62,30,57.9,64.9,Delayed,7.000000000000007,Saturday,November
+10677,2026-11-08,Chennai,Clothing,15.67,Medium,Cloudy,Partner D,3101.03,20,71.34,83.34,Delayed,12.0,Sunday,November
+10678,2026-11-09,Bangalore,Home & Kitchen,7.4,Low,Clear,Partner C,1153.01,15,49.8,58.8,Delayed,9.0,Monday,November
+10679,2026-11-10,Pune,Beauty,2.13,Medium,Clear,Partner C,2575.18,8,32.26,38.26,Delayed,6.0,Tuesday,November
+10680,2026-11-11,Pune,Home & Kitchen,2.04,Medium,Clear,Partner D,3763.09,5,29.08,40.08,Delayed,11.0,Wednesday,November
+10681,2026-11-12,Mumbai,Beauty,6.08,Low,Cloudy,Partner D,3897.98,29,61.16,68.16,Delayed,7.0,Thursday,November
+10682,2026-11-13,Hyderabad,Grocery,26.14,Low,Clear,Partner A,2598.17,25,97.28,102.28,Delayed,5.0,Friday,November
+10683,2026-11-14,Chennai,Home & Kitchen,9.19,Medium,Cloudy,Partner B,1665.03,26,64.38,79.38,Delayed,15.0,Saturday,November
+10684,2026-11-15,Mumbai,Beauty,28.56,High,Clear,Partner D,4873.96,20,97.12,117.12,Delayed,20.0,Sunday,November
+10685,2026-11-16,Hyderabad,Grocery,17.87,Medium,Clear,Partner A,3384.14,23,78.74000000000001,90.74000000000001,Delayed,12.0,Monday,November
+10686,2026-11-17,Hyderabad,Clothing,13.66,Low,Cloudy,Partner B,2159.54,20,67.32,66.32,On Time,-1.0,Tuesday,November
+10687,2026-11-18,Pune,Beauty,17.82,Medium,Clear,Partner C,1546.22,15,70.64,77.64,Delayed,7.0,Wednesday,November
+10688,2026-11-19,Delhi,Clothing,15.98,Low,Cloudy,Partner C,3709.29,30,81.96000000000001,94.96000000000001,Delayed,13.0,Thursday,November
+10689,2026-11-20,Delhi,Clothing,23.0,Medium,Clear,Partner A,1362.48,12,78.0,89.0,Delayed,11.0,Friday,November
+10690,2026-11-21,Bangalore,Electronics,9.19,Low,Rainy,Partner A,1024.21,27,65.38,81.38,Delayed,16.0,Saturday,November
+10691,2026-11-22,Pune,Home & Kitchen,11.24,Low,Cloudy,Partner D,2743.2,5,47.480000000000004,56.480000000000004,Delayed,9.0,Sunday,November
+10692,2026-11-23,Hyderabad,Beauty,26.93,Low,Clear,Partner C,1591.94,30,103.86,98.86,On Time,-5.0,Monday,November
+10693,2026-11-24,Chennai,Clothing,28.45,Medium,Clear,Partner A,3218.74,25,101.9,112.9,Delayed,11.0,Tuesday,November
+10694,2026-11-25,Delhi,Electronics,26.88,Low,Cloudy,Partner C,766.11,30,103.75999999999999,106.75999999999999,Delayed,3.0,Wednesday,November
+10695,2026-11-26,Hyderabad,Grocery,13.16,Medium,Rainy,Partner C,3343.72,13,59.32,83.32,Delayed,23.999999999999993,Thursday,November
+10696,2026-11-27,Delhi,Beauty,23.63,Medium,Clear,Partner D,1559.82,16,83.25999999999999,94.25999999999999,Delayed,11.0,Friday,November
+10697,2026-11-28,Delhi,Clothing,14.81,Medium,Clear,Partner B,201.17,26,75.62,83.62,Delayed,8.0,Saturday,November
+10698,2026-11-29,Delhi,Home & Kitchen,15.43,Medium,Rainy,Partner D,809.29,12,62.86,81.86,Delayed,19.0,Sunday,November
+10699,2026-11-30,Chennai,Electronics,6.94,High,Cloudy,Partner A,4681.35,30,63.88,83.88,Delayed,19.999999999999993,Monday,November
+10700,2026-12-01,Pune,Clothing,18.14,Low,Clear,Partner D,4363.3,21,77.28,86.28,Delayed,9.0,Tuesday,December
+10701,2026-12-02,Chennai,Home & Kitchen,6.4,Medium,Clear,Partner D,1321.32,14,46.8,54.8,Delayed,8.0,Wednesday,December
+10702,2026-12-03,Mumbai,Clothing,10.62,Low,Clear,Partner C,3936.19,11,52.239999999999995,62.239999999999995,Delayed,10.0,Thursday,December
+10703,2026-12-04,Hyderabad,Beauty,25.8,Low,Cloudy,Partner D,3121.14,23,94.6,106.6,Delayed,12.0,Friday,December
+10704,2026-12-05,Pune,Beauty,7.01,Medium,Clear,Partner A,4860.34,29,63.019999999999996,76.02,Delayed,13.0,Saturday,December
+10705,2026-12-06,Pune,Beauty,3.06,Medium,Rainy,Partner B,1993.31,10,36.120000000000005,61.120000000000005,Delayed,25.0,Sunday,December
+10706,2026-12-07,Pune,Electronics,3.0,High,Clear,Partner D,3471.01,25,51.0,78.0,Delayed,27.0,Monday,December
+10707,2026-12-08,Pune,Beauty,28.28,Medium,Clear,Partner D,504.97,28,104.56,110.56,Delayed,6.0,Tuesday,December
+10708,2026-12-09,Chennai,Home & Kitchen,15.7,High,Cloudy,Partner B,2101.99,28,79.4,101.4,Delayed,22.0,Wednesday,December
+10709,2026-12-10,Pune,Clothing,12.87,Low,Rainy,Partner A,4826.32,23,68.74,90.74,Delayed,22.0,Thursday,December
+10710,2026-12-11,Bangalore,Grocery,24.52,Low,Rainy,Partner A,2787.11,22,91.03999999999999,98.03999999999999,Delayed,7.0,Friday,December
+10711,2026-12-12,Hyderabad,Home & Kitchen,25.24,Low,Clear,Partner D,1581.82,19,89.47999999999999,87.47999999999999,On Time,-2.0,Saturday,December
+10712,2026-12-13,Pune,Home & Kitchen,10.63,Low,Cloudy,Partner C,777.3,6,47.260000000000005,46.260000000000005,On Time,-1.0,Sunday,December
+10713,2026-12-14,Hyderabad,Beauty,21.11,Medium,Cloudy,Partner D,3576.94,18,80.22,95.22,Delayed,15.0,Monday,December
+10714,2026-12-15,Bangalore,Electronics,23.36,Medium,Clear,Partner B,3295.31,25,91.72,99.72,Delayed,8.0,Tuesday,December
+10715,2026-12-16,Bangalore,Clothing,19.98,Low,Clear,Partner B,1994.91,14,73.96000000000001,83.96000000000001,Delayed,10.0,Wednesday,December
+10716,2026-12-17,Hyderabad,Electronics,5.4,High,Clear,Partner B,4764.52,20,50.8,69.8,Delayed,19.0,Thursday,December
+10717,2026-12-18,Delhi,Clothing,26.4,High,Clear,Partner D,306.57,11,83.8,108.8,Delayed,25.0,Friday,December
+10718,2026-12-19,Mumbai,Clothing,16.63,Low,Rainy,Partner D,1657.87,12,65.25999999999999,75.25999999999999,Delayed,10.0,Saturday,December
+10719,2026-12-20,Delhi,Electronics,9.19,Low,Clear,Partner A,4621.13,14,52.379999999999995,51.379999999999995,On Time,-1.0,Sunday,December
+10720,2026-12-21,Delhi,Home & Kitchen,13.33,Low,Rainy,Partner C,1740.49,19,65.66,76.66,Delayed,11.0,Monday,December
+10721,2026-12-22,Chennai,Clothing,2.09,Low,Cloudy,Partner D,1410.81,12,36.18,38.18,Delayed,2.0,Tuesday,December
+10722,2026-12-23,Delhi,Electronics,4.71,Low,Cloudy,Partner A,2764.26,17,46.42,54.42,Delayed,8.0,Wednesday,December
+10723,2026-12-24,Pune,Clothing,23.2,Medium,Cloudy,Partner D,4154.25,16,82.4,92.4,Delayed,10.0,Thursday,December
+10724,2026-12-25,Chennai,Grocery,1.0,Low,Clear,Partner A,695.1,12,34.0,35.0,Delayed,1.0,Friday,December
+10725,2026-12-26,Chennai,Home & Kitchen,13.08,Medium,Clear,Partner A,4726.5,19,65.16,72.16,Delayed,7.0,Saturday,December
+10726,2026-12-27,Bangalore,Beauty,16.15,High,Clear,Partner C,4016.35,30,82.3,98.3,Delayed,16.0,Sunday,December
+10727,2026-12-28,Delhi,Clothing,2.58,Medium,Cloudy,Partner D,1070.0,16,41.16,51.16,Delayed,10.0,Monday,December
+10728,2026-12-29,Bangalore,Grocery,29.22,High,Clear,Partner A,3617.64,15,93.44,118.44,Delayed,25.0,Tuesday,December
+10729,2026-12-30,Hyderabad,Beauty,7.56,Low,Cloudy,Partner B,2047.8,23,58.12,58.12,On Time,0.0,Wednesday,December
+10730,2026-12-31,Mumbai,Beauty,9.82,Medium,Clear,Partner B,2131.01,18,57.64,69.64,Delayed,12.0,Thursday,December
+10731,2027-01-01,Chennai,Clothing,9.81,Medium,Clear,Partner B,3959.79,22,61.620000000000005,69.62,Delayed,8.0,Friday,January
+10732,2027-01-02,Hyderabad,Electronics,7.68,Low,Clear,Partner C,4821.37,17,52.36,49.36,On Time,-3.0,Saturday,January
+10733,2027-01-03,Hyderabad,Clothing,1.04,Low,Rainy,Partner A,807.95,8,30.08,46.08,Delayed,16.0,Sunday,January
+10734,2027-01-04,Pune,Grocery,22.15,Medium,Cloudy,Partner C,2219.03,21,85.3,108.3,Delayed,23.0,Monday,January
+10735,2027-01-05,Mumbai,Beauty,29.04,Medium,Clear,Partner D,2508.52,23,101.08,110.08,Delayed,9.0,Tuesday,January
+10736,2027-01-06,Hyderabad,Clothing,7.5,Medium,Cloudy,Partner D,2006.3,13,48.0,59.0,Delayed,11.0,Wednesday,January
+10737,2027-01-07,Hyderabad,Electronics,20.23,Medium,Clear,Partner A,1943.31,27,87.46000000000001,100.46000000000001,Delayed,13.0,Thursday,January
+10738,2027-01-08,Mumbai,Clothing,22.51,Medium,Rainy,Partner B,450.89,11,76.02000000000001,100.02000000000001,Delayed,24.0,Friday,January
+10739,2027-01-09,Mumbai,Home & Kitchen,25.6,Low,Cloudy,Partner A,3490.59,5,76.2,84.2,Delayed,8.0,Saturday,January
+10740,2027-01-10,Hyderabad,Electronics,13.26,Medium,Clear,Partner A,2293.83,11,57.519999999999996,77.52,Delayed,20.0,Sunday,January
+10741,2027-01-11,Mumbai,Grocery,9.78,Low,Cloudy,Partner A,1135.01,30,69.56,73.56,Delayed,4.0,Monday,January
+10742,2027-01-12,Hyderabad,Beauty,10.43,Low,Clear,Partner C,4116.96,11,51.86,60.86,Delayed,9.0,Tuesday,January
+10743,2027-01-13,Hyderabad,Clothing,21.67,High,Rainy,Partner D,4052.29,24,87.34,121.34,Delayed,34.0,Wednesday,January
+10744,2027-01-14,Pune,Electronics,24.69,Medium,Clear,Partner A,2534.68,11,80.38,97.38,Delayed,17.0,Thursday,January
+10745,2027-01-15,Delhi,Home & Kitchen,6.27,Medium,Cloudy,Partner A,1632.56,12,44.54,56.54,Delayed,12.0,Friday,January
+10746,2027-01-16,Hyderabad,Electronics,11.76,Medium,Clear,Partner A,3262.85,20,63.519999999999996,71.52,Delayed,8.0,Saturday,January
+10747,2027-01-17,Bangalore,Home & Kitchen,27.16,Medium,Cloudy,Partner C,1583.13,7,81.32,95.32,Delayed,14.0,Sunday,January
+10748,2027-01-18,Chennai,Grocery,24.39,Low,Cloudy,Partner C,1332.84,17,85.78,83.78,On Time,-2.0,Monday,January
+10749,2027-01-19,Delhi,Beauty,29.56,Low,Cloudy,Partner C,3706.47,14,93.12,96.12,Delayed,3.0,Tuesday,January
+10750,2027-01-20,Delhi,Grocery,22.87,Low,Cloudy,Partner A,393.56,22,87.74000000000001,99.74000000000001,Delayed,12.0,Wednesday,January
+10751,2027-01-21,Delhi,Clothing,12.4,High,Rainy,Partner B,654.89,11,55.8,89.8,Delayed,34.0,Thursday,January
+10752,2027-01-22,Pune,Electronics,18.13,Medium,Clear,Partner B,232.58,25,81.25999999999999,92.25999999999999,Delayed,11.0,Friday,January
+10753,2027-01-23,Hyderabad,Home & Kitchen,20.17,Medium,Clear,Partner B,934.13,25,85.34,91.34,Delayed,6.0,Saturday,January
+10754,2027-01-24,Pune,Home & Kitchen,3.28,Medium,Clear,Partner D,531.15,9,35.56,53.56,Delayed,18.0,Sunday,January
+10755,2027-01-25,Hyderabad,Electronics,16.79,High,Rainy,Partner A,4979.85,27,80.58,119.58,Delayed,39.0,Monday,January
+10756,2027-01-26,Pune,Electronics,21.57,Low,Clear,Partner B,1586.29,29,92.14,100.14,Delayed,8.0,Tuesday,January
+10757,2027-01-27,Pune,Clothing,5.85,Low,Cloudy,Partner B,916.49,28,59.7,63.7,Delayed,4.0,Wednesday,January
+10758,2027-01-28,Chennai,Grocery,23.64,Medium,Cloudy,Partner B,1356.78,26,93.28,113.28,Delayed,20.0,Thursday,January
+10759,2027-01-29,Bangalore,Home & Kitchen,17.93,High,Clear,Partner A,4693.4,11,66.86,86.86,Delayed,20.0,Friday,January
+10760,2027-01-30,Pune,Clothing,28.61,High,Clear,Partner B,2696.77,29,106.22,133.22,Delayed,27.0,Saturday,January
+10761,2027-01-31,Chennai,Grocery,2.23,Low,Clear,Partner B,1951.13,26,50.46,49.46,On Time,-1.0,Sunday,January
+10762,2027-02-01,Mumbai,Clothing,8.69,High,Clear,Partner A,4392.28,21,58.379999999999995,76.38,Delayed,18.0,Monday,February
+10763,2027-02-02,Bangalore,Home & Kitchen,18.45,High,Clear,Partner D,2095.95,8,64.9,79.9,Delayed,15.0,Tuesday,February
+10764,2027-02-03,Pune,Electronics,9.6,Low,Clear,Partner C,1808.04,28,67.2,74.2,Delayed,7.0,Wednesday,February
+10765,2027-02-04,Delhi,Electronics,21.72,Medium,Rainy,Partner B,1194.96,27,90.44,108.44,Delayed,18.0,Thursday,February
+10766,2027-02-05,Mumbai,Grocery,23.01,Medium,Rainy,Partner C,2013.42,20,86.02000000000001,117.02000000000001,Delayed,31.0,Friday,February
+10767,2027-02-06,Mumbai,Beauty,3.97,High,Clear,Partner D,1720.08,23,50.94,71.94,Delayed,21.0,Saturday,February
+10768,2027-02-07,Chennai,Grocery,15.9,Low,Clear,Partner D,3451.06,14,65.8,69.8,Delayed,4.0,Sunday,February
+10769,2027-02-08,Mumbai,Beauty,15.76,High,Clear,Partner B,1590.0,7,58.519999999999996,75.52,Delayed,17.0,Monday,February
+10770,2027-02-09,Bangalore,Clothing,11.71,Medium,Cloudy,Partner A,2970.56,7,50.42,62.42,Delayed,12.0,Tuesday,February
+10771,2027-02-10,Pune,Clothing,28.05,Medium,Rainy,Partner D,516.28,21,97.1,121.1,Delayed,24.0,Wednesday,February
+10772,2027-02-11,Pune,Home & Kitchen,25.0,Medium,Clear,Partner C,1118.19,14,84.0,101.0,Delayed,17.0,Thursday,February
+10773,2027-02-12,Delhi,Beauty,21.22,Medium,Clear,Partner C,2155.55,21,83.44,100.44,Delayed,17.0,Friday,February
+10774,2027-02-13,Chennai,Home & Kitchen,21.72,High,Cloudy,Partner C,4697.36,26,89.44,114.44,Delayed,25.0,Saturday,February
+10775,2027-02-14,Delhi,Electronics,14.39,High,Cloudy,Partner C,2010.81,21,69.78,92.78,Delayed,23.0,Sunday,February
+10776,2027-02-15,Mumbai,Beauty,27.71,High,Clear,Partner D,3387.56,25,100.42,119.42,Delayed,19.0,Monday,February
+10777,2027-02-16,Delhi,Grocery,21.14,Low,Cloudy,Partner B,1424.42,8,70.28,80.28,Delayed,10.0,Tuesday,February
+10778,2027-02-17,Bangalore,Electronics,22.14,Medium,Clear,Partner B,809.76,25,89.28,95.28,Delayed,6.0,Wednesday,February
+10779,2027-02-18,Pune,Electronics,25.99,Low,Clear,Partner C,480.98,27,98.97999999999999,101.97999999999999,Delayed,3.0,Thursday,February
+10780,2027-02-19,Mumbai,Grocery,8.95,Medium,Cloudy,Partner B,1665.98,10,47.9,55.9,Delayed,8.0,Friday,February
+10781,2027-02-20,Delhi,Electronics,24.41,Medium,Rainy,Partner C,956.77,16,84.82,111.82,Delayed,27.0,Saturday,February
+10782,2027-02-21,Chennai,Beauty,6.66,Medium,Clear,Partner C,1035.25,29,62.32,68.32,Delayed,5.999999999999993,Sunday,February
+10783,2027-02-22,Bangalore,Home & Kitchen,11.01,Medium,Rainy,Partner A,3851.64,26,68.02,97.02,Delayed,29.0,Monday,February
+10784,2027-02-23,Bangalore,Electronics,10.73,High,Clear,Partner D,276.02,29,70.46000000000001,85.46000000000001,Delayed,15.0,Tuesday,February
+10785,2027-02-24,Delhi,Beauty,29.38,Low,Cloudy,Partner D,2877.49,24,102.75999999999999,111.75999999999999,Delayed,9.0,Wednesday,February
+10786,2027-02-25,Pune,Clothing,25.84,Medium,Clear,Partner C,2021.41,21,92.68,100.68,Delayed,8.0,Thursday,February
+10787,2027-02-26,Delhi,Beauty,21.33,Medium,Rainy,Partner D,2631.44,21,83.66,103.66,Delayed,20.0,Friday,February
+10788,2027-02-27,Mumbai,Home & Kitchen,22.08,Low,Rainy,Partner B,2901.59,14,78.16,89.16,Delayed,11.0,Saturday,February
+10789,2027-02-28,Delhi,Beauty,17.3,Low,Clear,Partner C,1704.16,11,65.6,64.6,On Time,-1.0,Sunday,February
+10790,2027-03-01,Bangalore,Grocery,28.47,High,Rainy,Partner A,1616.52,20,96.94,130.94,Delayed,34.0,Monday,March
+10791,2027-03-02,Delhi,Home & Kitchen,15.39,High,Rainy,Partner B,3720.33,17,67.78,104.78,Delayed,37.0,Tuesday,March
+10792,2027-03-03,Pune,Clothing,12.04,High,Cloudy,Partner A,4382.13,7,51.08,83.08,Delayed,32.0,Wednesday,March
+10793,2027-03-04,Chennai,Grocery,5.73,High,Clear,Partner A,1124.39,6,37.46,62.46,Delayed,25.0,Thursday,March
+10794,2027-03-05,Hyderabad,Beauty,23.8,Low,Rainy,Partner D,668.57,20,87.6,96.6,Delayed,9.0,Friday,March
+10795,2027-03-06,Delhi,Home & Kitchen,22.3,Medium,Rainy,Partner D,4509.42,10,74.6,96.6,Delayed,22.0,Saturday,March
+10796,2027-03-07,Pune,Clothing,12.15,Medium,Clear,Partner C,1879.5,10,54.3,70.3,Delayed,16.0,Sunday,March
+10797,2027-03-08,Pune,Grocery,1.73,Medium,Rainy,Partner D,2846.32,17,40.46,69.46000000000001,Delayed,29.000000000000007,Monday,March
+10798,2027-03-09,Chennai,Clothing,25.33,Medium,Clear,Partner A,1925.81,11,81.66,97.66,Delayed,16.0,Tuesday,March
+10799,2027-03-10,Bangalore,Beauty,1.33,Medium,Clear,Partner A,803.85,9,31.66,38.66,Delayed,6.9999999999999964,Wednesday,March
+10800,2027-03-11,Pune,Clothing,21.41,Medium,Cloudy,Partner B,3028.79,28,90.82,110.82,Delayed,20.0,Thursday,March
+10801,2027-03-12,Pune,Electronics,29.14,Medium,Cloudy,Partner A,2720.68,11,89.28,98.28,Delayed,9.0,Friday,March
+10802,2027-03-13,Pune,Grocery,13.69,Low,Cloudy,Partner C,1174.37,6,53.379999999999995,58.379999999999995,Delayed,5.0,Saturday,March
+10803,2027-03-14,Pune,Clothing,7.81,Medium,Clear,Partner C,2368.97,21,56.62,61.620000000000005,Delayed,5.000000000000007,Sunday,March
+10804,2027-03-15,Mumbai,Beauty,21.44,Medium,Rainy,Partner D,4025.35,17,79.88,104.88,Delayed,25.0,Monday,March
+10805,2027-03-16,Mumbai,Beauty,24.7,Medium,Clear,Partner D,3034.05,29,98.4,113.4,Delayed,15.0,Tuesday,March
+10806,2027-03-17,Bangalore,Clothing,16.85,Low,Clear,Partner D,665.2,25,78.7,79.7,Delayed,1.0,Wednesday,March
+10807,2027-03-18,Delhi,Beauty,29.04,Medium,Clear,Partner C,2830.5,25,103.08,119.08,Delayed,16.0,Thursday,March
+10808,2027-03-19,Pune,Home & Kitchen,2.5,Low,Cloudy,Partner A,3573.14,20,45.0,52.0,Delayed,7.0,Friday,March
+10809,2027-03-20,Chennai,Home & Kitchen,15.64,Medium,Rainy,Partner D,4004.98,30,81.28,110.28,Delayed,29.0,Saturday,March
+10810,2027-03-21,Delhi,Home & Kitchen,21.84,High,Cloudy,Partner B,3219.76,24,87.68,119.68,Delayed,32.0,Sunday,March
+10811,2027-03-22,Chennai,Electronics,26.02,Medium,Rainy,Partner D,932.76,6,78.03999999999999,106.03999999999999,Delayed,28.0,Monday,March
+10812,2027-03-23,Delhi,Clothing,6.2,Low,Clear,Partner C,3608.83,9,41.4,46.4,Delayed,5.0,Tuesday,March
+10813,2027-03-24,Bangalore,Electronics,24.2,Medium,Cloudy,Partner D,3451.24,22,90.4,101.4,Delayed,11.0,Wednesday,March
+10814,2027-03-25,Pune,Beauty,17.03,Medium,Clear,Partner A,317.25,11,65.06,72.06,Delayed,7.0,Thursday,March
+10815,2027-03-26,Pune,Electronics,12.5,High,Clear,Partner D,2176.39,15,60.0,80.0,Delayed,20.0,Friday,March
+10816,2027-03-27,Hyderabad,Beauty,4.82,Medium,Clear,Partner C,1798.16,29,58.64,71.64,Delayed,13.0,Saturday,March
+10817,2027-03-28,Chennai,Beauty,26.09,Medium,Cloudy,Partner C,3413.18,29,101.18,123.18,Delayed,22.0,Sunday,March
+10818,2027-03-29,Delhi,Grocery,5.56,Medium,Cloudy,Partner B,1237.45,15,46.12,62.12,Delayed,16.0,Monday,March
+10819,2027-03-30,Delhi,Home & Kitchen,9.98,Low,Cloudy,Partner C,3036.19,26,65.96000000000001,66.96000000000001,Delayed,1.0,Tuesday,March
+10820,2027-03-31,Mumbai,Beauty,9.41,Low,Clear,Partner B,4583.39,21,59.82,63.82,Delayed,4.0,Wednesday,March
+10821,2027-04-01,Hyderabad,Grocery,26.27,Medium,Clear,Partner A,4029.45,20,92.53999999999999,101.53999999999999,Delayed,9.0,Thursday,April
+10822,2027-04-02,Mumbai,Home & Kitchen,20.51,Medium,Cloudy,Partner C,4623.0,17,78.02000000000001,96.02000000000001,Delayed,18.0,Friday,April
+10823,2027-04-03,Mumbai,Beauty,24.1,Medium,Clear,Partner D,4896.83,26,94.2,111.2,Delayed,17.0,Saturday,April
+10824,2027-04-04,Mumbai,Beauty,8.26,Low,Rainy,Partner A,251.22,9,45.519999999999996,60.519999999999996,Delayed,15.0,Sunday,April
+10825,2027-04-05,Chennai,Electronics,19.12,Low,Cloudy,Partner D,3189.16,24,82.24000000000001,95.24000000000001,Delayed,13.0,Monday,April
+10826,2027-04-06,Chennai,Electronics,17.58,Medium,Clear,Partner D,2181.63,20,75.16,81.16,Delayed,6.0,Tuesday,April
+10827,2027-04-07,Bangalore,Home & Kitchen,25.15,Low,Rainy,Partner D,4327.3,26,96.3,104.3,Delayed,8.0,Wednesday,April
+10828,2027-04-08,Bangalore,Beauty,27.28,Medium,Cloudy,Partner A,1408.71,26,100.56,112.56,Delayed,12.0,Thursday,April
+10829,2027-04-09,Mumbai,Clothing,1.35,Low,Clear,Partner A,4908.94,20,42.7,37.7,On Time,-5.0,Friday,April
+10830,2027-04-10,Hyderabad,Electronics,20.55,Medium,Cloudy,Partner C,3145.8,20,81.1,96.1,Delayed,15.0,Saturday,April
+10831,2027-04-11,Delhi,Home & Kitchen,2.5,High,Clear,Partner D,4008.98,18,43.0,62.0,Delayed,19.0,Sunday,April
+10832,2027-04-12,Chennai,Beauty,16.92,Low,Rainy,Partner B,610.88,10,63.84,81.84,Delayed,18.0,Monday,April
+10833,2027-04-13,Hyderabad,Beauty,9.34,Medium,Rainy,Partner C,1080.6,6,44.68,70.68,Delayed,26.000000000000007,Tuesday,April
+10834,2027-04-14,Pune,Clothing,9.9,Low,Rainy,Partner A,3840.34,18,57.8,65.8,Delayed,8.0,Wednesday,April
+10835,2027-04-15,Chennai,Home & Kitchen,11.24,Medium,Cloudy,Partner B,305.54,20,62.480000000000004,81.48,Delayed,19.0,Thursday,April
+10836,2027-04-16,Chennai,Beauty,19.02,Medium,Clear,Partner A,4121.01,27,85.03999999999999,98.03999999999999,Delayed,13.0,Friday,April
+10837,2027-04-17,Bangalore,Electronics,10.69,Medium,Cloudy,Partner B,266.96,24,65.38,74.38,Delayed,9.0,Saturday,April
+10838,2027-04-18,Delhi,Clothing,22.25,Medium,Clear,Partner C,3354.17,17,81.5,92.5,Delayed,11.0,Sunday,April
+10839,2027-04-19,Delhi,Home & Kitchen,12.73,High,Cloudy,Partner B,1952.45,19,64.46000000000001,89.46000000000001,Delayed,25.0,Monday,April
+10840,2027-04-20,Pune,Clothing,2.98,Low,Cloudy,Partner C,3135.18,16,41.96,52.96,Delayed,11.0,Tuesday,April
+10841,2027-04-21,Pune,Electronics,23.73,Low,Clear,Partner A,3540.95,13,80.46000000000001,80.46000000000001,On Time,0.0,Wednesday,April
+10842,2027-04-22,Chennai,Home & Kitchen,9.29,High,Clear,Partner B,1843.88,30,68.58,96.58,Delayed,28.0,Thursday,April
+10843,2027-04-23,Mumbai,Clothing,13.55,Medium,Rainy,Partner D,718.22,22,69.1,96.1,Delayed,27.0,Friday,April
+10844,2027-04-24,Bangalore,Grocery,20.88,High,Rainy,Partner D,534.3,25,86.75999999999999,119.75999999999999,Delayed,33.0,Saturday,April
+10845,2027-04-25,Bangalore,Electronics,10.64,Medium,Clear,Partner A,3026.89,18,59.28,74.28,Delayed,15.0,Sunday,April
+10846,2027-04-26,Chennai,Electronics,2.64,High,Clear,Partner B,2699.15,24,49.28,64.28,Delayed,15.0,Monday,April
+10847,2027-04-27,Hyderabad,Electronics,11.84,Medium,Clear,Partner D,3762.56,29,72.68,80.68,Delayed,8.0,Tuesday,April
+10848,2027-04-28,Mumbai,Grocery,28.39,Medium,Rainy,Partner C,2646.73,8,84.78,113.78,Delayed,29.0,Wednesday,April
+10849,2027-04-29,Chennai,Grocery,19.61,High,Clear,Partner B,2227.74,12,71.22,92.22,Delayed,21.0,Thursday,April
+10850,2027-04-30,Mumbai,Beauty,20.47,Medium,Cloudy,Partner B,2110.82,12,72.94,95.94,Delayed,23.0,Friday,April
+10851,2027-05-01,Mumbai,Clothing,19.34,Low,Clear,Partner D,326.95,26,84.68,79.68,On Time,-5.0,Saturday,May
+10852,2027-05-02,Mumbai,Beauty,6.77,Low,Cloudy,Partner C,1810.67,26,59.54,69.53999999999999,Delayed,9.999999999999993,Sunday,May
+10853,2027-05-03,Chennai,Clothing,13.13,Low,Clear,Partner C,4884.9,20,66.26,61.260000000000005,On Time,-5.0,Monday,May
+10854,2027-05-04,Bangalore,Grocery,22.78,Low,Cloudy,Partner C,4393.07,28,93.56,101.56,Delayed,8.0,Tuesday,May
+10855,2027-05-05,Bangalore,Grocery,3.94,Medium,Clear,Partner B,1781.01,14,41.879999999999995,51.879999999999995,Delayed,10.0,Wednesday,May
+10856,2027-05-06,Mumbai,Beauty,9.06,Medium,Cloudy,Partner A,3021.42,29,67.12,78.12,Delayed,11.0,Thursday,May
+10857,2027-05-07,Hyderabad,Home & Kitchen,9.01,Medium,Clear,Partner B,4267.02,25,63.019999999999996,70.02,Delayed,7.0,Friday,May
+10858,2027-05-08,Delhi,Beauty,13.53,Medium,Cloudy,Partner B,2318.12,21,68.06,87.06,Delayed,19.0,Saturday,May
+10859,2027-05-09,Chennai,Clothing,29.43,Medium,Rainy,Partner D,286.2,5,83.86,114.86,Delayed,31.0,Sunday,May
+10860,2027-05-10,Delhi,Beauty,2.96,Low,Clear,Partner A,557.65,22,47.92,46.92,On Time,-1.0,Monday,May
+10861,2027-05-11,Hyderabad,Electronics,16.04,Low,Rainy,Partner C,2649.89,14,66.08,81.08,Delayed,15.0,Tuesday,May
+10862,2027-05-12,Chennai,Clothing,6.2,Low,Cloudy,Partner D,4853.31,30,62.4,69.4,Delayed,7.000000000000007,Wednesday,May
+10863,2027-05-13,Mumbai,Clothing,29.15,Medium,Clear,Partner B,3527.41,25,103.3,117.3,Delayed,14.0,Thursday,May
+10864,2027-05-14,Bangalore,Home & Kitchen,4.29,Low,Clear,Partner A,540.4,8,36.58,42.58,Delayed,6.0,Friday,May
+10865,2027-05-15,Delhi,Grocery,12.7,Low,Clear,Partner C,1108.93,5,50.4,58.4,Delayed,8.0,Saturday,May
+10866,2027-05-16,Pune,Clothing,22.4,Medium,Cloudy,Partner C,3902.35,8,72.8,93.8,Delayed,21.0,Sunday,May
+10867,2027-05-17,Pune,Grocery,21.43,High,Cloudy,Partner B,4238.91,8,70.86,99.86,Delayed,29.0,Monday,May
+10868,2027-05-18,Hyderabad,Beauty,13.26,Low,Clear,Partner C,3164.93,30,76.52,81.52,Delayed,5.0,Tuesday,May
+10869,2027-05-19,Mumbai,Electronics,11.05,Medium,Cloudy,Partner C,3293.23,8,50.1,67.1,Delayed,16.999999999999993,Wednesday,May
+10870,2027-05-20,Delhi,Home & Kitchen,12.53,Medium,Rainy,Partner A,336.02,21,66.06,85.06,Delayed,19.0,Thursday,May
+10871,2027-05-21,Mumbai,Grocery,8.66,High,Rainy,Partner D,4176.95,13,50.32,81.32,Delayed,30.999999999999993,Friday,May
+10872,2027-05-22,Delhi,Clothing,6.95,High,Cloudy,Partner A,3983.72,23,56.9,83.9,Delayed,27.000000000000007,Saturday,May
+10873,2027-05-23,Hyderabad,Grocery,15.01,Low,Rainy,Partner D,1443.37,17,67.02,78.02,Delayed,11.0,Sunday,May
+10874,2027-05-24,Hyderabad,Clothing,8.79,Low,Cloudy,Partner D,3601.65,8,45.58,51.58,Delayed,6.0,Monday,May
+10875,2027-05-25,Pune,Grocery,9.34,High,Clear,Partner D,1231.3,9,47.68,72.68,Delayed,25.000000000000007,Tuesday,May
+10876,2027-05-26,Mumbai,Clothing,20.05,Medium,Rainy,Partner C,393.58,17,77.1,105.1,Delayed,28.0,Wednesday,May
+10877,2027-05-27,Chennai,Beauty,29.09,Medium,Clear,Partner A,1165.46,27,105.18,119.18,Delayed,14.0,Thursday,May
+10878,2027-05-28,Pune,Clothing,18.51,Medium,Clear,Partner C,1057.42,20,77.02000000000001,92.02000000000001,Delayed,15.0,Friday,May
+10879,2027-05-29,Mumbai,Clothing,3.23,Medium,Clear,Partner B,1821.19,26,52.46,60.46,Delayed,8.0,Saturday,May
+10880,2027-05-30,Pune,Electronics,3.19,High,Rainy,Partner A,2208.56,9,35.379999999999995,62.379999999999995,Delayed,27.0,Sunday,May
+10881,2027-05-31,Chennai,Clothing,28.59,High,Rainy,Partner D,2640.99,12,89.18,125.18,Delayed,36.0,Monday,May
+10882,2027-06-01,Bangalore,Electronics,9.62,Medium,Clear,Partner C,2488.42,20,59.239999999999995,68.24,Delayed,9.0,Tuesday,June
+10883,2027-06-02,Bangalore,Home & Kitchen,3.67,Low,Clear,Partner C,1499.24,5,32.34,27.340000000000003,On Time,-5.0,Wednesday,June
+10884,2027-06-03,Bangalore,Electronics,18.37,High,Clear,Partner A,340.02,27,83.74000000000001,103.74000000000001,Delayed,20.0,Thursday,June
+10885,2027-06-04,Bangalore,Beauty,19.09,Low,Cloudy,Partner A,3104.49,10,68.18,77.18,Delayed,9.0,Friday,June
+10886,2027-06-05,Delhi,Electronics,19.81,Low,Clear,Partner D,2099.58,15,74.62,84.62,Delayed,10.0,Saturday,June
+10887,2027-06-06,Bangalore,Home & Kitchen,8.75,High,Cloudy,Partner D,1633.63,20,57.5,84.5,Delayed,27.0,Sunday,June
+10888,2027-06-07,Chennai,Beauty,1.44,Low,Clear,Partner B,4361.32,9,31.88,35.879999999999995,Delayed,3.9999999999999964,Monday,June
+10889,2027-06-08,Hyderabad,Grocery,28.99,Low,Clear,Partner D,3784.37,20,97.97999999999999,106.97999999999999,Delayed,9.0,Tuesday,June
+10890,2027-06-09,Hyderabad,Grocery,8.28,Low,Clear,Partner C,4317.27,11,47.56,48.56,Delayed,1.0,Wednesday,June
+10891,2027-06-10,Delhi,Electronics,20.6,High,Clear,Partner B,2575.92,23,84.2,99.2,Delayed,15.0,Thursday,June
+10892,2027-06-11,Bangalore,Electronics,21.49,Medium,Rainy,Partner B,828.47,5,67.97999999999999,93.97999999999999,Delayed,26.0,Friday,June
+10893,2027-06-12,Bangalore,Home & Kitchen,18.69,Medium,Clear,Partner B,3541.86,13,70.38,78.38,Delayed,8.0,Saturday,June
+10894,2027-06-13,Bangalore,Home & Kitchen,10.07,Low,Clear,Partner A,1189.15,22,62.14,65.14,Delayed,3.0,Sunday,June
+10895,2027-06-14,Pune,Clothing,8.86,High,Clear,Partner D,2317.9,17,54.72,81.72,Delayed,27.0,Monday,June
+10896,2027-06-15,Mumbai,Home & Kitchen,18.33,High,Clear,Partner B,512.0,30,86.66,101.66,Delayed,15.0,Tuesday,June
+10897,2027-06-16,Pune,Clothing,26.12,Medium,Clear,Partner A,4161.48,19,91.24000000000001,104.24000000000001,Delayed,13.0,Wednesday,June
+10898,2027-06-17,Mumbai,Beauty,28.46,Medium,Clear,Partner A,804.52,7,83.92,95.92,Delayed,12.0,Thursday,June
+10899,2027-06-18,Bangalore,Electronics,4.07,Low,Cloudy,Partner B,4534.87,28,56.14,58.14,Delayed,2.0,Friday,June
+10900,2027-06-19,Bangalore,Beauty,5.49,High,Cloudy,Partner B,4348.31,14,44.980000000000004,67.98,Delayed,23.0,Saturday,June
+10901,2027-06-20,Pune,Home & Kitchen,28.4,Medium,Clear,Partner C,2430.0,13,89.8,100.8,Delayed,11.0,Sunday,June
+10902,2027-06-21,Pune,Beauty,22.36,High,Clear,Partner B,3772.97,17,81.72,99.72,Delayed,18.0,Monday,June
+10903,2027-06-22,Mumbai,Beauty,26.61,Medium,Rainy,Partner C,3173.34,20,93.22,123.22,Delayed,30.0,Tuesday,June
+10904,2027-06-23,Hyderabad,Beauty,6.88,High,Clear,Partner B,4054.76,7,40.76,68.75999999999999,Delayed,27.999999999999993,Wednesday,June
+10905,2027-06-24,Mumbai,Home & Kitchen,18.04,High,Clear,Partner B,2272.66,26,82.08,102.08,Delayed,20.0,Thursday,June
+10906,2027-06-25,Pune,Beauty,21.33,Medium,Clear,Partner D,3971.88,27,89.66,100.66,Delayed,11.0,Friday,June
+10907,2027-06-26,Chennai,Clothing,20.72,High,Clear,Partner B,2419.79,19,80.44,105.44,Delayed,25.0,Saturday,June
+10908,2027-06-27,Pune,Home & Kitchen,12.84,Medium,Cloudy,Partner B,4716.64,21,66.68,88.68,Delayed,22.0,Sunday,June
+10909,2027-06-28,Chennai,Beauty,1.45,Low,Clear,Partner C,2534.59,18,40.9,40.9,On Time,0.0,Monday,June
+10910,2027-06-29,Delhi,Home & Kitchen,17.9,Medium,Cloudy,Partner C,2420.57,11,66.8,84.8,Delayed,18.0,Tuesday,June
+10911,2027-06-30,Pune,Grocery,8.34,Medium,Clear,Partner D,3968.34,24,60.68,77.68,Delayed,17.000000000000007,Wednesday,June
+10912,2027-07-01,Delhi,Clothing,14.06,Medium,Clear,Partner B,4143.57,20,68.12,87.12,Delayed,19.0,Thursday,July
+10913,2027-07-02,Hyderabad,Beauty,28.77,Low,Cloudy,Partner B,2861.55,25,102.53999999999999,111.53999999999999,Delayed,9.0,Friday,July
+10914,2027-07-03,Mumbai,Grocery,12.57,Medium,Clear,Partner C,1063.03,12,57.14,67.14,Delayed,10.0,Saturday,July
+10915,2027-07-04,Chennai,Grocery,25.35,Medium,Cloudy,Partner A,2445.24,8,78.7,87.7,Delayed,9.0,Sunday,July
+10916,2027-07-05,Mumbai,Home & Kitchen,6.47,Medium,Clear,Partner A,4846.75,24,56.94,65.94,Delayed,9.0,Monday,July
+10917,2027-07-06,Delhi,Grocery,20.5,Medium,Cloudy,Partner A,3814.33,28,89.0,99.0,Delayed,10.0,Tuesday,July
+10918,2027-07-07,Chennai,Clothing,29.33,Medium,Clear,Partner C,4093.58,19,97.66,108.66,Delayed,11.0,Wednesday,July
+10919,2027-07-08,Mumbai,Clothing,3.95,Low,Rainy,Partner C,357.56,9,36.9,46.9,Delayed,10.0,Thursday,July
+10920,2027-07-09,Pune,Electronics,1.24,Medium,Clear,Partner A,2445.73,17,39.480000000000004,44.480000000000004,Delayed,5.0,Friday,July
+10921,2027-07-10,Bangalore,Clothing,13.57,Low,Rainy,Partner A,3303.78,10,57.14,75.14,Delayed,18.0,Saturday,July
+10922,2027-07-11,Delhi,Grocery,3.69,Low,Clear,Partner B,4184.16,9,36.379999999999995,42.379999999999995,Delayed,6.0,Sunday,July
+10923,2027-07-12,Mumbai,Clothing,22.7,High,Cloudy,Partner C,436.51,21,86.4,109.4,Delayed,23.0,Monday,July
+10924,2027-07-13,Delhi,Home & Kitchen,27.52,High,Clear,Partner C,4291.71,11,86.03999999999999,106.03999999999999,Delayed,20.0,Tuesday,July
+10925,2027-07-14,Delhi,Electronics,13.59,Medium,Rainy,Partner A,2832.32,10,57.18,80.18,Delayed,23.000000000000007,Wednesday,July
+10926,2027-07-15,Chennai,Grocery,8.5,High,Clear,Partner A,1147.11,6,43.0,72.0,Delayed,29.0,Thursday,July
+10927,2027-07-16,Chennai,Electronics,13.6,High,Clear,Partner D,1722.83,15,62.2,92.2,Delayed,30.0,Friday,July
+10928,2027-07-17,Bangalore,Grocery,21.98,High,Clear,Partner C,1553.26,11,74.96000000000001,99.96000000000001,Delayed,25.0,Saturday,July
+10929,2027-07-18,Pune,Home & Kitchen,1.26,Low,Clear,Partner D,2748.12,26,48.519999999999996,50.519999999999996,Delayed,2.0,Sunday,July
+10930,2027-07-19,Delhi,Electronics,18.09,High,Clear,Partner B,448.09,25,81.18,110.18,Delayed,29.0,Monday,July
+10931,2027-07-20,Mumbai,Beauty,18.79,Medium,Rainy,Partner D,960.97,12,69.58,88.58,Delayed,19.0,Tuesday,July
+10932,2027-07-21,Hyderabad,Grocery,19.49,Medium,Rainy,Partner A,4100.93,9,67.97999999999999,97.97999999999999,Delayed,30.0,Wednesday,July
+10933,2027-07-22,Delhi,Beauty,8.02,Low,Clear,Partner C,836.5,22,58.04,58.04,On Time,0.0,Thursday,July
+10934,2027-07-23,Delhi,Electronics,21.71,Medium,Rainy,Partner C,1320.3,26,89.42,115.42,Delayed,26.0,Friday,July
+10935,2027-07-24,Bangalore,Beauty,3.65,Low,Cloudy,Partner D,2376.18,20,47.3,46.3,On Time,-1.0,Saturday,July
+10936,2027-07-25,Pune,Beauty,6.78,Low,Clear,Partner D,2682.18,18,51.56,58.56,Delayed,7.0,Sunday,July
+10937,2027-07-26,Hyderabad,Electronics,26.45,Medium,Cloudy,Partner B,3865.33,16,88.9,109.9,Delayed,21.0,Monday,July
+10938,2027-07-27,Chennai,Home & Kitchen,22.42,High,Cloudy,Partner B,2347.2,21,85.84,111.84,Delayed,26.0,Tuesday,July
+10939,2027-07-28,Chennai,Beauty,1.4,High,Rainy,Partner A,3991.35,9,31.8,59.8,Delayed,27.999999999999996,Wednesday,July
+10940,2027-07-29,Mumbai,Beauty,8.2,Medium,Clear,Partner A,3168.06,18,54.4,61.400000000000006,Delayed,7.000000000000007,Thursday,July
+10941,2027-07-30,Hyderabad,Home & Kitchen,7.22,High,Cloudy,Partner A,742.88,10,44.44,73.44,Delayed,29.0,Friday,July
+10942,2027-07-31,Chennai,Beauty,8.85,High,Clear,Partner D,950.39,19,56.7,85.7,Delayed,29.0,Saturday,July
+10943,2027-08-01,Mumbai,Beauty,8.18,High,Clear,Partner D,2297.76,11,47.36,76.36,Delayed,29.0,Sunday,August
+10944,2027-08-02,Pune,Beauty,2.81,Low,Clear,Partner C,2105.07,18,43.620000000000005,50.620000000000005,Delayed,7.0,Monday,August
+10945,2027-08-03,Mumbai,Clothing,14.31,Medium,Rainy,Partner A,3769.01,22,70.62,96.62,Delayed,26.0,Tuesday,August
+10946,2027-08-04,Chennai,Home & Kitchen,22.25,High,Rainy,Partner D,2987.54,5,69.5,107.5,Delayed,38.0,Wednesday,August
+10947,2027-08-05,Bangalore,Beauty,18.6,Medium,Cloudy,Partner C,2063.04,10,67.2,86.2,Delayed,19.0,Thursday,August
+10948,2027-08-06,Bangalore,Home & Kitchen,20.51,Medium,Cloudy,Partner A,1019.65,7,68.02000000000001,77.02000000000001,Delayed,9.0,Friday,August
+10949,2027-08-07,Bangalore,Grocery,3.35,Medium,Clear,Partner B,1288.82,9,35.7,48.7,Delayed,13.0,Saturday,August
+10950,2027-08-08,Chennai,Grocery,28.59,Medium,Clear,Partner B,2962.4,16,93.18,98.18,Delayed,5.0,Sunday,August
+10951,2027-08-09,Bangalore,Beauty,25.32,Medium,Clear,Partner D,2232.51,15,85.64,94.64,Delayed,9.0,Monday,August
+10952,2027-08-10,Hyderabad,Home & Kitchen,24.35,Low,Clear,Partner C,2671.65,17,85.7,95.7,Delayed,10.0,Tuesday,August
+10953,2027-08-11,Pune,Home & Kitchen,24.87,Medium,Cloudy,Partner B,1019.25,20,89.74000000000001,97.74000000000001,Delayed,8.0,Wednesday,August
+10954,2027-08-12,Mumbai,Home & Kitchen,28.05,High,Cloudy,Partner C,3381.95,22,98.1,120.1,Delayed,22.0,Thursday,August
+10955,2027-08-13,Mumbai,Clothing,16.78,High,Clear,Partner C,4292.19,21,74.56,96.56,Delayed,22.0,Friday,August
+10956,2027-08-14,Chennai,Grocery,6.81,Low,Clear,Partner B,1438.11,21,54.62,56.62,Delayed,2.0,Saturday,August
+10957,2027-08-15,Bangalore,Home & Kitchen,18.89,High,Clear,Partner C,2559.27,15,72.78,97.78,Delayed,25.0,Sunday,August
+10958,2027-08-16,Bangalore,Home & Kitchen,22.54,Medium,Clear,Partner B,4882.53,24,89.08,101.08,Delayed,12.0,Monday,August
+10959,2027-08-17,Delhi,Clothing,22.4,Medium,Rainy,Partner D,1799.56,14,78.8,96.8,Delayed,18.0,Tuesday,August
+10960,2027-08-18,Pune,Clothing,16.12,High,Cloudy,Partner A,3056.22,20,72.24000000000001,97.24000000000001,Delayed,25.0,Wednesday,August
+10961,2027-08-19,Hyderabad,Home & Kitchen,2.99,High,Rainy,Partner A,632.94,6,31.98,69.98,Delayed,38.0,Thursday,August
+10962,2027-08-20,Mumbai,Electronics,11.76,High,Clear,Partner D,3108.87,21,64.52,83.52,Delayed,19.0,Friday,August
+10963,2027-08-21,Delhi,Home & Kitchen,27.7,Medium,Clear,Partner B,630.23,26,101.4,120.4,Delayed,19.0,Saturday,August
+10964,2027-08-22,Delhi,Home & Kitchen,17.95,High,Clear,Partner B,4804.33,24,79.9,94.9,Delayed,15.0,Sunday,August
+10965,2027-08-23,Chennai,Clothing,16.61,Low,Rainy,Partner B,3635.18,14,67.22,80.22,Delayed,13.0,Monday,August
+10966,2027-08-24,Mumbai,Clothing,8.8,Medium,Cloudy,Partner B,3983.17,17,54.6,74.6,Delayed,19.999999999999993,Tuesday,August
+10967,2027-08-25,Chennai,Home & Kitchen,11.69,Medium,Clear,Partner D,3579.7,16,59.379999999999995,69.38,Delayed,10.0,Wednesday,August
+10968,2027-08-26,Hyderabad,Home & Kitchen,26.97,Medium,Cloudy,Partner A,3030.7,19,92.94,104.94,Delayed,12.0,Thursday,August
+10969,2027-08-27,Delhi,Home & Kitchen,20.33,Low,Clear,Partner C,2359.58,11,71.66,66.66,On Time,-5.0,Friday,August
+10970,2027-08-28,Delhi,Clothing,23.83,High,Cloudy,Partner C,4320.19,26,93.66,124.66,Delayed,31.0,Saturday,August
+10971,2027-08-29,Pune,Home & Kitchen,14.18,Low,Rainy,Partner A,4792.81,25,73.36,93.36,Delayed,20.0,Sunday,August
+10972,2027-08-30,Hyderabad,Home & Kitchen,19.28,Low,Cloudy,Partner D,2595.37,30,88.56,101.56,Delayed,13.0,Monday,August
+10973,2027-08-31,Delhi,Beauty,8.2,Medium,Cloudy,Partner C,4671.37,17,53.4,61.400000000000006,Delayed,8.000000000000007,Tuesday,August
+10974,2027-09-01,Hyderabad,Electronics,21.46,Medium,Clear,Partner A,3000.0,16,78.92,88.92,Delayed,10.0,Wednesday,September
+10975,2027-09-02,Mumbai,Grocery,13.4,High,Clear,Partner D,2784.24,16,62.8,86.8,Delayed,24.0,Thursday,September
+10976,2027-09-03,Bangalore,Electronics,13.83,Medium,Clear,Partner C,2381.52,6,53.66,69.66,Delayed,16.0,Friday,September
+10977,2027-09-04,Delhi,Beauty,19.83,Low,Clear,Partner B,1204.58,9,68.66,69.66,Delayed,1.0,Saturday,September
+10978,2027-09-05,Pune,Grocery,28.15,High,Cloudy,Partner B,217.85,29,105.3,132.3,Delayed,27.000000000000014,Sunday,September
+10979,2027-09-06,Mumbai,Home & Kitchen,2.86,Medium,Cloudy,Partner D,1359.23,29,54.72,71.72,Delayed,17.0,Monday,September
+10980,2027-09-07,Hyderabad,Beauty,24.92,Low,Clear,Partner B,2646.67,6,75.84,70.84,On Time,-5.0,Tuesday,September
+10981,2027-09-08,Chennai,Home & Kitchen,9.48,Medium,Rainy,Partner D,2023.81,27,65.96000000000001,97.96000000000001,Delayed,32.0,Wednesday,September
+10982,2027-09-09,Mumbai,Clothing,13.87,Medium,Clear,Partner A,2352.73,30,77.74,90.74,Delayed,13.0,Thursday,September
+10983,2027-09-10,Delhi,Beauty,1.64,Medium,Clear,Partner A,4907.11,24,47.28,66.28,Delayed,19.0,Friday,September
+10984,2027-09-11,Hyderabad,Clothing,9.73,Medium,Clear,Partner C,1881.31,17,56.46,64.46000000000001,Delayed,8.000000000000007,Saturday,September
+10985,2027-09-12,Bangalore,Beauty,15.58,High,Clear,Partner D,2370.48,7,58.16,77.16,Delayed,19.0,Sunday,September
+10986,2027-09-13,Mumbai,Beauty,2.63,High,Clear,Partner C,840.87,15,40.26,56.26,Delayed,16.0,Monday,September
+10987,2027-09-14,Delhi,Clothing,15.24,Medium,Clear,Partner C,430.2,20,70.48,88.48,Delayed,18.0,Tuesday,September
+10988,2027-09-15,Pune,Grocery,27.89,Low,Clear,Partner A,3921.97,5,80.78,86.78,Delayed,6.0,Wednesday,September
+10989,2027-09-16,Chennai,Electronics,4.06,High,Rainy,Partner C,2939.28,23,51.12,87.12,Delayed,36.00000000000001,Thursday,September
+10990,2027-09-17,Hyderabad,Home & Kitchen,23.17,Medium,Clear,Partner B,3851.38,15,81.34,98.34,Delayed,17.0,Friday,September
+10991,2027-09-18,Mumbai,Beauty,12.88,Medium,Clear,Partner C,919.34,13,58.760000000000005,70.76,Delayed,12.0,Saturday,September
+10992,2027-09-19,Mumbai,Home & Kitchen,20.0,Medium,Clear,Partner D,2944.78,18,78.0,96.0,Delayed,18.0,Sunday,September
+10993,2027-09-20,Bangalore,Clothing,8.55,High,Cloudy,Partner B,1417.48,13,50.1,69.1,Delayed,18.999999999999993,Monday,September
+10994,2027-09-21,Bangalore,Home & Kitchen,5.63,Medium,Clear,Partner A,1294.7,11,42.26,49.26,Delayed,7.0,Tuesday,September
+10995,2027-09-22,Pune,Clothing,5.65,Low,Rainy,Partner D,255.32,20,51.3,72.3,Delayed,21.0,Wednesday,September
+10996,2027-09-23,Chennai,Home & Kitchen,3.04,Medium,Cloudy,Partner B,825.64,7,33.08,52.08,Delayed,19.0,Thursday,September
+10997,2027-09-24,Pune,Electronics,6.38,High,Cloudy,Partner D,1684.49,23,55.76,87.75999999999999,Delayed,31.999999999999993,Friday,September
+10998,2027-09-25,Delhi,Electronics,20.26,Low,Cloudy,Partner B,761.02,8,68.52000000000001,74.52000000000001,Delayed,6.0,Saturday,September
+10999,2027-09-26,Delhi,Electronics,26.57,High,Clear,Partner D,4932.12,11,84.14,100.14,Delayed,16.0,Sunday,September
+11000,2027-09-27,Pune,Electronics,24.61,Medium,Clear,Partner D,1681.44,27,96.22,114.22,Delayed,18.0,Monday,September
+11001,2027-09-28,Chennai,Electronics,20.87,Medium,Clear,Partner B,825.55,16,77.74000000000001,87.74000000000001,Delayed,10.0,Tuesday,September
+11002,2027-09-29,Pune,Electronics,4.2,Low,Cloudy,Partner A,1155.6,22,50.4,59.4,Delayed,9.0,Wednesday,September
+11003,2027-09-30,Chennai,Clothing,9.39,Low,Clear,Partner A,3020.98,9,47.78,45.78,On Time,-2.0,Thursday,September
+11004,2027-10-01,Chennai,Beauty,9.98,High,Clear,Partner D,507.41,27,66.96000000000001,87.96000000000001,Delayed,21.0,Friday,October
+11005,2027-10-02,Hyderabad,Home & Kitchen,8.25,Low,Rainy,Partner D,4339.68,27,63.5,83.5,Delayed,20.0,Saturday,October
+11006,2027-10-03,Chennai,Electronics,15.94,High,Clear,Partner A,4815.2,26,77.88,105.88,Delayed,28.0,Sunday,October
+11007,2027-10-04,Bangalore,Clothing,16.53,Medium,Rainy,Partner A,1384.39,30,83.06,105.06,Delayed,22.0,Monday,October
+11008,2027-10-05,Chennai,Clothing,11.35,Low,Cloudy,Partner C,2360.46,14,56.7,63.7,Delayed,7.0,Tuesday,October
+11009,2027-10-06,Chennai,Clothing,11.26,Low,Clear,Partner A,306.25,16,58.519999999999996,66.52,Delayed,8.0,Wednesday,October
+11010,2027-10-07,Chennai,Beauty,25.03,Medium,Clear,Partner D,3275.41,12,82.06,95.06,Delayed,13.0,Thursday,October
+11011,2027-10-08,Delhi,Home & Kitchen,23.89,High,Clear,Partner B,2186.85,23,90.78,118.78,Delayed,28.0,Friday,October
+11012,2027-10-09,Bangalore,Beauty,9.93,Medium,Cloudy,Partner A,1496.28,19,58.86,74.86,Delayed,16.0,Saturday,October
+11013,2027-10-10,Bangalore,Grocery,27.5,Medium,Cloudy,Partner C,1192.82,5,80.0,97.0,Delayed,17.0,Sunday,October
+11014,2027-10-11,Pune,Clothing,28.63,Medium,Cloudy,Partner C,3339.31,7,84.25999999999999,95.25999999999999,Delayed,11.0,Monday,October
+11015,2027-10-12,Hyderabad,Grocery,10.48,Medium,Rainy,Partner C,2197.84,22,62.96,94.96000000000001,Delayed,32.00000000000001,Tuesday,October
+11016,2027-10-13,Chennai,Electronics,11.28,Medium,Cloudy,Partner B,1062.36,22,64.56,72.56,Delayed,8.0,Wednesday,October
+11017,2027-10-14,Mumbai,Electronics,15.66,High,Clear,Partner A,3507.72,6,57.32,73.32,Delayed,15.999999999999993,Thursday,October
+11018,2027-10-15,Hyderabad,Beauty,28.29,Medium,Clear,Partner A,2912.35,9,85.58,105.58,Delayed,20.0,Friday,October
+11019,2027-10-16,Hyderabad,Home & Kitchen,26.41,Medium,Rainy,Partner A,4321.63,5,77.82,101.82,Delayed,24.0,Saturday,October
+11020,2027-10-17,Bangalore,Grocery,3.97,Low,Clear,Partner B,763.88,14,41.94,49.94,Delayed,8.0,Sunday,October
+11021,2027-10-18,Hyderabad,Home & Kitchen,12.39,High,Clear,Partner B,3971.2,24,68.78,92.78,Delayed,24.0,Monday,October
+11022,2027-10-19,Chennai,Beauty,17.05,Low,Cloudy,Partner D,3432.88,14,68.1,73.1,Delayed,5.0,Tuesday,October
+11023,2027-10-20,Chennai,Electronics,15.59,Low,Clear,Partner C,752.05,9,60.18,68.18,Delayed,8.000000000000007,Wednesday,October
+11024,2027-10-21,Delhi,Home & Kitchen,6.62,Medium,Rainy,Partner C,3535.14,22,55.24,86.24000000000001,Delayed,31.000000000000007,Thursday,October
+11025,2027-10-22,Chennai,Home & Kitchen,25.91,Medium,Cloudy,Partner A,2319.43,25,96.82,105.82,Delayed,9.0,Friday,October
+11026,2027-10-23,Chennai,Electronics,20.63,Medium,Clear,Partner B,4735.93,30,91.25999999999999,111.25999999999999,Delayed,20.0,Saturday,October
+11027,2027-10-24,Bangalore,Grocery,25.3,Medium,Rainy,Partner B,879.73,19,89.6,109.6,Delayed,20.0,Sunday,October
+11028,2027-10-25,Chennai,Electronics,25.9,High,Clear,Partner A,3285.6,24,95.8,110.8,Delayed,15.0,Monday,October
+11029,2027-10-26,Delhi,Home & Kitchen,22.7,Low,Clear,Partner A,2033.5,12,77.4,78.4,Delayed,1.0,Tuesday,October
+11030,2027-10-27,Mumbai,Grocery,13.74,High,Clear,Partner D,4792.71,21,68.48,86.48,Delayed,18.0,Wednesday,October
+11031,2027-10-28,Bangalore,Grocery,18.71,Medium,Clear,Partner C,1783.88,16,73.42,88.42,Delayed,15.0,Thursday,October
+11032,2027-10-29,Mumbai,Electronics,5.65,Medium,Clear,Partner C,4818.49,25,56.3,74.3,Delayed,18.0,Friday,October
+11033,2027-10-30,Bangalore,Home & Kitchen,20.54,Medium,Clear,Partner C,4527.13,16,77.08,89.08,Delayed,12.0,Saturday,October
+11034,2027-10-31,Pune,Beauty,6.2,Low,Clear,Partner D,1497.84,30,62.4,65.4,Delayed,3.000000000000007,Sunday,October
+11035,2027-11-01,Hyderabad,Home & Kitchen,21.12,High,Clear,Partner A,4057.0,5,67.24000000000001,93.24000000000001,Delayed,26.0,Monday,November
+11036,2027-11-02,Pune,Clothing,7.66,Medium,Cloudy,Partner A,4978.9,30,65.32,81.32,Delayed,16.0,Tuesday,November
+11037,2027-11-03,Chennai,Beauty,4.41,Medium,Rainy,Partner C,1412.78,30,58.82,77.82,Delayed,18.999999999999993,Wednesday,November
+11038,2027-11-04,Mumbai,Grocery,5.79,Medium,Clear,Partner C,2296.53,8,39.58,48.58,Delayed,9.0,Thursday,November
+11039,2027-11-05,Chennai,Beauty,1.06,High,Clear,Partner D,2696.87,12,34.120000000000005,54.120000000000005,Delayed,20.0,Friday,November
+11040,2027-11-06,Hyderabad,Grocery,21.84,Medium,Clear,Partner B,1615.67,5,68.68,78.68,Delayed,10.0,Saturday,November
+11041,2027-11-07,Bangalore,Grocery,22.24,High,Clear,Partner B,273.27,19,83.47999999999999,107.47999999999999,Delayed,24.0,Sunday,November
+11042,2027-11-08,Hyderabad,Beauty,15.93,Medium,Cloudy,Partner C,1256.62,22,73.86,88.86,Delayed,15.0,Monday,November
+11043,2027-11-09,Delhi,Grocery,5.68,Low,Cloudy,Partner D,1553.3,5,36.36,39.36,Delayed,3.0,Tuesday,November
+11044,2027-11-10,Hyderabad,Grocery,3.42,Low,Clear,Partner C,2329.28,15,41.84,41.84,On Time,0.0,Wednesday,November
+11045,2027-11-11,Delhi,Clothing,1.55,Medium,Clear,Partner B,1021.29,27,50.1,58.1,Delayed,8.0,Thursday,November
+11046,2027-11-12,Hyderabad,Home & Kitchen,5.81,Low,Clear,Partner C,4391.62,6,37.62,38.62,Delayed,1.0,Friday,November
+11047,2027-11-13,Delhi,Home & Kitchen,26.83,Low,Cloudy,Partner B,3583.57,5,78.66,89.66,Delayed,11.0,Saturday,November
+11048,2027-11-14,Mumbai,Clothing,8.0,High,Clear,Partner B,608.96,16,52.0,80.0,Delayed,28.0,Sunday,November
+11049,2027-11-15,Chennai,Beauty,11.27,High,Rainy,Partner B,3320.44,20,62.54,96.53999999999999,Delayed,33.99999999999999,Monday,November
+11050,2027-11-16,Chennai,Electronics,4.06,Medium,Cloudy,Partner A,3337.55,26,54.12,64.12,Delayed,10.000000000000007,Tuesday,November
+11051,2027-11-17,Pune,Electronics,7.45,Low,Clear,Partner A,4789.86,26,60.9,61.9,Delayed,1.0,Wednesday,November
+11052,2027-11-18,Chennai,Electronics,16.06,Low,Cloudy,Partner C,214.5,14,66.12,66.12,On Time,0.0,Thursday,November
+11053,2027-11-19,Bangalore,Clothing,18.62,Low,Rainy,Partner B,1390.08,22,79.24000000000001,93.24000000000001,Delayed,14.0,Friday,November
+11054,2027-11-20,Hyderabad,Clothing,8.12,Medium,Cloudy,Partner A,4653.4,19,55.239999999999995,63.239999999999995,Delayed,8.0,Saturday,November
+11055,2027-11-21,Pune,Grocery,2.67,High,Clear,Partner C,4674.24,21,46.34,61.34,Delayed,15.0,Sunday,November
+11056,2027-11-22,Bangalore,Electronics,12.34,Medium,Clear,Partner C,3658.81,14,58.68,76.68,Delayed,18.000000000000007,Monday,November
+11057,2027-11-23,Bangalore,Beauty,7.79,Low,Rainy,Partner C,3875.66,7,42.58,54.58,Delayed,12.0,Tuesday,November
+11058,2027-11-24,Delhi,Beauty,7.37,Medium,Cloudy,Partner C,639.12,30,64.74000000000001,81.74000000000001,Delayed,17.0,Wednesday,November
+11059,2027-11-25,Chennai,Electronics,28.84,Medium,Cloudy,Partner C,2666.6,25,102.68,118.68,Delayed,16.0,Thursday,November
+11060,2027-11-26,Mumbai,Electronics,18.87,Medium,Rainy,Partner D,1311.6,20,77.74000000000001,105.74000000000001,Delayed,28.0,Friday,November
+11061,2027-11-27,Mumbai,Electronics,17.15,Medium,Rainy,Partner B,1069.85,10,64.3,94.3,Delayed,30.0,Saturday,November
+11062,2027-11-28,Pune,Clothing,13.06,Medium,Rainy,Partner C,4089.46,7,53.120000000000005,73.12,Delayed,20.0,Sunday,November
+11063,2027-11-29,Mumbai,Clothing,13.44,Low,Clear,Partner D,848.18,13,59.879999999999995,59.879999999999995,On Time,0.0,Monday,November
+11064,2027-11-30,Hyderabad,Clothing,16.69,Low,Cloudy,Partner B,2449.53,15,68.38,81.38,Delayed,13.0,Tuesday,November
+11065,2027-12-01,Mumbai,Home & Kitchen,21.2,High,Cloudy,Partner A,4705.18,25,87.4,116.4,Delayed,29.0,Wednesday,December
+11066,2027-12-02,Pune,Beauty,21.36,Low,Cloudy,Partner C,1091.99,17,79.72,81.72,Delayed,2.0,Thursday,December
+11067,2027-12-03,Mumbai,Beauty,5.98,Low,Cloudy,Partner D,4894.37,22,53.96,62.96,Delayed,9.0,Friday,December
+11068,2027-12-04,Hyderabad,Grocery,15.5,Low,Clear,Partner A,4972.58,30,81.0,90.0,Delayed,9.0,Saturday,December
+11069,2027-12-05,Delhi,Clothing,12.95,Low,Cloudy,Partner D,2866.96,26,71.9,69.9,On Time,-2.0,Sunday,December
+11070,2027-12-06,Pune,Home & Kitchen,26.25,Medium,Cloudy,Partner B,1016.69,28,100.5,113.5,Delayed,13.0,Monday,December
+11071,2027-12-07,Delhi,Home & Kitchen,19.31,High,Clear,Partner B,1717.3,26,84.62,107.62,Delayed,23.0,Tuesday,December
+11072,2027-12-08,Delhi,Beauty,16.44,Medium,Clear,Partner A,2237.57,8,60.88,79.88,Delayed,18.999999999999993,Wednesday,December
+11073,2027-12-09,Delhi,Clothing,4.35,Medium,Clear,Partner D,1684.76,26,54.7,73.7,Delayed,19.0,Thursday,December
+11074,2027-12-10,Bangalore,Grocery,18.56,Medium,Clear,Partner C,1547.05,28,85.12,101.12,Delayed,16.0,Friday,December
+11075,2027-12-11,Chennai,Clothing,4.4,Medium,Clear,Partner C,4866.7,12,40.8,47.8,Delayed,7.0,Saturday,December
+11076,2027-12-12,Bangalore,Electronics,10.78,High,Clear,Partner A,936.15,17,58.56,83.56,Delayed,25.0,Sunday,December
+11077,2027-12-13,Chennai,Clothing,5.14,High,Cloudy,Partner A,3719.97,14,44.28,76.28,Delayed,32.0,Monday,December
+11078,2027-12-14,Delhi,Electronics,21.07,Low,Cloudy,Partner A,201.97,6,68.14,68.14,On Time,0.0,Tuesday,December
+11079,2027-12-15,Pune,Electronics,6.98,High,Cloudy,Partner D,3061.68,12,45.96,76.96000000000001,Delayed,31.000000000000007,Wednesday,December
+11080,2027-12-16,Chennai,Grocery,12.36,Medium,Rainy,Partner C,4596.53,10,54.72,72.72,Delayed,18.0,Thursday,December
+11081,2027-12-17,Hyderabad,Beauty,26.97,High,Clear,Partner C,1582.08,20,93.94,120.94,Delayed,27.0,Friday,December
+11082,2027-12-18,Hyderabad,Clothing,6.93,Medium,Clear,Partner C,1090.52,22,55.86,63.86,Delayed,8.0,Saturday,December
+11083,2027-12-19,Mumbai,Electronics,15.73,High,Rainy,Partner A,3328.06,21,72.46000000000001,108.46000000000001,Delayed,36.0,Sunday,December
+11084,2027-12-20,Chennai,Clothing,13.16,High,Clear,Partner C,3620.49,10,56.32,73.32,Delayed,16.999999999999993,Monday,December
+11085,2027-12-21,Pune,Beauty,1.53,Low,Rainy,Partner B,3502.55,17,40.06,58.06,Delayed,18.0,Tuesday,December
+11086,2027-12-22,Bangalore,Beauty,23.99,Medium,Rainy,Partner A,1732.72,27,94.97999999999999,112.97999999999999,Delayed,18.0,Wednesday,December
+11087,2027-12-23,Delhi,Home & Kitchen,3.0,High,Cloudy,Partner C,1410.57,18,44.0,62.0,Delayed,18.0,Thursday,December
+11088,2027-12-24,Mumbai,Beauty,14.75,High,Rainy,Partner D,4788.41,30,79.5,108.5,Delayed,29.0,Friday,December
+11089,2027-12-25,Hyderabad,Grocery,17.26,Low,Clear,Partner A,4631.84,25,79.52000000000001,89.52000000000001,Delayed,10.0,Saturday,December
+11090,2027-12-26,Bangalore,Electronics,19.22,Medium,Clear,Partner B,2395.12,14,72.44,86.44,Delayed,14.0,Sunday,December
+11091,2027-12-27,Bangalore,Home & Kitchen,20.97,Medium,Cloudy,Partner B,4261.73,28,89.94,112.94,Delayed,23.0,Monday,December
+11092,2027-12-28,Delhi,Grocery,8.34,Low,Clear,Partner D,2371.15,15,51.68,51.68,On Time,0.0,Tuesday,December
+11093,2027-12-29,Chennai,Clothing,1.29,Medium,Rainy,Partner D,2237.07,17,39.58,64.58,Delayed,25.0,Wednesday,December
+11094,2027-12-30,Hyderabad,Electronics,21.98,Low,Clear,Partner A,952.46,16,79.96000000000001,84.96000000000001,Delayed,5.0,Thursday,December
+11095,2027-12-31,Pune,Beauty,16.53,High,Cloudy,Partner A,2246.75,13,66.06,88.06,Delayed,22.0,Friday,December
+11096,2028-01-01,Bangalore,Electronics,25.25,Medium,Cloudy,Partner B,2779.6,8,78.5,100.5,Delayed,22.0,Saturday,January
+11097,2028-01-02,Delhi,Clothing,24.82,High,Cloudy,Partner D,308.02,11,80.64,100.64,Delayed,20.0,Sunday,January
+11098,2028-01-03,Pune,Home & Kitchen,25.46,Low,Clear,Partner A,2331.74,28,98.92,108.92,Delayed,10.0,Monday,January
+11099,2028-01-04,Chennai,Home & Kitchen,15.07,Medium,Clear,Partner B,3950.51,26,76.14,94.14,Delayed,18.0,Tuesday,January
+11100,2028-01-05,Hyderabad,Home & Kitchen,10.68,Low,Rainy,Partner D,3464.22,6,47.36,58.36,Delayed,11.0,Wednesday,January
+11101,2028-01-06,Chennai,Beauty,23.96,Low,Clear,Partner B,3248.75,11,78.92,77.92,On Time,-1.0,Thursday,January
+11102,2028-01-07,Bangalore,Grocery,14.09,Low,Rainy,Partner C,4565.87,13,61.18,72.18,Delayed,11.000000000000007,Friday,January
+11103,2028-01-08,Pune,Grocery,6.32,Low,Cloudy,Partner D,286.55,9,41.64,50.64,Delayed,9.0,Saturday,January
+11104,2028-01-09,Pune,Electronics,25.79,Medium,Cloudy,Partner A,2873.83,19,90.58,109.58,Delayed,19.0,Sunday,January
+11105,2028-01-10,Pune,Beauty,26.59,Low,Cloudy,Partner A,3979.27,22,95.18,108.18,Delayed,13.0,Monday,January
+11106,2028-01-11,Bangalore,Home & Kitchen,14.52,Medium,Clear,Partner C,2798.41,8,57.04,68.03999999999999,Delayed,10.999999999999993,Tuesday,January
+11107,2028-01-12,Bangalore,Home & Kitchen,3.2,Medium,Cloudy,Partner D,1754.7,23,49.4,61.4,Delayed,12.0,Wednesday,January
+11108,2028-01-13,Chennai,Clothing,12.25,High,Rainy,Partner B,854.0,24,68.5,101.5,Delayed,33.0,Thursday,January
+11109,2028-01-14,Mumbai,Clothing,24.3,High,Clear,Partner A,4460.3,30,98.6,121.6,Delayed,23.0,Friday,January
+11110,2028-01-15,Chennai,Home & Kitchen,27.15,Medium,Rainy,Partner C,2459.66,11,85.3,106.3,Delayed,21.0,Saturday,January
+11111,2028-01-16,Hyderabad,Home & Kitchen,6.9,Medium,Clear,Partner C,4414.95,30,63.8,69.8,Delayed,6.0,Sunday,January
+11112,2028-01-17,Delhi,Beauty,2.94,Low,Clear,Partner D,3012.09,12,37.879999999999995,36.879999999999995,On Time,-1.0,Monday,January
+11113,2028-01-18,Pune,Grocery,26.44,High,Clear,Partner D,3436.12,21,93.88,115.88,Delayed,22.0,Tuesday,January
+11114,2028-01-19,Mumbai,Clothing,12.29,Low,Rainy,Partner A,4060.45,17,61.58,79.58,Delayed,18.0,Wednesday,January
+11115,2028-01-20,Delhi,Grocery,16.71,Low,Clear,Partner C,3363.95,28,81.42,79.42,On Time,-2.0,Thursday,January
+11116,2028-01-21,Mumbai,Beauty,29.07,Low,Rainy,Partner B,2110.66,25,103.14,111.14,Delayed,8.0,Friday,January
+11117,2028-01-22,Chennai,Home & Kitchen,2.93,Medium,Rainy,Partner C,2665.44,27,52.86,78.86,Delayed,26.0,Saturday,January
+11118,2028-01-23,Bangalore,Grocery,19.8,Low,Clear,Partner B,4054.62,15,74.6,71.6,On Time,-3.0,Sunday,January
+11119,2028-01-24,Pune,Home & Kitchen,3.15,High,Clear,Partner B,1993.52,5,31.3,54.3,Delayed,22.999999999999996,Monday,January
+11120,2028-01-25,Chennai,Home & Kitchen,11.89,Low,Cloudy,Partner A,2062.98,6,49.78,55.78,Delayed,6.0,Tuesday,January
+11121,2028-01-26,Delhi,Electronics,24.31,Medium,Clear,Partner C,659.31,21,89.62,101.62,Delayed,12.0,Wednesday,January
+11122,2028-01-27,Delhi,Grocery,13.57,Low,Cloudy,Partner B,4590.01,9,56.14,61.14,Delayed,5.0,Thursday,January
+11123,2028-01-28,Delhi,Grocery,29.92,Low,Clear,Partner D,636.97,10,89.84,91.84,Delayed,2.0,Friday,January
+11124,2028-01-29,Delhi,Home & Kitchen,17.21,High,Clear,Partner B,3311.4,30,84.42,106.42,Delayed,22.0,Saturday,January
+11125,2028-01-30,Delhi,Beauty,10.31,Low,Cloudy,Partner D,2183.33,29,69.62,82.62,Delayed,13.0,Sunday,January
+11126,2028-01-31,Mumbai,Electronics,7.38,High,Clear,Partner D,2146.97,28,62.76,84.75999999999999,Delayed,21.999999999999993,Monday,January
+11127,2028-02-01,Chennai,Home & Kitchen,11.17,Medium,Clear,Partner C,3461.85,11,53.34,58.34,Delayed,5.0,Tuesday,February
+11128,2028-02-02,Pune,Clothing,11.8,Low,Clear,Partner D,522.05,25,68.6,68.6,On Time,0.0,Wednesday,February
+11129,2028-02-03,Bangalore,Clothing,2.99,High,Clear,Partner B,3049.79,19,44.980000000000004,70.98,Delayed,26.0,Thursday,February
+11130,2028-02-04,Bangalore,Electronics,11.72,Low,Cloudy,Partner D,3905.75,23,66.44,72.44,Delayed,6.0,Friday,February
+11131,2028-02-05,Chennai,Beauty,14.46,High,Rainy,Partner C,4175.42,20,68.92,102.92,Delayed,34.0,Saturday,February
+11132,2028-02-06,Chennai,Home & Kitchen,21.96,Low,Clear,Partner A,1018.55,29,92.92,89.92,On Time,-3.0,Sunday,February
+11133,2028-02-07,Bangalore,Grocery,20.05,High,Cloudy,Partner B,4507.61,17,77.1,105.1,Delayed,28.0,Monday,February
+11134,2028-02-08,Bangalore,Electronics,21.55,Low,Cloudy,Partner B,3349.5,9,72.1,70.1,On Time,-2.0,Tuesday,February
+11135,2028-02-09,Mumbai,Beauty,1.24,Medium,Clear,Partner C,4432.9,7,29.48,35.480000000000004,Delayed,6.0000000000000036,Wednesday,February
+11136,2028-02-10,Hyderabad,Grocery,7.31,High,Clear,Partner C,2529.35,7,41.62,66.62,Delayed,25.000000000000007,Thursday,February
+11137,2028-02-11,Pune,Clothing,20.19,High,Rainy,Partner C,2801.76,23,83.38,124.38,Delayed,41.0,Friday,February
+11138,2028-02-12,Delhi,Clothing,15.04,High,Cloudy,Partner C,4611.38,18,68.08,87.08,Delayed,19.0,Saturday,February
+11139,2028-02-13,Hyderabad,Grocery,1.15,High,Cloudy,Partner B,4519.57,20,42.3,66.3,Delayed,24.0,Sunday,February
+11140,2028-02-14,Chennai,Electronics,24.33,High,Cloudy,Partner A,2351.17,26,94.66,123.66,Delayed,29.0,Monday,February
+11141,2028-02-15,Bangalore,Clothing,23.41,Low,Clear,Partner D,1517.18,21,87.82,87.82,On Time,0.0,Tuesday,February
+11142,2028-02-16,Hyderabad,Home & Kitchen,16.9,Low,Cloudy,Partner D,2087.22,8,61.8,69.8,Delayed,8.0,Wednesday,February
+11143,2028-02-17,Pune,Grocery,2.93,Low,Cloudy,Partner A,2061.27,17,42.86,41.86,On Time,-1.0,Thursday,February
+11144,2028-02-18,Chennai,Grocery,23.23,Medium,Cloudy,Partner A,1576.96,12,78.46000000000001,93.46000000000001,Delayed,15.0,Friday,February
+11145,2028-02-19,Delhi,Clothing,17.93,Medium,Clear,Partner A,1489.18,23,78.86,97.86,Delayed,19.0,Saturday,February
+11146,2028-02-20,Delhi,Electronics,23.68,Medium,Clear,Partner C,4333.1,9,76.36,89.36,Delayed,13.0,Sunday,February
+11147,2028-02-21,Pune,Home & Kitchen,22.8,Low,Clear,Partner B,535.34,6,71.6,80.6,Delayed,9.0,Monday,February
+11148,2028-02-22,Pune,Electronics,24.29,Medium,Rainy,Partner B,3452.53,19,87.58,110.58,Delayed,23.0,Tuesday,February
+11149,2028-02-23,Bangalore,Beauty,16.02,Low,Clear,Partner B,1029.54,6,58.04,56.04,On Time,-2.0,Wednesday,February
+11150,2028-02-24,Delhi,Beauty,5.07,Medium,Clear,Partner C,1853.63,15,45.14,62.14,Delayed,17.0,Thursday,February
+11151,2028-02-25,Chennai,Clothing,20.46,Medium,Clear,Partner B,495.41,17,77.92,94.92,Delayed,17.0,Friday,February
+11152,2028-02-26,Hyderabad,Clothing,18.99,High,Clear,Partner C,1495.87,27,84.97999999999999,99.97999999999999,Delayed,15.0,Saturday,February
+11153,2028-02-27,Chennai,Clothing,22.53,Medium,Cloudy,Partner B,3888.42,14,79.06,90.06,Delayed,11.0,Sunday,February
+11154,2028-02-28,Mumbai,Beauty,5.93,Medium,Cloudy,Partner A,4448.07,7,38.86,49.86,Delayed,11.0,Monday,February
+11155,2028-02-29,Mumbai,Electronics,6.65,Low,Cloudy,Partner D,1263.33,9,42.3,47.3,Delayed,5.0,Tuesday,February
+11156,2028-03-01,Pune,Electronics,26.82,Medium,Clear,Partner D,2425.03,7,80.64,88.64,Delayed,8.0,Wednesday,March
+11157,2028-03-02,Bangalore,Clothing,22.75,Low,Cloudy,Partner C,2457.56,10,75.5,76.5,Delayed,1.0,Thursday,March
+11158,2028-03-03,Mumbai,Home & Kitchen,27.34,Medium,Clear,Partner B,4393.16,17,91.68,108.68,Delayed,17.0,Friday,March
+11159,2028-03-04,Delhi,Electronics,23.0,Medium,Clear,Partner D,3861.44,14,80.0,86.0,Delayed,6.0,Saturday,March
+11160,2028-03-05,Chennai,Beauty,18.32,Low,Clear,Partner A,2662.77,23,79.64,85.64,Delayed,6.0,Sunday,March
+11161,2028-03-06,Chennai,Grocery,19.97,Low,Clear,Partner A,3419.59,12,71.94,75.94,Delayed,4.0,Monday,March
+11162,2028-03-07,Pune,Grocery,26.78,High,Clear,Partner A,4267.3,22,95.56,116.56,Delayed,21.0,Tuesday,March
+11163,2028-03-08,Hyderabad,Grocery,17.79,High,Cloudy,Partner C,245.79,7,62.58,94.58,Delayed,32.0,Wednesday,March
+11164,2028-03-09,Pune,Home & Kitchen,19.34,Medium,Cloudy,Partner C,2133.87,28,86.68,97.68,Delayed,11.0,Thursday,March
+11165,2028-03-10,Hyderabad,Clothing,5.54,Low,Rainy,Partner B,4554.77,28,59.08,76.08,Delayed,17.0,Friday,March
+11166,2028-03-11,Pune,Beauty,14.74,Low,Clear,Partner A,3753.5,21,70.48,70.48,On Time,0.0,Saturday,March
+11167,2028-03-12,Pune,Home & Kitchen,21.78,Medium,Clear,Partner B,2805.64,12,75.56,82.56,Delayed,7.0,Sunday,March
+11168,2028-03-13,Pune,Beauty,8.86,High,Clear,Partner B,2742.29,14,51.72,72.72,Delayed,21.0,Monday,March
+11169,2028-03-14,Hyderabad,Beauty,6.87,Low,Rainy,Partner A,1869.3,6,39.74,51.74,Delayed,12.0,Tuesday,March
+11170,2028-03-15,Hyderabad,Clothing,10.1,High,Cloudy,Partner B,2698.5,16,56.2,76.2,Delayed,20.0,Wednesday,March
+11171,2028-03-16,Pune,Grocery,8.0,Low,Cloudy,Partner D,3345.84,27,63.0,64.0,Delayed,1.0,Thursday,March
+11172,2028-03-17,Mumbai,Clothing,7.23,High,Clear,Partner C,2208.14,10,44.46,68.46000000000001,Delayed,24.000000000000007,Friday,March
+11173,2028-03-18,Bangalore,Home & Kitchen,13.32,Medium,Cloudy,Partner B,3627.94,6,52.64,73.64,Delayed,21.0,Saturday,March
+11174,2028-03-19,Bangalore,Home & Kitchen,27.33,High,Clear,Partner A,4333.91,25,99.66,118.66,Delayed,19.0,Sunday,March
+11175,2028-03-20,Bangalore,Home & Kitchen,15.7,Medium,Cloudy,Partner C,942.49,27,78.4,94.4,Delayed,16.0,Monday,March
+11176,2028-03-21,Hyderabad,Clothing,6.45,Medium,Rainy,Partner C,2367.43,28,60.9,90.9,Delayed,30.000000000000007,Tuesday,March
+11177,2028-03-22,Hyderabad,Beauty,3.23,Low,Rainy,Partner B,2158.5,7,33.46,45.46,Delayed,12.0,Wednesday,March
+11178,2028-03-23,Mumbai,Beauty,21.19,Low,Cloudy,Partner D,3499.83,21,83.38,93.38,Delayed,10.0,Thursday,March
+11179,2028-03-24,Bangalore,Electronics,12.1,High,Clear,Partner B,1399.36,11,55.2,73.2,Delayed,18.0,Friday,March
+11180,2028-03-25,Bangalore,Home & Kitchen,24.83,High,Rainy,Partner D,3273.2,25,94.66,131.66,Delayed,37.0,Saturday,March
+11181,2028-03-26,Pune,Beauty,20.13,High,Cloudy,Partner C,4411.95,9,69.25999999999999,97.25999999999999,Delayed,28.0,Sunday,March
+11182,2028-03-27,Hyderabad,Electronics,24.09,Medium,Clear,Partner B,2207.03,27,95.18,106.18,Delayed,11.0,Monday,March
+11183,2028-03-28,Bangalore,Beauty,8.89,High,Clear,Partner A,4572.88,5,42.78,58.78,Delayed,16.0,Tuesday,March
+11184,2028-03-29,Chennai,Home & Kitchen,21.08,Low,Clear,Partner B,4967.19,12,74.16,72.16,On Time,-2.0,Wednesday,March
+11185,2028-03-30,Mumbai,Grocery,8.66,Medium,Clear,Partner D,709.24,16,53.32,62.32,Delayed,9.0,Thursday,March
+11186,2028-03-31,Chennai,Home & Kitchen,28.23,Medium,Clear,Partner D,1318.66,18,94.46000000000001,102.46000000000001,Delayed,8.0,Friday,March
+11187,2028-04-01,Chennai,Clothing,19.45,Medium,Cloudy,Partner B,4761.82,20,78.9,89.9,Delayed,11.0,Saturday,April
+11188,2028-04-02,Mumbai,Beauty,10.41,Medium,Clear,Partner D,4799.97,14,54.82,69.82,Delayed,14.999999999999993,Sunday,April
+11189,2028-04-03,Chennai,Beauty,8.82,Low,Clear,Partner C,668.99,19,56.64,63.64,Delayed,7.0,Monday,April
+11190,2028-04-04,Bangalore,Clothing,6.54,Medium,Cloudy,Partner B,271.99,25,58.08,81.08,Delayed,23.0,Tuesday,April
+11191,2028-04-05,Hyderabad,Clothing,21.14,High,Rainy,Partner D,973.28,28,90.28,125.28,Delayed,35.0,Wednesday,April
+11192,2028-04-06,Mumbai,Grocery,7.34,Medium,Cloudy,Partner B,4980.86,30,64.68,85.68,Delayed,21.0,Thursday,April
+11193,2028-04-07,Pune,Beauty,18.26,Low,Clear,Partner B,1064.0,19,75.52000000000001,80.52000000000001,Delayed,5.0,Friday,April
+11194,2028-04-08,Chennai,Beauty,8.67,Low,Rainy,Partner A,2612.23,14,51.34,70.34,Delayed,19.0,Saturday,April
+11195,2028-04-09,Mumbai,Grocery,20.2,Low,Rainy,Partner B,4272.41,25,85.4,93.4,Delayed,8.0,Sunday,April
+11196,2028-04-10,Delhi,Electronics,24.63,Low,Clear,Partner A,297.93,11,80.25999999999999,80.25999999999999,On Time,0.0,Monday,April
+11197,2028-04-11,Delhi,Grocery,23.56,Medium,Clear,Partner D,3101.55,30,97.12,115.12,Delayed,18.0,Tuesday,April
+11198,2028-04-12,Hyderabad,Home & Kitchen,23.06,Medium,Cloudy,Partner A,1529.72,7,73.12,88.12,Delayed,15.0,Wednesday,April
+11199,2028-04-13,Bangalore,Beauty,6.44,Medium,Rainy,Partner A,4339.21,6,38.88,62.88,Delayed,24.0,Thursday,April
+11200,2028-04-14,Hyderabad,Clothing,3.56,Medium,Rainy,Partner A,1560.61,10,37.120000000000005,64.12,Delayed,27.0,Friday,April
+11201,2028-04-15,Hyderabad,Home & Kitchen,21.27,High,Rainy,Partner C,3496.43,25,87.53999999999999,120.53999999999999,Delayed,33.0,Saturday,April
+11202,2028-04-16,Hyderabad,Beauty,11.68,Low,Cloudy,Partner A,3436.25,13,56.36,63.36,Delayed,7.0,Sunday,April
+11203,2028-04-17,Hyderabad,Grocery,13.54,Medium,Cloudy,Partner B,1263.17,14,61.08,79.08,Delayed,18.0,Monday,April
+11204,2028-04-18,Pune,Home & Kitchen,1.9,High,Clear,Partner A,367.04,8,31.8,49.8,Delayed,17.999999999999996,Tuesday,April
+11205,2028-04-19,Pune,Beauty,8.53,Low,Clear,Partner B,2164.4,7,44.06,45.06,Delayed,1.0,Wednesday,April
+11206,2028-04-20,Mumbai,Electronics,1.98,Low,Clear,Partner A,1588.13,13,36.96,43.96,Delayed,7.0,Thursday,April
+11207,2028-04-21,Delhi,Electronics,26.5,High,Cloudy,Partner C,4083.09,28,101.0,134.0,Delayed,33.0,Friday,April
+11208,2028-04-22,Hyderabad,Clothing,8.06,Medium,Cloudy,Partner D,4041.75,26,62.120000000000005,79.12,Delayed,17.0,Saturday,April
+11209,2028-04-23,Mumbai,Beauty,17.16,Medium,Cloudy,Partner A,2393.71,21,75.32,88.32,Delayed,13.0,Sunday,April
+11210,2028-04-24,Delhi,Electronics,2.13,Low,Clear,Partner A,3111.26,18,42.26,47.26,Delayed,5.0,Monday,April
+11211,2028-04-25,Chennai,Grocery,20.34,Medium,Cloudy,Partner C,3100.45,14,74.68,97.68,Delayed,23.0,Tuesday,April
+11212,2028-04-26,Bangalore,Beauty,10.37,Medium,Clear,Partner A,4170.36,17,57.739999999999995,67.74,Delayed,10.0,Wednesday,April
+11213,2028-04-27,Pune,Grocery,27.04,Low,Clear,Partner B,2240.01,16,90.08,86.08,On Time,-4.0,Thursday,April
+11214,2028-04-28,Chennai,Grocery,26.76,Medium,Cloudy,Partner A,1522.14,5,78.52000000000001,93.52000000000001,Delayed,15.0,Friday,April
+11215,2028-04-29,Delhi,Electronics,10.43,Low,Cloudy,Partner A,1472.17,26,66.86,71.86,Delayed,5.0,Saturday,April
+11216,2028-04-30,Chennai,Beauty,27.13,Medium,Rainy,Partner D,2773.72,23,97.25999999999999,127.25999999999999,Delayed,30.0,Sunday,April
+11217,2028-05-01,Bangalore,Home & Kitchen,29.89,Low,Clear,Partner D,2355.91,23,102.78,107.78,Delayed,5.0,Monday,May
+11218,2028-05-02,Delhi,Electronics,24.94,Low,Clear,Partner A,2312.58,10,79.88,80.88,Delayed,1.0,Tuesday,May
+11219,2028-05-03,Chennai,Electronics,25.5,Low,Clear,Partner C,637.46,17,88.0,93.0,Delayed,5.0,Wednesday,May
+11220,2028-05-04,Pune,Beauty,8.22,Low,Clear,Partner D,3649.3,23,59.44,62.44,Delayed,3.0,Thursday,May
+11221,2028-05-05,Pune,Beauty,17.72,High,Rainy,Partner A,1225.94,17,72.44,106.44,Delayed,34.0,Friday,May
+11222,2028-05-06,Mumbai,Grocery,2.95,Low,Cloudy,Partner D,1145.38,30,55.9,66.9,Delayed,11.000000000000007,Saturday,May
+11223,2028-05-07,Chennai,Beauty,3.75,Medium,Rainy,Partner A,2181.24,26,53.5,78.5,Delayed,25.0,Sunday,May
+11224,2028-05-08,Hyderabad,Grocery,29.97,Low,Clear,Partner D,1293.34,25,104.94,113.94,Delayed,9.0,Monday,May
+11225,2028-05-09,Chennai,Electronics,10.47,Medium,Rainy,Partner D,3002.52,8,48.94,73.94,Delayed,25.0,Tuesday,May
+11226,2028-05-10,Delhi,Clothing,22.7,High,Clear,Partner B,1983.02,28,93.4,113.4,Delayed,20.0,Wednesday,May
+11227,2028-05-11,Delhi,Home & Kitchen,24.39,Low,Rainy,Partner A,2354.78,6,74.78,82.78,Delayed,8.0,Thursday,May
+11228,2028-05-12,Chennai,Electronics,25.88,High,Clear,Partner A,2778.41,19,90.75999999999999,116.75999999999999,Delayed,26.0,Friday,May
+11229,2028-05-13,Bangalore,Beauty,29.93,Low,Clear,Partner A,1176.97,16,95.86,96.86,Delayed,1.0,Saturday,May
+11230,2028-05-14,Pune,Home & Kitchen,8.0,Medium,Cloudy,Partner A,947.61,11,47.0,57.0,Delayed,10.0,Sunday,May
+11231,2028-05-15,Delhi,Clothing,2.17,Medium,Rainy,Partner D,4426.03,24,48.34,77.34,Delayed,29.0,Monday,May
+11232,2028-05-16,Pune,Clothing,12.92,High,Clear,Partner B,2281.87,22,67.84,88.84,Delayed,21.0,Tuesday,May
+11233,2028-05-17,Delhi,Grocery,4.77,Medium,Clear,Partner B,2178.05,27,56.54,69.53999999999999,Delayed,12.999999999999993,Wednesday,May
+11234,2028-05-18,Mumbai,Home & Kitchen,1.65,Medium,Rainy,Partner C,370.94,17,40.3,66.3,Delayed,26.0,Thursday,May
+11235,2028-05-19,Hyderabad,Grocery,11.45,Low,Clear,Partner A,2590.29,21,63.9,71.9,Delayed,8.000000000000007,Friday,May
+11236,2028-05-20,Delhi,Electronics,23.73,Low,Clear,Partner C,2860.01,8,75.46000000000001,79.46000000000001,Delayed,4.0,Saturday,May
+11237,2028-05-21,Pune,Home & Kitchen,17.42,High,Clear,Partner D,2882.44,29,83.84,99.84,Delayed,16.0,Sunday,May
+11238,2028-05-22,Mumbai,Electronics,10.07,Medium,Clear,Partner C,3593.75,18,58.14,76.14,Delayed,18.0,Monday,May
+11239,2028-05-23,Delhi,Grocery,19.98,Medium,Rainy,Partner A,1051.91,24,83.96000000000001,112.96000000000001,Delayed,29.0,Tuesday,May
+11240,2028-05-24,Bangalore,Home & Kitchen,7.73,High,Cloudy,Partner B,1410.67,17,52.46,75.46000000000001,Delayed,23.000000000000007,Wednesday,May
+11241,2028-05-25,Hyderabad,Grocery,1.42,Medium,Cloudy,Partner B,4091.51,7,29.84,49.84,Delayed,20.000000000000004,Thursday,May
+11242,2028-05-26,Delhi,Home & Kitchen,23.17,High,Rainy,Partner A,4746.42,30,96.34,128.34,Delayed,32.0,Friday,May
+11243,2028-05-27,Mumbai,Grocery,19.09,Medium,Clear,Partner D,852.48,30,88.18,101.18,Delayed,13.0,Saturday,May
+11244,2028-05-28,Bangalore,Clothing,23.11,Medium,Clear,Partner A,2588.72,22,88.22,105.22,Delayed,17.0,Sunday,May
+11245,2028-05-29,Chennai,Grocery,2.13,High,Clear,Partner D,1228.05,18,42.26,65.25999999999999,Delayed,22.999999999999993,Monday,May
+11246,2028-05-30,Mumbai,Clothing,25.28,Low,Clear,Partner B,488.35,19,89.56,98.56,Delayed,9.0,Tuesday,May
+11247,2028-05-31,Mumbai,Grocery,18.97,Low,Clear,Partner D,1762.42,7,64.94,71.94,Delayed,7.0,Wednesday,May
+11248,2028-06-01,Bangalore,Home & Kitchen,17.34,Medium,Rainy,Partner A,889.7,5,59.68,80.68,Delayed,21.000000000000007,Thursday,June
+11249,2028-06-02,Mumbai,Home & Kitchen,19.11,Low,Cloudy,Partner A,3607.68,30,88.22,99.22,Delayed,11.0,Friday,June
+11250,2028-06-03,Bangalore,Home & Kitchen,26.07,Medium,Clear,Partner A,2761.88,28,100.14,109.14,Delayed,9.0,Saturday,June
+11251,2028-06-04,Delhi,Beauty,18.02,High,Cloudy,Partner D,890.41,21,77.03999999999999,103.03999999999999,Delayed,26.0,Sunday,June
+11252,2028-06-05,Bangalore,Electronics,17.85,Medium,Cloudy,Partner D,244.36,7,62.7,77.7,Delayed,15.0,Monday,June
+11253,2028-06-06,Bangalore,Home & Kitchen,29.73,Medium,Rainy,Partner D,4079.15,18,97.46000000000001,120.46000000000001,Delayed,23.0,Tuesday,June
+11254,2028-06-07,Hyderabad,Clothing,22.95,High,Rainy,Partner B,1045.73,7,72.9,106.9,Delayed,34.0,Wednesday,June
+11255,2028-06-08,Bangalore,Home & Kitchen,13.83,Medium,Cloudy,Partner C,3109.84,17,64.66,77.66,Delayed,13.0,Thursday,June
+11256,2028-06-09,Bangalore,Beauty,21.51,Medium,Cloudy,Partner C,1817.23,19,82.02000000000001,92.02000000000001,Delayed,10.0,Friday,June
+11257,2028-06-10,Chennai,Clothing,12.29,Medium,Cloudy,Partner A,3010.33,22,66.58,80.58,Delayed,14.0,Saturday,June
+11258,2028-06-11,Delhi,Beauty,7.64,High,Cloudy,Partner B,1715.14,18,53.28,78.28,Delayed,25.0,Sunday,June
+11259,2028-06-12,Hyderabad,Clothing,18.31,Medium,Clear,Partner D,617.31,25,81.62,100.62,Delayed,19.0,Monday,June
+11260,2028-06-13,Chennai,Grocery,27.92,High,Clear,Partner A,1270.16,30,105.84,127.84,Delayed,22.0,Tuesday,June
+11261,2028-06-14,Pune,Electronics,27.95,High,Cloudy,Partner B,1102.68,7,82.9,100.9,Delayed,18.0,Wednesday,June
+11262,2028-06-15,Delhi,Electronics,10.92,Medium,Clear,Partner A,2254.49,23,64.84,84.84,Delayed,20.0,Thursday,June
+11263,2028-06-16,Delhi,Beauty,16.3,Medium,Clear,Partner B,3359.76,12,64.6,75.6,Delayed,11.0,Friday,June
+11264,2028-06-17,Pune,Electronics,7.14,High,Cloudy,Partner B,1466.27,8,42.28,62.28,Delayed,20.0,Saturday,June
+11265,2028-06-18,Bangalore,Beauty,29.87,Medium,Clear,Partner C,257.94,8,87.74000000000001,93.74000000000001,Delayed,6.0,Sunday,June
+11266,2028-06-19,Chennai,Beauty,29.45,High,Cloudy,Partner A,2690.9,23,101.9,132.9,Delayed,31.0,Monday,June
+11267,2028-06-20,Mumbai,Beauty,19.84,High,Cloudy,Partner D,3107.65,15,74.68,93.68,Delayed,19.0,Tuesday,June
+11268,2028-06-21,Hyderabad,Electronics,24.33,Medium,Rainy,Partner C,4821.78,5,73.66,103.66,Delayed,30.0,Wednesday,June
+11269,2028-06-22,Mumbai,Beauty,21.74,Medium,Clear,Partner C,3029.46,12,75.47999999999999,94.47999999999999,Delayed,19.0,Thursday,June
+11270,2028-06-23,Pune,Electronics,18.2,High,Clear,Partner D,2461.63,19,75.4,103.4,Delayed,28.0,Friday,June
+11271,2028-06-24,Delhi,Beauty,2.55,High,Cloudy,Partner B,2952.33,5,30.1,55.1,Delayed,25.0,Saturday,June
+11272,2028-06-25,Delhi,Home & Kitchen,14.19,Medium,Rainy,Partner D,4653.92,11,59.379999999999995,84.38,Delayed,25.0,Sunday,June
+11273,2028-06-26,Hyderabad,Beauty,20.57,Low,Rainy,Partner A,4176.22,25,86.14,95.14,Delayed,9.0,Monday,June
+11274,2028-06-27,Delhi,Clothing,20.65,Medium,Clear,Partner D,1750.3,24,85.3,103.3,Delayed,18.0,Tuesday,June
+11275,2028-06-28,Delhi,Beauty,11.82,Medium,Clear,Partner B,1338.82,24,67.64,74.64,Delayed,7.0,Wednesday,June
+11276,2028-06-29,Hyderabad,Grocery,28.31,Medium,Rainy,Partner D,1460.64,28,104.62,126.62,Delayed,22.0,Thursday,June
+11277,2028-06-30,Chennai,Beauty,5.85,Medium,Clear,Partner B,2621.22,15,46.7,61.7,Delayed,15.0,Friday,June
+11278,2028-07-01,Chennai,Clothing,15.51,Medium,Cloudy,Partner B,3771.44,18,69.02,86.02,Delayed,17.0,Saturday,July
+11279,2028-07-02,Hyderabad,Clothing,21.04,Medium,Clear,Partner A,2615.45,26,88.08,93.08,Delayed,5.0,Sunday,July
+11280,2028-07-03,Pune,Electronics,21.22,Low,Clear,Partner D,525.42,20,82.44,82.44,On Time,0.0,Monday,July
+11281,2028-07-04,Delhi,Home & Kitchen,19.81,Medium,Clear,Partner D,3673.19,18,77.62,93.62,Delayed,16.0,Tuesday,July
+11282,2028-07-05,Delhi,Beauty,8.98,Medium,Clear,Partner A,4068.66,16,53.96,60.96,Delayed,7.0,Wednesday,July
+11283,2028-07-06,Pune,Electronics,5.53,Low,Cloudy,Partner B,1589.59,21,52.06,60.06,Delayed,8.0,Thursday,July
+11284,2028-07-07,Chennai,Home & Kitchen,19.44,Low,Rainy,Partner D,3387.8,18,76.88,98.88,Delayed,22.0,Friday,July
+11285,2028-07-08,Bangalore,Beauty,18.38,Medium,Clear,Partner A,2247.64,14,70.75999999999999,78.75999999999999,Delayed,8.0,Saturday,July
+11286,2028-07-09,Bangalore,Grocery,6.2,Medium,Rainy,Partner B,4467.77,28,60.4,85.4,Delayed,25.000000000000007,Sunday,July
+11287,2028-07-10,Bangalore,Beauty,21.45,Low,Clear,Partner A,4257.08,18,80.9,77.9,On Time,-3.0,Monday,July
+11288,2028-07-11,Chennai,Clothing,14.2,High,Cloudy,Partner D,2722.07,22,70.4,88.4,Delayed,18.0,Tuesday,July
+11289,2028-07-12,Chennai,Clothing,20.37,Medium,Clear,Partner A,3519.23,26,86.74000000000001,93.74000000000001,Delayed,7.0,Wednesday,July
+11290,2028-07-13,Pune,Grocery,25.28,High,Rainy,Partner C,4440.08,13,83.56,116.56,Delayed,33.0,Thursday,July
+11291,2028-07-14,Delhi,Electronics,5.92,Medium,Cloudy,Partner B,2579.44,21,52.84,72.84,Delayed,20.0,Friday,July
+11292,2028-07-15,Pune,Home & Kitchen,1.56,Medium,Cloudy,Partner C,1703.6,10,33.120000000000005,47.120000000000005,Delayed,14.0,Saturday,July
+11293,2028-07-16,Pune,Beauty,23.59,High,Rainy,Partner C,3817.6,12,79.18,116.18,Delayed,37.0,Sunday,July
+11294,2028-07-17,Chennai,Clothing,18.68,Medium,Cloudy,Partner B,1256.32,30,87.36,99.36,Delayed,12.0,Monday,July
+11295,2028-07-18,Bangalore,Electronics,21.29,Medium,Rainy,Partner B,2064.95,17,79.58,109.58,Delayed,30.0,Tuesday,July
+11296,2028-07-19,Mumbai,Grocery,25.31,Low,Cloudy,Partner A,4355.49,22,92.62,90.62,On Time,-2.0,Wednesday,July
+11297,2028-07-20,Delhi,Clothing,24.28,Medium,Rainy,Partner B,3677.23,9,77.56,104.56,Delayed,27.0,Thursday,July
+11298,2028-07-21,Chennai,Grocery,28.87,Low,Cloudy,Partner C,2138.29,10,87.74000000000001,92.74000000000001,Delayed,5.0,Friday,July
+11299,2028-07-22,Bangalore,Beauty,16.54,Low,Clear,Partner C,1230.77,25,78.08,82.08,Delayed,4.0,Saturday,July
+11300,2028-07-23,Mumbai,Home & Kitchen,15.17,Low,Cloudy,Partner D,1908.65,23,73.34,78.34,Delayed,5.0,Sunday,July
+11301,2028-07-24,Mumbai,Clothing,12.65,Low,Clear,Partner B,1563.7,8,53.3,57.3,Delayed,4.0,Monday,July
+11302,2028-07-25,Chennai,Clothing,5.46,High,Cloudy,Partner C,1045.23,11,41.92,70.92,Delayed,29.0,Tuesday,July
+11303,2028-07-26,Hyderabad,Beauty,17.61,Low,Clear,Partner D,3768.0,8,63.22,67.22,Delayed,4.0,Wednesday,July
+11304,2028-07-27,Delhi,Electronics,9.03,Medium,Cloudy,Partner D,1409.94,29,67.06,87.06,Delayed,20.0,Thursday,July
+11305,2028-07-28,Mumbai,Home & Kitchen,27.72,High,Clear,Partner A,2380.0,15,90.44,114.44,Delayed,24.0,Friday,July
+11306,2028-07-29,Chennai,Clothing,17.91,Medium,Clear,Partner C,2052.13,16,71.82,77.82,Delayed,6.0,Saturday,July
+11307,2028-07-30,Chennai,Home & Kitchen,18.19,Low,Clear,Partner A,4913.97,18,74.38,78.38,Delayed,4.0,Sunday,July
+11308,2028-07-31,Bangalore,Clothing,11.29,Medium,Rainy,Partner C,2077.24,17,59.58,78.58,Delayed,19.0,Monday,July
+11309,2028-08-01,Hyderabad,Home & Kitchen,2.51,Medium,Clear,Partner A,583.92,14,39.019999999999996,47.019999999999996,Delayed,8.0,Tuesday,August
+11310,2028-08-02,Delhi,Grocery,1.92,Medium,Clear,Partner A,631.16,22,45.84,50.84,Delayed,5.0,Wednesday,August
+11311,2028-08-03,Pune,Clothing,13.28,High,Cloudy,Partner B,3035.62,20,66.56,87.56,Delayed,21.0,Thursday,August
+11312,2028-08-04,Bangalore,Home & Kitchen,3.45,High,Cloudy,Partner A,3076.95,9,35.9,68.9,Delayed,33.00000000000001,Friday,August
+11313,2028-08-05,Mumbai,Electronics,18.6,Medium,Clear,Partner B,2210.04,12,69.2,78.2,Delayed,9.0,Saturday,August
+11314,2028-08-06,Mumbai,Grocery,26.55,Medium,Clear,Partner D,2272.85,18,91.1,98.1,Delayed,7.0,Sunday,August
+11315,2028-08-07,Bangalore,Grocery,26.6,Medium,Clear,Partner C,458.88,9,82.2,100.2,Delayed,18.0,Monday,August
+11316,2028-08-08,Chennai,Electronics,20.11,Low,Rainy,Partner D,2679.42,30,90.22,107.22,Delayed,17.0,Tuesday,August
+11317,2028-08-09,Mumbai,Home & Kitchen,7.13,High,Clear,Partner C,2622.75,28,62.26,91.25999999999999,Delayed,28.999999999999993,Wednesday,August
+11318,2028-08-10,Hyderabad,Beauty,26.03,Low,Clear,Partner D,917.84,12,84.06,88.06,Delayed,4.0,Thursday,August
+11319,2028-08-11,Delhi,Electronics,26.7,Medium,Clear,Partner C,698.43,29,102.4,122.4,Delayed,20.0,Friday,August
+11320,2028-08-12,Hyderabad,Home & Kitchen,6.7,High,Clear,Partner A,793.15,30,63.4,79.4,Delayed,16.000000000000007,Saturday,August
+11321,2028-08-13,Mumbai,Electronics,22.39,Medium,Cloudy,Partner C,684.94,10,74.78,94.78,Delayed,20.0,Sunday,August
+11322,2028-08-14,Pune,Electronics,9.31,Medium,Clear,Partner C,3126.6,20,58.620000000000005,68.62,Delayed,10.0,Monday,August
+11323,2028-08-15,Delhi,Clothing,24.28,Medium,Clear,Partner D,1143.12,8,76.56,88.56,Delayed,12.0,Tuesday,August
+11324,2028-08-16,Delhi,Home & Kitchen,29.92,High,Clear,Partner D,1406.86,16,95.84,116.84,Delayed,21.0,Wednesday,August
+11325,2028-08-17,Bangalore,Beauty,1.87,Medium,Clear,Partner D,1033.15,15,38.74,53.74,Delayed,15.0,Thursday,August
+11326,2028-08-18,Bangalore,Clothing,27.02,High,Clear,Partner B,4797.61,7,81.03999999999999,109.03999999999999,Delayed,28.0,Friday,August
+11327,2028-08-19,Pune,Electronics,19.06,Low,Rainy,Partner B,4302.16,16,74.12,81.12,Delayed,7.0,Saturday,August
+11328,2028-08-20,Chennai,Electronics,29.23,High,Cloudy,Partner C,1306.38,9,87.46000000000001,108.46000000000001,Delayed,21.0,Sunday,August
+11329,2028-08-21,Delhi,Electronics,14.49,High,Rainy,Partner C,1772.32,10,58.980000000000004,87.98,Delayed,29.0,Monday,August
+11330,2028-08-22,Pune,Home & Kitchen,25.57,Low,Rainy,Partner A,1207.49,23,94.14,106.14,Delayed,12.0,Tuesday,August
+11331,2028-08-23,Bangalore,Home & Kitchen,2.81,Medium,Cloudy,Partner A,2561.0,22,47.620000000000005,63.620000000000005,Delayed,16.0,Wednesday,August
+11332,2028-08-24,Bangalore,Clothing,10.72,Low,Clear,Partner C,294.13,20,61.44,64.44,Delayed,3.0,Thursday,August
+11333,2028-08-25,Delhi,Beauty,2.94,Medium,Cloudy,Partner B,3422.57,27,52.879999999999995,66.88,Delayed,14.0,Friday,August
+11334,2028-08-26,Hyderabad,Clothing,29.28,Medium,Rainy,Partner C,2711.16,15,93.56,124.56,Delayed,31.0,Saturday,August
+11335,2028-08-27,Mumbai,Grocery,24.69,Medium,Cloudy,Partner A,4513.47,9,78.38,97.38,Delayed,19.0,Sunday,August
+11336,2028-08-28,Bangalore,Electronics,25.72,Low,Cloudy,Partner B,989.08,13,84.44,90.44,Delayed,6.0,Monday,August
+11337,2028-08-29,Chennai,Electronics,28.2,Low,Clear,Partner B,4059.72,7,83.4,85.4,Delayed,2.0,Tuesday,August
+11338,2028-08-30,Chennai,Electronics,3.47,Low,Rainy,Partner A,4001.41,12,38.94,49.94,Delayed,11.0,Wednesday,August
+11339,2028-08-31,Bangalore,Clothing,12.18,Medium,Cloudy,Partner C,810.47,10,54.36,70.36,Delayed,16.0,Thursday,August
+11340,2028-09-01,Hyderabad,Clothing,3.06,Medium,Rainy,Partner D,2113.08,8,34.120000000000005,64.12,Delayed,30.0,Friday,September
+11341,2028-09-02,Hyderabad,Electronics,7.11,High,Clear,Partner C,1016.73,16,50.22,71.22,Delayed,21.0,Saturday,September
+11342,2028-09-03,Pune,Clothing,7.65,Medium,Clear,Partner C,1422.66,16,51.3,60.3,Delayed,9.0,Sunday,September
+11343,2028-09-04,Chennai,Home & Kitchen,14.6,Medium,Clear,Partner A,1463.58,29,78.2,98.2,Delayed,20.0,Monday,September
+11344,2028-09-05,Pune,Home & Kitchen,8.79,High,Cloudy,Partner B,2869.93,25,62.58,94.58,Delayed,32.0,Tuesday,September
+11345,2028-09-06,Chennai,Clothing,3.93,Medium,Clear,Partner A,2174.77,20,47.86,59.86,Delayed,12.0,Wednesday,September
+11346,2028-09-07,Mumbai,Electronics,5.86,High,Clear,Partner C,4749.12,14,45.72,74.72,Delayed,29.0,Thursday,September
+11347,2028-09-08,Mumbai,Clothing,5.27,Medium,Rainy,Partner D,806.58,26,56.54,79.53999999999999,Delayed,22.999999999999993,Friday,September
+11348,2028-09-09,Delhi,Clothing,29.22,Low,Clear,Partner D,4873.72,18,96.44,99.44,Delayed,3.0,Saturday,September
+11349,2028-09-10,Pune,Clothing,23.02,Low,Rainy,Partner D,1307.07,17,83.03999999999999,99.03999999999999,Delayed,16.0,Sunday,September
+11350,2028-09-11,Bangalore,Grocery,29.07,Medium,Clear,Partner A,3909.79,13,91.14,96.14,Delayed,5.0,Monday,September
+11351,2028-09-12,Pune,Home & Kitchen,13.75,Low,Rainy,Partner B,1827.06,11,58.5,79.5,Delayed,21.0,Tuesday,September
+11352,2028-09-13,Bangalore,Beauty,9.07,Medium,Cloudy,Partner A,886.79,16,54.14,74.14,Delayed,20.0,Wednesday,September
+11353,2028-09-14,Hyderabad,Beauty,24.15,Medium,Rainy,Partner D,4317.87,9,77.3,102.3,Delayed,25.0,Thursday,September
+11354,2028-09-15,Pune,Grocery,10.46,Medium,Rainy,Partner C,1682.53,22,62.92,93.92,Delayed,31.0,Friday,September
+11355,2028-09-16,Hyderabad,Clothing,9.68,Medium,Clear,Partner B,3362.51,8,47.36,58.36,Delayed,11.0,Saturday,September
+11356,2028-09-17,Mumbai,Grocery,7.74,Low,Clear,Partner A,2918.93,6,41.480000000000004,36.480000000000004,On Time,-5.0,Sunday,September
+11357,2028-09-18,Mumbai,Grocery,4.76,Medium,Clear,Partner A,2464.43,7,36.519999999999996,41.519999999999996,Delayed,5.0,Monday,September
+11358,2028-09-19,Delhi,Electronics,8.44,Medium,Cloudy,Partner B,2579.93,30,66.88,78.88,Delayed,12.0,Tuesday,September
+11359,2028-09-20,Pune,Home & Kitchen,11.3,High,Rainy,Partner B,3714.74,16,58.6,92.6,Delayed,33.99999999999999,Wednesday,September
+11360,2028-09-21,Hyderabad,Beauty,20.55,Medium,Clear,Partner C,621.31,7,68.1,81.1,Delayed,13.0,Thursday,September
+11361,2028-09-22,Bangalore,Clothing,2.81,High,Cloudy,Partner B,3407.27,8,33.620000000000005,62.620000000000005,Delayed,29.0,Friday,September
+11362,2028-09-23,Mumbai,Beauty,7.1,High,Clear,Partner C,4499.9,10,44.2,64.2,Delayed,20.0,Saturday,September
+11363,2028-09-24,Mumbai,Beauty,24.46,Medium,Rainy,Partner D,477.38,16,84.92,112.92,Delayed,28.0,Sunday,September
+11364,2028-09-25,Bangalore,Home & Kitchen,5.26,Low,Rainy,Partner D,875.14,23,53.519999999999996,72.52,Delayed,19.0,Monday,September
+11365,2028-09-26,Hyderabad,Beauty,10.94,Medium,Clear,Partner A,3639.83,14,55.879999999999995,69.88,Delayed,14.0,Tuesday,September
+11366,2028-09-27,Hyderabad,Beauty,26.08,Medium,Clear,Partner D,2298.95,5,77.16,93.16,Delayed,16.0,Wednesday,September
+11367,2028-09-28,Pune,Grocery,5.49,Medium,Clear,Partner D,2137.03,21,51.980000000000004,63.980000000000004,Delayed,12.0,Thursday,September
+11368,2028-09-29,Pune,Home & Kitchen,3.4,Medium,Cloudy,Partner C,857.44,20,46.8,68.8,Delayed,22.0,Friday,September
+11369,2028-09-30,Chennai,Electronics,15.05,Medium,Cloudy,Partner A,2632.5,13,63.1,76.1,Delayed,12.999999999999993,Saturday,September
+11370,2028-10-01,Chennai,Clothing,9.77,Medium,Clear,Partner B,807.42,29,68.53999999999999,83.53999999999999,Delayed,15.0,Sunday,October
+11371,2028-10-02,Delhi,Beauty,17.34,Medium,Clear,Partner A,2487.78,25,79.68,89.68,Delayed,10.0,Monday,October
+11372,2028-10-03,Mumbai,Clothing,24.31,Low,Clear,Partner D,3865.35,13,81.62,79.62,On Time,-2.0,Tuesday,October
+11373,2028-10-04,Pune,Electronics,4.98,High,Cloudy,Partner B,1439.67,27,56.96,84.96000000000001,Delayed,28.000000000000007,Wednesday,October
+11374,2028-10-05,Hyderabad,Clothing,17.84,Low,Cloudy,Partner A,2507.77,13,68.68,70.68,Delayed,2.0,Thursday,October
+11375,2028-10-06,Bangalore,Electronics,15.66,Low,Clear,Partner A,4961.68,16,67.32,77.32,Delayed,10.0,Friday,October
+11376,2028-10-07,Hyderabad,Grocery,5.18,Medium,Cloudy,Partner A,3495.92,27,57.36,78.36,Delayed,21.0,Saturday,October
+11377,2028-10-08,Mumbai,Beauty,19.1,Medium,Cloudy,Partner A,4238.51,13,71.2,80.2,Delayed,9.0,Sunday,October
+11378,2028-10-09,Chennai,Electronics,8.94,Medium,Clear,Partner C,2191.27,19,56.879999999999995,63.879999999999995,Delayed,7.0,Monday,October
+11379,2028-10-10,Hyderabad,Clothing,15.15,Low,Clear,Partner A,3885.73,6,56.3,53.3,On Time,-3.0,Tuesday,October
+11380,2028-10-11,Delhi,Beauty,3.39,Medium,Cloudy,Partner D,394.44,15,41.78,62.78,Delayed,21.0,Wednesday,October
+11381,2028-10-12,Mumbai,Grocery,14.33,Medium,Rainy,Partner D,789.97,15,63.66,91.66,Delayed,28.0,Thursday,October
+11382,2028-10-13,Chennai,Beauty,9.89,High,Clear,Partner C,1174.74,12,51.78,76.78,Delayed,25.0,Friday,October
+11383,2028-10-14,Bangalore,Electronics,24.85,High,Clear,Partner B,2129.37,27,96.7,115.7,Delayed,19.0,Saturday,October
+11384,2028-10-15,Chennai,Grocery,2.65,Medium,Clear,Partner B,4259.58,10,35.3,53.3,Delayed,18.0,Sunday,October
+11385,2028-10-16,Delhi,Clothing,13.14,Medium,Cloudy,Partner D,1862.08,25,71.28,83.28,Delayed,12.0,Monday,October
+11386,2028-10-17,Mumbai,Grocery,14.29,Medium,Clear,Partner D,3342.18,24,72.58,82.58,Delayed,10.0,Tuesday,October
+11387,2028-10-18,Bangalore,Grocery,22.03,Low,Clear,Partner C,3604.71,11,75.06,74.06,On Time,-1.0,Wednesday,October
+11388,2028-10-19,Delhi,Home & Kitchen,17.65,Medium,Cloudy,Partner B,3013.68,7,62.3,81.3,Delayed,19.0,Thursday,October
+11389,2028-10-20,Chennai,Grocery,20.35,Medium,Cloudy,Partner B,1914.76,12,72.7,85.7,Delayed,13.0,Friday,October
+11390,2028-10-21,Delhi,Grocery,23.53,High,Clear,Partner A,2969.86,22,89.06,111.06,Delayed,22.0,Saturday,October
+11391,2028-10-22,Mumbai,Beauty,26.0,Low,Clear,Partner A,1842.87,21,93.0,102.0,Delayed,9.0,Sunday,October
+11392,2028-10-23,Pune,Clothing,10.1,Medium,Cloudy,Partner A,602.59,15,55.2,64.2,Delayed,9.0,Monday,October
+11393,2028-10-24,Delhi,Beauty,16.6,Medium,Clear,Partner C,4965.46,6,59.2,67.2,Delayed,8.0,Tuesday,October
+11394,2028-10-25,Delhi,Beauty,25.36,Medium,Clear,Partner D,810.48,29,99.72,116.72,Delayed,17.0,Wednesday,October
+11395,2028-10-26,Chennai,Electronics,29.69,Low,Rainy,Partner C,547.27,25,104.38,126.38,Delayed,22.0,Thursday,October
+11396,2028-10-27,Chennai,Beauty,26.8,High,Clear,Partner B,4416.95,28,101.6,121.6,Delayed,20.0,Friday,October
+11397,2028-10-28,Bangalore,Home & Kitchen,11.77,Medium,Cloudy,Partner D,1648.81,23,66.53999999999999,85.53999999999999,Delayed,19.0,Saturday,October
+11398,2028-10-29,Chennai,Home & Kitchen,6.66,Medium,Rainy,Partner A,3321.43,11,44.32,65.32,Delayed,20.999999999999993,Sunday,October
+11399,2028-10-30,Hyderabad,Electronics,15.19,Low,Clear,Partner C,1779.23,22,72.38,67.38,On Time,-5.0,Monday,October
+11400,2028-10-31,Mumbai,Clothing,22.51,Medium,Clear,Partner C,2078.98,12,77.02000000000001,90.02000000000001,Delayed,13.0,Tuesday,October
+11401,2028-11-01,Mumbai,Clothing,15.28,Medium,Cloudy,Partner A,1458.14,18,68.56,78.56,Delayed,10.0,Wednesday,November
+11402,2028-11-02,Pune,Beauty,15.01,Low,Rainy,Partner C,1846.61,11,61.019999999999996,69.02,Delayed,8.0,Thursday,November
+11403,2028-11-03,Pune,Beauty,25.31,Low,Rainy,Partner A,2171.36,25,95.62,110.62,Delayed,15.0,Friday,November
+11404,2028-11-04,Mumbai,Beauty,11.48,High,Cloudy,Partner B,3658.0,8,50.96,74.96000000000001,Delayed,24.000000000000007,Saturday,November
+11405,2028-11-05,Pune,Clothing,25.93,Low,Clear,Partner D,2655.37,21,92.86,91.86,On Time,-1.0,Sunday,November
+11406,2028-11-06,Bangalore,Grocery,12.8,Low,Cloudy,Partner B,4729.11,9,54.6,63.6,Delayed,9.0,Monday,November
+11407,2028-11-07,Chennai,Home & Kitchen,10.52,Medium,Clear,Partner B,401.03,16,57.04,67.03999999999999,Delayed,9.999999999999993,Tuesday,November
+11408,2028-11-08,Mumbai,Grocery,14.17,High,Clear,Partner A,2614.73,13,61.34,87.34,Delayed,26.0,Wednesday,November
+11409,2028-11-09,Pune,Grocery,23.11,Low,Clear,Partner C,3004.28,30,96.22,101.22,Delayed,5.0,Thursday,November
+11410,2028-11-10,Mumbai,Clothing,4.65,Medium,Clear,Partner B,4616.95,24,53.3,73.3,Delayed,20.0,Friday,November
+11411,2028-11-11,Hyderabad,Grocery,6.7,Low,Cloudy,Partner B,435.96,17,50.4,51.4,Delayed,1.0,Saturday,November
+11412,2028-11-12,Delhi,Electronics,28.59,Low,Clear,Partner B,2952.8,29,106.18,101.18,On Time,-5.0,Sunday,November
+11413,2028-11-13,Chennai,Beauty,6.09,Low,Clear,Partner C,4297.42,22,54.18,52.18,On Time,-2.0,Monday,November
+11414,2028-11-14,Mumbai,Electronics,17.46,High,Clear,Partner C,1361.25,24,78.92,101.92,Delayed,23.0,Tuesday,November
+11415,2028-11-15,Delhi,Home & Kitchen,17.8,Low,Rainy,Partner A,4406.2,13,68.6,75.6,Delayed,7.0,Wednesday,November
+11416,2028-11-16,Pune,Beauty,15.2,Low,Cloudy,Partner B,291.41,8,58.4,65.4,Delayed,7.000000000000007,Thursday,November
+11417,2028-11-17,Delhi,Grocery,19.7,Medium,Clear,Partner D,3715.78,25,84.4,91.4,Delayed,7.0,Friday,November
+11418,2028-11-18,Chennai,Home & Kitchen,7.66,High,Clear,Partner C,4678.94,12,47.32,76.32,Delayed,28.999999999999993,Saturday,November
+11419,2028-11-19,Mumbai,Beauty,17.03,Low,Clear,Partner A,3354.55,5,59.06,68.06,Delayed,9.0,Sunday,November
+11420,2028-11-20,Hyderabad,Grocery,11.79,Medium,Rainy,Partner B,2307.34,21,64.58,85.58,Delayed,21.0,Monday,November
+11421,2028-11-21,Pune,Electronics,20.19,Low,Cloudy,Partner D,415.43,29,89.38,93.38,Delayed,4.0,Tuesday,November
+11422,2028-11-22,Mumbai,Beauty,5.1,Medium,Cloudy,Partner C,4616.55,13,43.2,59.2,Delayed,16.0,Wednesday,November
+11423,2028-11-23,Chennai,Grocery,17.56,Medium,Cloudy,Partner D,2457.42,24,79.12,92.12,Delayed,13.0,Thursday,November
+11424,2028-11-24,Pune,Electronics,6.37,Medium,Clear,Partner C,339.18,17,49.74,56.74,Delayed,7.0,Friday,November
+11425,2028-11-25,Bangalore,Home & Kitchen,9.08,Medium,Rainy,Partner A,3511.14,6,44.16,73.16,Delayed,29.0,Saturday,November
+11426,2028-11-26,Delhi,Home & Kitchen,7.34,Medium,Cloudy,Partner D,2512.82,17,51.68,65.68,Delayed,14.000000000000007,Sunday,November
+11427,2028-11-27,Chennai,Home & Kitchen,6.3,Low,Clear,Partner B,796.86,13,45.6,54.6,Delayed,9.0,Monday,November
+11428,2028-11-28,Bangalore,Home & Kitchen,24.95,Medium,Clear,Partner B,1228.5,24,93.9,111.9,Delayed,18.0,Tuesday,November
+11429,2028-11-29,Mumbai,Clothing,9.29,Low,Cloudy,Partner C,509.56,10,48.58,49.58,Delayed,1.0,Wednesday,November
+11430,2028-11-30,Hyderabad,Beauty,27.89,High,Rainy,Partner B,2956.61,5,80.78,109.78,Delayed,29.0,Thursday,November
+11431,2028-12-01,Pune,Beauty,29.13,High,Clear,Partner D,3185.74,29,107.25999999999999,135.26,Delayed,28.0,Friday,December
+11432,2028-12-02,Delhi,Clothing,17.57,High,Rainy,Partner A,2627.56,9,64.14,97.14,Delayed,33.0,Saturday,December
+11433,2028-12-03,Pune,Grocery,5.15,High,Cloudy,Partner C,4122.09,7,37.3,65.3,Delayed,28.0,Sunday,December
+11434,2028-12-04,Mumbai,Grocery,11.86,Medium,Clear,Partner D,4332.84,8,51.72,66.72,Delayed,15.0,Monday,December
+11435,2028-12-05,Pune,Home & Kitchen,24.13,Medium,Clear,Partner C,3155.0,5,73.25999999999999,84.25999999999999,Delayed,11.0,Tuesday,December
+11436,2028-12-06,Delhi,Electronics,11.65,Low,Clear,Partner A,261.23,18,61.3,59.3,On Time,-2.0,Wednesday,December
+11437,2028-12-07,Mumbai,Grocery,3.52,Medium,Cloudy,Partner C,3537.1,13,40.04,59.04,Delayed,19.0,Thursday,December
+11438,2028-12-08,Pune,Electronics,17.15,Medium,Clear,Partner B,2206.4,28,82.3,93.3,Delayed,11.0,Friday,December
+11439,2028-12-09,Hyderabad,Beauty,25.51,Medium,Clear,Partner B,2914.68,8,79.02000000000001,94.02000000000001,Delayed,15.0,Saturday,December
+11440,2028-12-10,Chennai,Electronics,24.08,High,Cloudy,Partner C,3315.59,22,90.16,121.16,Delayed,31.0,Sunday,December
+11441,2028-12-11,Mumbai,Beauty,6.08,Low,Cloudy,Partner A,1881.14,18,50.16,49.16,On Time,-1.0,Monday,December
+11442,2028-12-12,Chennai,Clothing,20.51,Medium,Clear,Partner A,4602.07,29,90.02000000000001,95.02000000000001,Delayed,5.0,Tuesday,December
+11443,2028-12-13,Mumbai,Clothing,7.39,High,Clear,Partner B,843.08,8,42.78,68.78,Delayed,26.0,Wednesday,December
+11444,2028-12-14,Hyderabad,Home & Kitchen,7.33,Low,Clear,Partner A,3423.26,29,63.66,72.66,Delayed,9.0,Thursday,December
+11445,2028-12-15,Chennai,Grocery,26.35,Medium,Cloudy,Partner C,220.93,14,86.7,109.7,Delayed,23.0,Friday,December
+11446,2028-12-16,Bangalore,Home & Kitchen,8.24,High,Rainy,Partner D,4638.33,7,43.480000000000004,71.48,Delayed,28.0,Saturday,December
+11447,2028-12-17,Delhi,Beauty,8.63,Medium,Clear,Partner C,740.02,27,64.26,72.26,Delayed,8.0,Sunday,December
+11448,2028-12-18,Bangalore,Home & Kitchen,1.02,Medium,Rainy,Partner B,655.44,11,33.04,57.04,Delayed,24.0,Monday,December
+11449,2028-12-19,Pune,Electronics,26.25,Low,Cloudy,Partner B,1798.44,14,86.5,86.5,On Time,0.0,Tuesday,December
+11450,2028-12-20,Hyderabad,Beauty,23.99,Medium,Cloudy,Partner B,1993.12,17,84.97999999999999,106.97999999999999,Delayed,22.0,Wednesday,December
+11451,2028-12-21,Bangalore,Clothing,19.19,High,Cloudy,Partner A,1228.64,8,66.38,93.38,Delayed,27.0,Thursday,December
+11452,2028-12-22,Mumbai,Grocery,22.76,Medium,Clear,Partner C,3008.58,22,87.52000000000001,106.52000000000001,Delayed,19.0,Friday,December
+11453,2028-12-23,Pune,Beauty,5.41,Medium,Clear,Partner D,2325.99,15,45.82,55.82,Delayed,10.0,Saturday,December
+11454,2028-12-24,Pune,Beauty,14.29,Low,Cloudy,Partner C,364.04,29,77.58,80.58,Delayed,3.0,Sunday,December
+11455,2028-12-25,Bangalore,Electronics,11.19,Low,Cloudy,Partner D,1734.33,8,50.379999999999995,60.379999999999995,Delayed,10.0,Monday,December
+11456,2028-12-26,Bangalore,Grocery,3.72,High,Cloudy,Partner C,4090.08,28,55.44,81.44,Delayed,26.0,Tuesday,December
+11457,2028-12-27,Hyderabad,Clothing,15.1,Medium,Clear,Partner B,3510.57,18,68.2,81.2,Delayed,13.0,Wednesday,December
+11458,2028-12-28,Delhi,Beauty,27.7,Medium,Rainy,Partner D,3679.38,22,97.4,117.4,Delayed,20.0,Thursday,December
+11459,2028-12-29,Bangalore,Beauty,2.16,Low,Cloudy,Partner C,3550.96,12,36.32,42.32,Delayed,6.0,Friday,December
+11460,2028-12-30,Bangalore,Electronics,9.45,Medium,Clear,Partner A,1692.67,14,52.9,71.9,Delayed,19.000000000000007,Saturday,December
+11461,2028-12-31,Chennai,Home & Kitchen,7.02,High,Clear,Partner A,678.39,9,43.04,72.03999999999999,Delayed,28.999999999999993,Sunday,December
+11462,2029-01-01,Mumbai,Clothing,7.91,Medium,Cloudy,Partner C,1507.84,27,62.82,82.82,Delayed,19.999999999999993,Monday,January
+11463,2029-01-02,Chennai,Grocery,27.34,Low,Cloudy,Partner B,4192.57,11,85.68,98.68,Delayed,13.0,Tuesday,January
+11464,2029-01-03,Chennai,Beauty,14.57,Medium,Clear,Partner D,4906.26,16,65.14,75.14,Delayed,10.0,Wednesday,January
+11465,2029-01-04,Pune,Beauty,14.52,High,Rainy,Partner C,2570.47,29,78.03999999999999,120.03999999999999,Delayed,42.0,Thursday,January
+11466,2029-01-05,Delhi,Clothing,23.06,Medium,Clear,Partner A,246.56,7,73.12,93.12,Delayed,20.0,Friday,January
+11467,2029-01-06,Mumbai,Home & Kitchen,5.48,High,Clear,Partner D,872.22,30,60.96,76.96000000000001,Delayed,16.000000000000007,Saturday,January
+11468,2029-01-07,Hyderabad,Beauty,15.13,Medium,Rainy,Partner A,1745.99,8,58.260000000000005,84.26,Delayed,26.0,Sunday,January
+11469,2029-01-08,Hyderabad,Clothing,13.47,High,Rainy,Partner A,2977.21,14,60.94,100.94,Delayed,40.0,Monday,January
+11470,2029-01-09,Bangalore,Electronics,18.31,Medium,Cloudy,Partner C,560.45,8,64.62,82.62,Delayed,18.0,Tuesday,January
+11471,2029-01-10,Bangalore,Home & Kitchen,29.99,Low,Rainy,Partner A,4728.12,19,98.97999999999999,110.97999999999999,Delayed,12.0,Wednesday,January
+11472,2029-01-11,Hyderabad,Grocery,23.31,Medium,Clear,Partner D,1952.4,14,80.62,86.62,Delayed,6.0,Thursday,January
+11473,2029-01-12,Bangalore,Beauty,12.54,Low,Rainy,Partner B,4580.4,25,70.08,84.08,Delayed,14.0,Friday,January
+11474,2029-01-13,Delhi,Clothing,25.0,High,Clear,Partner C,3946.5,26,96.0,114.0,Delayed,18.0,Saturday,January
+11475,2029-01-14,Chennai,Electronics,5.95,High,Clear,Partner D,3826.1,20,51.9,70.9,Delayed,19.000000000000007,Sunday,January
+11476,2029-01-15,Bangalore,Grocery,1.88,Medium,Clear,Partner C,3112.25,19,42.76,54.76,Delayed,12.0,Monday,January
+11477,2029-01-16,Pune,Clothing,6.93,Medium,Clear,Partner A,3208.56,23,56.86,74.86,Delayed,18.0,Tuesday,January
+11478,2029-01-17,Bangalore,Clothing,10.87,Low,Clear,Partner A,3262.42,24,65.74,70.74,Delayed,5.0,Wednesday,January
+11479,2029-01-18,Mumbai,Grocery,15.81,High,Clear,Partner D,3217.86,23,74.62,96.62,Delayed,22.0,Thursday,January
+11480,2029-01-19,Delhi,Electronics,18.84,Medium,Clear,Partner D,2857.9,22,79.68,95.68,Delayed,16.0,Friday,January
+11481,2029-01-20,Mumbai,Electronics,27.41,Low,Clear,Partner B,4934.79,30,104.82,112.82,Delayed,8.0,Saturday,January
+11482,2029-01-21,Mumbai,Home & Kitchen,15.79,Medium,Cloudy,Partner D,3714.99,16,67.58,86.58,Delayed,19.0,Sunday,January
+11483,2029-01-22,Pune,Beauty,15.54,Low,Clear,Partner D,3929.34,29,80.08,90.08,Delayed,10.0,Monday,January
+11484,2029-01-23,Delhi,Grocery,2.46,Medium,Clear,Partner C,4387.82,20,44.92,54.92,Delayed,10.0,Tuesday,January
+11485,2029-01-24,Delhi,Grocery,2.01,Medium,Cloudy,Partner A,1235.07,5,29.02,40.019999999999996,Delayed,10.999999999999996,Wednesday,January
+11486,2029-01-25,Delhi,Grocery,16.98,Low,Rainy,Partner D,602.26,20,73.96000000000001,94.96000000000001,Delayed,21.0,Thursday,January
+11487,2029-01-26,Delhi,Electronics,13.71,High,Cloudy,Partner B,2517.89,6,53.42,71.42,Delayed,18.0,Friday,January
+11488,2029-01-27,Delhi,Beauty,25.34,Low,Clear,Partner D,2667.59,28,98.68,104.68,Delayed,6.0,Saturday,January
+11489,2029-01-28,Pune,Home & Kitchen,5.66,Low,Cloudy,Partner A,4180.07,19,50.32,54.32,Delayed,4.0,Sunday,January
+11490,2029-01-29,Bangalore,Clothing,1.72,Low,Clear,Partner D,2330.16,11,34.44,36.44,Delayed,2.0,Monday,January
+11491,2029-01-30,Mumbai,Clothing,14.02,High,Clear,Partner C,2940.09,5,53.04,76.03999999999999,Delayed,22.999999999999993,Tuesday,January
+11492,2029-01-31,Delhi,Grocery,7.89,Medium,Clear,Partner A,2729.94,9,44.78,50.78,Delayed,6.0,Wednesday,January
+11493,2029-02-01,Bangalore,Beauty,2.44,Medium,Rainy,Partner D,383.37,14,38.879999999999995,55.879999999999995,Delayed,17.0,Thursday,February
+11494,2029-02-02,Bangalore,Electronics,22.01,Low,Clear,Partner C,3153.03,26,90.02000000000001,88.02000000000001,On Time,-2.0,Friday,February
+11495,2029-02-03,Mumbai,Beauty,4.24,Low,Clear,Partner A,4174.61,25,53.480000000000004,60.480000000000004,Delayed,7.0,Saturday,February
+11496,2029-02-04,Pune,Beauty,18.64,Medium,Clear,Partner D,956.0,8,65.28,74.28,Delayed,9.0,Sunday,February
+11497,2029-02-05,Hyderabad,Electronics,9.15,High,Rainy,Partner C,3052.79,18,56.3,92.3,Delayed,36.0,Monday,February
+11498,2029-02-06,Hyderabad,Grocery,6.03,High,Cloudy,Partner B,3049.33,17,49.06,78.06,Delayed,29.0,Tuesday,February
+11499,2029-02-07,Bangalore,Beauty,12.01,Low,Clear,Partner C,988.09,5,49.019999999999996,44.019999999999996,On Time,-5.0,Wednesday,February
+11500,2029-02-08,Chennai,Clothing,24.24,Medium,Cloudy,Partner B,792.63,20,88.47999999999999,100.47999999999999,Delayed,12.0,Thursday,February
